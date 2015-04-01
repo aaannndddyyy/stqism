@@ -1,0 +1,19 @@
+[06:17:56] <_p4x1> small suggestion, I think the binaries page should have some screenshots alongside the clients' names so new users can have a better idea about what they're doing when they follow the "download tox nightlies" link
+[06:19:25] <_p4x1> also that part of the wiki is in english only, I can make a spanish translation of the text
+[06:20:10] <NikolaiToryzin> _p4x1: https://beta.tox.im will be the new way to download it in the future
+[06:31:19] <_p4x1> that's a nice site, why isn't it linked in tox.im yet?
+[06:36:12] <NikolaiToryzin> It isn't done
+[06:36:23] <NikolaiToryzin> When it is I'll make it the main site
+[06:40:18] <damo22> anyone want to try my new audio filters? it should minimise echo in qTox
+[06:40:29] <damo22> i would like to test a voice call with someone
+[06:42:52] <_p4x1> okay nikolai, I can make a neutral spanish translation when you want
+[06:44:19] <NikolaiToryzin> _p4x1: Translations section https://blog.tox.im/2015/03/18/gsoc-translations-more/#more :)
+
+
+
+[08:17:52] <_p4x1> I downloaded beta.tox.im's htm file, translated it to spanish and uploaded it here http://a.pomf.se/shqzyi.htm fucking up the links to the css in the process
+[08:20:35] *** Quits: Jfreegman (~Jfreegman@unaffiliated/jfreegman) (Ping timeout: 248 seconds)
+[08:22:36] <NikolaiToryzin> _p4x1, We don't edit the html for translations, in the blog post I linked you it had a section for the service we use for translations
+[08:22:44] <NikolaiToryzin> We do them via JS
+[08:30:12] <_p4x1> yeah I didn't like the policies of the site, I know I'm being a bitch. Meh, you'll get a more useful translator in no time. It's not like I speak some exotic language or something
+[08:34:20] *** Parts: _p4x1
