@@ -1,0 +1,25 @@
+[12:30:45] <NikolaiToryzin> The Foundation recently discovered something that might change the world as we know it <kill_switch> NikolaiToryzin, it is working
+[12:30:51] <NikolaiToryzin> wrong paste
+[12:31:05] <NikolaiToryzin> This, this is what will change the world https://blog.tox.im/2015/04/01/tox-ftl/
+[12:34:10] <itsback> APRIL FOOL
+[12:34:26] <NikolaiToryzin> itsback, We actually have a couple https://blog.tox.im
+[12:34:35] <NikolaiToryzin> Been pushing a new post every hour
+[12:34:47] <itsback> lol
+[12:34:53] <Calinou> Toxic was acquired by microsoft and ported to windows, it will soon be replacing skype.
+[12:34:55] <Calinou> uppercases please
+[12:35:00] <NikolaiToryzin> Every couple hours*
+[12:35:21] <NikolaiToryzin> Calinou, Thanks, caught irungentoo messing up his cases and fixed that a moment ago elsewhere :)
+[13:02:51] <zetok> NikolaiToryzin: … those posts are horribly broken when it comes to formatting, etc
+[13:03:17] <zetok> btw, for anyone interested: https://github.com/zetok/stqism
+[13:04:17] <NikolaiToryzin> Zet
+[13:04:28] <NikolaiToryzin> zetok: Yeah, only on small screens
+[13:04:34] <zetok> nope
+[13:04:49] <NikolaiToryzin> Pics?
+[13:05:14] <NikolaiToryzin> I have some odd issues on my authored posts on mobile but nothing on desktop across 3 browsers
+[13:05:22] <zetok> https://img.bi/#/llKSGrG!7jr21Qwy6vhgqv348wgKvhCQ3qrWDgexETBg1Nkr
+[13:06:32] <NikolaiToryzin> That's actually how I wanted it to be formatted.
+[13:07:37] <NikolaiToryzin> I wrote it like line wrapping didn't exist
+[13:10:36] <NikolaiToryzin> Quite dumb on my part though, I wrote it in a text editor without wrapping when I have a really great markdown editor installed.
+[13:12:26] <NikolaiToryzin> Problem is, I tested it in gists but githubs markdown fork horribly butchers newlines so I did the formatting and line breaks entirely be hand.
+[13:13:58] <zetok> -.-
+[13:14:12] <NikolaiToryzin> By*
