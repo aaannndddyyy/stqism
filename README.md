@@ -3,24 +3,31 @@ stqism
 
 This repository aims to provide background for stqism's actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.
 
-Entry level to view and contribute is and should remain **as low as possible**.
+====
 
-I have choosen OpenDocument format, which should allow contribution and accessibility to widest range of people, since opening and editing it is possible using [LibreOffice](https://www.libreoffice.org).
-
-To open it in simplest and quickest way:
+**To open it** in simplest and quickest way:
 
 1. Link: https://github.com/zetok/stqism/raw/master/stqism.fodt
 2. Right click → Save Link As → Save it somewhere on your disk (make sure to keep ``.fodt`` file extension)
 3. Open file with LibreOffice
 
+====
 
+Entry level to view and contribute is and should remain **as low as possible**.
+
+I have choosen OpenDocument format, which should allow contribution and accessibility to widest range of people, since opening and editing it is possible using [LibreOffice](https://www.libreoffice.org).
 
 ``.fodt`` file type, since it allows for most efficient space-wise storage and versioning using git.
 
 
 Change to current format in which informations are stored is possible in case where replacement would be equally or more easy and familiar to edit for any potential contributor. As of now I am not aware of anything that would be better, considering those conditions.
 
+====
+
 Contrubutions are welcome ``;-)``
+
+**All content but quotes is provided under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0)**
+
 
 # Contributing
 
@@ -47,7 +54,6 @@ If you want to send back changes you've made, you can do so in multiple ways:
 * Send patch or modified document to zetok at openmailbox dot org
 * other?
 
-**All content but quotes is provided under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)**
 
 ### Those who will decide to make pull request:
 * agree to the license under which document is stored
