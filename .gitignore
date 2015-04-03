@@ -1,0 +1,24 @@
+# OS files
+.Trash*
+Icon?
+ethumbs.db
+Thumbs.db
+*.tmp
+
+# Patches
+*.patch
+
+
+###########
+# Editors #
+###########
+
+# Vim
+*.swp
+
+# Kwrite
+*.*.kate-swp
+
+# LibreOffice
+.~lock.*.fodt#
+
