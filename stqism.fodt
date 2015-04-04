@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-01T14:28:07.669940301</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT3H13M38S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><meta:generator>LibreOffice/4.3.5.2.0$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="31" meta:word-count="537" meta:character-count="3411" meta:non-whitespace-character-count="2898"/></office:meta>
+ <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-04T12:06:10.457673925</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT3H52M30S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:generator>LibreOffice/4.3.5.2.0$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><meta:document-statistic meta:table-count="5" meta:image-count="1" meta:object-count="0" meta:page-count="3" meta:paragraph-count="50" meta:word-count="907" meta:character-count="5723" meta:non-whitespace-character-count="4859"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">14123</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">57318</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">36962</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18747</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34322</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17408</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">25188</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">22216</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13458</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">65319</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">14123</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">36961</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">32868</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">57318</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34320</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">74724</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">140</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">829928</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1787380</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -118,8 +118,8 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Lohit Hindi1" svg:font-family="&apos;Lohit Hindi&apos;"/>
-  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Liberation Mono1" svg:font-family="&apos;Liberation Mono&apos;" style:font-adornments="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono1" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-adornments="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Baekmuk Batang" svg:font-family="&apos;Baekmuk Batang&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -164,7 +164,7 @@
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Regular" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="9pt" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Regular" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="9pt" fo:language="zxx" fo:country="none" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
@@ -196,6 +196,9 @@
   <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
   <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
    <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="quote" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" officeooo:rsid="000ea784" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -272,7 +275,7 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="wrong_5f_tools_5f_for_5f_the_5f_job" style:display-name="wrong_tools_for_the_job" style:family="table">
-   <style:table-properties style:width="17cm" table:align="margins" style:shadow="none"/>
+   <style:table-properties style:width="17cm" table:align="margins"/>
   </style:style>
   <style:style style:name="wrong_5f_tools_5f_for_5f_the_5f_job.A" style:display-name="wrong_tools_for_the_job.A" style:family="table-column">
    <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
@@ -289,7 +292,7 @@
    <style:table-properties style:width="17cm" table:align="margins"/>
   </style:style>
   <style:style style:name="blog_5f_post_5f_broken_5f_formatting.A" style:display-name="blog_post_broken_formatting.A" style:family="table-column">
-   <style:table-column-properties style:column-width="17cm" style:rel-column-width="9638*"/>
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
   </style:style>
   <style:style style:name="blog_5f_post_5f_broken_5f_formatting.A1" style:display-name="blog_post_broken_formatting.A1" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="0.05pt solid #000000" fo:border-bottom="none"/>
@@ -297,64 +300,124 @@
   <style:style style:name="blog_5f_post_5f_broken_5f_formatting.A2" style:display-name="blog_post_broken_formatting.A2" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
+  <style:style style:name="censoring_5f_ML" style:display-name="censoring_ML" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML.A" style:display-name="censoring_ML.A" style:family="table-column">
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML.A1" style:display-name="censoring_ML.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="0.05pt solid #000000" fo:border-bottom="none"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML.A2" style:display-name="censoring_ML.A2" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="#000000" fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="censoring_5f_ML-mail" style:display-name="censoring_ML-mail" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML-mail.A" style:display-name="censoring_ML-mail.A" style:family="table-column">
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML-mail.A1" style:display-name="censoring_ML-mail.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="0.05pt solid #000000" fo:border-bottom="none"/>
+  </style:style>
+  <style:style style:name="censoring_5f_ML-mail.A2" style:display-name="censoring_ML-mail.A2" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="#000000" fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="none">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="censoring_5f_ML-mail.A3" style:display-name="censoring_ML-mail.A3" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="#000000" fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" officeooo:rsid="0000005c" officeooo:paragraph-rsid="0000005c" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="0000005c" officeooo:paragraph-rsid="0000005c" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" officeooo:rsid="000325d6" officeooo:paragraph-rsid="000325d6" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000325d6" officeooo:paragraph-rsid="000325d6" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:color="#00ff00" style:font-name="Liberation Mono" fo:font-size="8pt" officeooo:rsid="00016562" officeooo:paragraph-rsid="00016562" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000b8af5" officeooo:paragraph-rsid="000b8af5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00016562" officeooo:paragraph-rsid="00016562"/>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000c6ff8" officeooo:paragraph-rsid="000c6ff8" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00039abb" officeooo:paragraph-rsid="00039abb"/>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:color="#00ff00" style:font-name="Liberation Mono1" fo:font-size="8pt" officeooo:rsid="00016562" officeooo:paragraph-rsid="00016562" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00039abb" officeooo:paragraph-rsid="00065d8b"/>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:color="#00ff00" style:font-name="Liberation Mono1" fo:font-size="8pt" officeooo:rsid="000ca9e8" officeooo:paragraph-rsid="000ca9e8" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00076d41"/>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:color="#00ff00" fo:font-size="8pt" officeooo:rsid="001436d2" officeooo:paragraph-rsid="001436d2" fo:background-color="transparent" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00039abb"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" officeooo:rsid="000b8af5" officeooo:paragraph-rsid="000b8af5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" officeooo:rsid="000c6ff8" officeooo:paragraph-rsid="000c6ff8" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:color="#00ff00" style:font-name="Liberation Mono" fo:font-size="8pt" officeooo:rsid="000ca9e8" officeooo:paragraph-rsid="000ca9e8" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="000ca9e8" officeooo:paragraph-rsid="000ca9e8"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Footnote">
-   <style:text-properties officeooo:rsid="000ae473" officeooo:paragraph-rsid="000ae473"/>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="001436d2" officeooo:paragraph-rsid="001436d2"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00016562" officeooo:paragraph-rsid="00016562"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00039abb" officeooo:paragraph-rsid="00039abb"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00039abb" officeooo:paragraph-rsid="00065d8b"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00076d41"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00016562" officeooo:paragraph-rsid="00016562"/>
+   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00039abb"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000ae473" officeooo:paragraph-rsid="000ae473"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00039abb"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00076d41"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00039abb" officeooo:paragraph-rsid="00039abb"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000ca9e8" officeooo:paragraph-rsid="000ca9e8"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000ea784" officeooo:paragraph-rsid="000ea784"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="000ae473" officeooo:paragraph-rsid="000ae473"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000be728" officeooo:paragraph-rsid="000be728"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00123a7a"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="000ea784"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00076d41" officeooo:paragraph-rsid="00076d41"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0019ceef"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001acbb6" officeooo:paragraph-rsid="001acbb6"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001b45f4" officeooo:paragraph-rsid="001b45f4"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="001acbb6" officeooo:paragraph-rsid="001acbb6"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-size="8pt" officeooo:rsid="001acbb6" officeooo:paragraph-rsid="001acbb6" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:color="#00ff00" fo:font-size="8pt" officeooo:rsid="001acbb6" officeooo:paragraph-rsid="001acbb6" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="000be728" officeooo:paragraph-rsid="000be728"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -379,37 +442,58 @@
    <style:text-properties fo:font-style="italic" officeooo:rsid="0000005c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0004d5bc" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="000ea784" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="000a166f"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0004d5bc" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0004d5bc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="000a166f"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="000ae473"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0004d5bc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00123a7a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
+   <style:text-properties officeooo:rsid="000ae473"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ea784" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="000c6ff8"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="000b8af5"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="000c6ff8"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
    <style:text-properties officeooo:rsid="000ca9e8"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="000ea784"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="00104577"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="00123a7a"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="00157273"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -435,14 +519,14 @@
    </text:sequence-decls>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P4">This document aims to <text:span text:style-name="T2">show and provide background for stqism&apos;s</text:span><text:span text:style-name="T2"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-       <text:p text:style-name="P13">Otherwise known as <text:span text:style-name="T12">NikolaiToryzin, AlexStraunoff</text:span><text:span text:style-name="T14">. Common abbreviation: </text:span><text:span text:style-name="T13">stq</text:span><text:span text:style-name="T14"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P15">Events are sorted in ~chronological order. <text:span text:style-name="T15">Not whole quote content is included in this document, due to <text:s/>being irrelevant. For full background, look in </text:span><text:span text:style-name="T16">background</text:span><text:span text:style-name="T15"> directory.</text:span></text:p>
+   <text:p text:style-name="P10">This document aims to <text:span text:style-name="T2">show and provide background for </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T2">&apos;s</text:span><text:span text:style-name="T2"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+       <text:p text:style-name="P18">Otherwise known as <text:span text:style-name="T14">NikolaiToryzin, AlexStraunoff, </text:span><text:span text:style-name="T15">sqt</text:span><text:span text:style-name="T17">. Common abbreviation: </text:span><text:span text:style-name="T16">stq</text:span><text:span text:style-name="T17"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P15">Events are sorted in ~chronological order. <text:span text:style-name="T18">Not whole quote content is included in this document, due to <text:s/>being irrelevant. For full background, look in </text:span><text:span text:style-name="T19">background</text:span><text:span text:style-name="T18"> directory.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:h text:style-name="P20" text:outline-level="1">Insisting on using Transifex</text:h>
-   <text:p text:style-name="Standard">* <text:span text:style-name="T9">stqism</text:span> <text:span text:style-name="T1">insists on using translation service (Transifex), instead of allowing people to make pull requests through Github </text:span><text:span text:style-name="T7">like it was possible before</text:span><text:span text:style-name="T1">. Zetok and SylvieLorxu clearly have stated that this service will not be used by them to translate Tox website. Later on, it seemed like potential contributor went away due to this very reason:</text:span></text:p>
+   <text:h text:style-name="P19" text:outline-level="1">Insisting on using Transifex</text:h>
+   <text:p text:style-name="Standard">* <text:span text:style-name="quote">stqism</text:span> <text:span text:style-name="T1">insists on using translation service (Transifex), instead of allowing people to make pull requests through Github </text:span><text:span text:style-name="T7">like it was possible before</text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="quote">Zetok</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="quote">SylvieLorxu</text:span><text:span text:style-name="T1"> clearly have stated that this service will not be used by them to translate Tox website. Later on, it seemed like potential contributor went away due to this very reason:</text:span></text:p>
    <table:table table:name="insisting_on_transifex" table:style-name="insisting_5f_on_5f_transifex">
     <table:table-column table:style-name="insisting_5f_on_5f_transifex.A"/>
     <table:table-row>
@@ -456,47 +540,47 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="insisting_5f_on_5f_transifex.A2" office:value-type="string">
-      <text:p text:style-name="P3">2015-04-01, IRC, #tox-dev @ freenode</text:p>
+      <text:p text:style-name="P5">2015-04-01, IRC, #tox-dev @ freenode</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P6">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T10">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T5">blog post</text:span><text:span text:style-name="T4"> is the place where potential contributor can find informations about how to contribute.</text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="T6"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Blog post</text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T8">instead of information clearly organized in one place, in a way that would allow potential contributor to not only find relevant informations on it quickly, but also they should be exposed to it in transparent manner when they would look for information on how to contribute.</text:span></text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5"/>
-   <text:h text:style-name="P20" text:outline-level="1">Using wrong tools <text:span text:style-name="T18">and</text:span> broken formatting on <text:span text:style-name="T17">Tox</text:span> blog</text:h>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P8">* <text:span text:style-name="T11">stqism uses wrong tools for the job, which results in broken formatting of posts on Tox blog. What is more important, those broken posts are kept on blog. ~ state @ 2015-04-01 13:28</text:span></text:p>
-   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P12">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T11">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T5">blog post</text:span><text:span text:style-name="T4"> is the place where potential contributor can find informations about how to contribute.</text:span></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"><text:span text:style-name="T6"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Blog post</text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T9">instead of information clearly organized in one place, in a way that would allow potential contributor to not only find relevant informations on it quickly, but also they should be exposed to it in transparent manner when they would look for information on how to contribute.</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:h text:style-name="P19" text:outline-level="1">Using wrong tools <text:span text:style-name="T21">and</text:span> broken formatting on <text:span text:style-name="T20">Tox</text:span> blog</text:h>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P14">* <text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T13"> uses wrong tools for the job, which results in broken formatting of posts on Tox blog. What is more important, those broken posts are kept on blog. ~ state @ 2015-04-01 13:28</text:span></text:p>
+   <text:p text:style-name="P14"/>
    <table:table table:name="wrong_tools_for_the_job" table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job">
     <table:table-column table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job.A"/>
     <table:table-row>
      <table:table-cell table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job.A1" office:value-type="string">
-      <text:p text:style-name="P9">[13:02:51] &lt;zetok&gt; NikolaiToryzin: … those posts are horribly broken when it comes to formatting, etc</text:p>
-      <text:p text:style-name="P9">[13:04:28] &lt;NikolaiToryzin&gt; zetok: Yeah, only on small screens</text:p>
-      <text:p text:style-name="P10">[13:04:34] &lt;zetok&gt; nope</text:p>
-      <text:p text:style-name="P10">[13:04:49] &lt;NikolaiToryzin&gt; Pics?</text:p>
-      <text:p text:style-name="P10">[13:05:14] &lt;NikolaiToryzin&gt; I have some odd issues on my authored posts on mobile but nothing on desktop across 3 browsers</text:p>
-      <text:p text:style-name="P10">[13:05:22] &lt;zetok&gt; https://img.bi/#/llKSGrG!7jr21Qwy6vhgqv348wgKvhCQ3qrWDgexETBg1Nkr</text:p>
-      <text:p text:style-name="P10">[13:06:32] &lt;NikolaiToryzin&gt; That&apos;s actually how I wanted it to be formatted.</text:p>
-      <text:p text:style-name="P10">[13:07:37] &lt;NikolaiToryzin&gt; I wrote it like line wrapping didn&apos;t exist</text:p>
-      <text:p text:style-name="P10">[13:10:36] &lt;NikolaiToryzin&gt; Quite dumb on my part though, I wrote it in a text editor <text:soft-page-break/>without wrapping when I have a really great markdown editor installed.</text:p>
-      <text:p text:style-name="P10">[13:12:26] &lt;NikolaiToryzin&gt; Problem is, I tested it in gists but githubs markdown fork horribly butchers newlines so I did the formatting and line breaks entirely be hand.</text:p>
-      <text:p text:style-name="P10">[13:13:58] &lt;zetok&gt; -.-</text:p>
-      <text:p text:style-name="P10">[13:14:12] &lt;NikolaiToryzin&gt; By*</text:p>
+      <text:p text:style-name="P3">[13:02:51] &lt;zetok&gt; NikolaiToryzin: … those posts are horribly broken when it comes to formatting, etc</text:p>
+      <text:p text:style-name="P3">[13:04:28] &lt;NikolaiToryzin&gt; zetok: Yeah, only on small screens</text:p>
+      <text:p text:style-name="P4">[13:04:34] &lt;zetok&gt; nope</text:p>
+      <text:p text:style-name="P4">[13:04:49] &lt;NikolaiToryzin&gt; Pics?</text:p>
+      <text:p text:style-name="P4">[13:05:14] &lt;NikolaiToryzin&gt; I have some odd issues on my authored posts on mobile but nothing on desktop across 3 browsers</text:p>
+      <text:p text:style-name="P4">[13:05:22] &lt;zetok&gt; https://img.bi/#/llKSGrG!7jr21Qwy6vhgqv348wgKvhCQ3qrWDgexETBg1Nkr</text:p>
+      <text:p text:style-name="P4">[13:06:32] &lt;NikolaiToryzin&gt; That&apos;s actually how I wanted it to be formatted.</text:p>
+      <text:p text:style-name="P4">[13:07:37] &lt;NikolaiToryzin&gt; I wrote it like line wrapping didn&apos;t exist</text:p>
+      <text:p text:style-name="P4">[13:10:36] &lt;NikolaiToryzin&gt; Quite dumb on my part though, I wrote it in a text editor <text:soft-page-break/>without wrapping when I have a really great markdown editor installed.</text:p>
+      <text:p text:style-name="P4">[13:12:26] &lt;NikolaiToryzin&gt; Problem is, I tested it in gists but githubs markdown fork horribly butchers newlines so I did the formatting and line breaks entirely be hand.</text:p>
+      <text:p text:style-name="P4">[13:13:58] &lt;zetok&gt; -.-</text:p>
+      <text:p text:style-name="P4">[13:14:12] &lt;NikolaiToryzin&gt; By*</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job.A2" office:value-type="string">
-      <text:p text:style-name="P11">2015-04-01, IRC, #tox @ freenode</text:p>
+      <text:p text:style-name="P6">2015-04-01, IRC, #tox @ freenode</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P19">Broken blog post formatting from link (link content will be deleted after 6 months):</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P16">Broken blog post formatting from link (link content will be deleted after 6 months):</text:p>
    <table:table table:name="blog_post_broken_formatting" table:style-name="blog_5f_post_5f_broken_5f_formatting">
     <table:table-column table:style-name="blog_5f_post_5f_broken_5f_formatting.A"/>
     <table:table-row>
@@ -2270,16 +2354,64 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="blog_5f_post_5f_broken_5f_formatting.A2" office:value-type="string">
-      <text:p text:style-name="P12">To open outside of LibreOffice: Righ-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
+      <text:p text:style-name="P8">To open outside of LibreOffice: Righ-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Rash actions due to not checking claims → proposing censorship</text:h>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T25">There are only 2 mailing lists; &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T22">&quot; and &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T22">&quot;. Since polluting &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="quote"><text:span text:style-name="T23">&quot;</text:span></text:span> <text:span text:style-name="T23">mailing list with things that are not strictly related to technical development of Tox is far from good, discussion took place on &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T24">&quot; mailing list. One of developers has mistaken &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T24">&quot; list with &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T24">&quot;, and wrote an email in which he said that particular conversation doesn&apos;t belong in </text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T24"> mailing list.</text:span></text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T12">Instead of checking whether those claims are accurate,</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T12">rashly acted upon seeing that message</text:span><text:span text:style-name="T24">, and proposed on IRC censoring mailing list as (in his opinion) </text:span><text:span text:style-name="T8">a valid </text:span><text:span text:style-name="T22">solution to something which he perceived as a problem, instead of addressing a real problem, which is missing mailing lists for separate purposes. In a process of doing so, he managed to momentarily scare potential contributor into thinking that it was his email that caused this proposal (no real harm done in the end, and potential contributor was assured that what he wrote is more than welcomed).</text:span></text:p>
+   <text:p text:style-name="P24">Relevant part of mail to mailing list:</text:p>
+   <table:table table:name="censoring_ML-mail" table:style-name="censoring_5f_ML-mail">
+    <table:table-column table:style-name="censoring_5f_ML-mail.A"/>
+    <table:table-row>
+     <table:table-cell table:style-name="censoring_5f_ML-mail.A1" office:value-type="string">
+      <text:p text:style-name="P26">But either way, this isn&apos;t development content. I&apos;m close to filtering y&apos;all to spam. <text:soft-page-break/>Please don&apos;t make me do that!</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="censoring_5f_ML-mail.A2" office:value-type="string">
+      <text:p text:style-name="P27">https://lists.tox.im/pipermail/general/2015-April/000017.html</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="censoring_5f_ML-mail.A3" office:value-type="string">
+      <text:p text:style-name="P28">2015-04-03, Tox &quot;General&quot; mailing list</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P25">Censorship proposal on IRC:</text:p>
+   <table:table table:name="censoring_ML" table:style-name="censoring_5f_ML">
+    <table:table-column table:style-name="censoring_5f_ML.A"/>
+    <table:table-row>
+     <table:table-cell table:style-name="censoring_5f_ML.A1" office:value-type="string">
+      <text:p text:style-name="P9">[21:36:08] &lt;sqt&gt; grayhatter: If the off topic chatter is too much just let me know and I can block them for a day or two</text:p>
+      <text:p text:style-name="P9">[21:36:32] &lt;sqt&gt; I don&apos;t usually pay attention to the lists, but I noticed you make that remark.</text:p>
+      <text:p text:style-name="P9">[21:37:23] &lt;myroslav&gt; sqt: Is that about my DHT email?</text:p>
+      <text:p text:style-name="P9">[21:37:31] &lt;sqt&gt; myroslav: No.</text:p>
+      <text:p text:style-name="P9">[21:38:11] &lt;grayhatter&gt; myroslav: no, that email is actually perfect for dev@list</text:p>
+      <text:p text:style-name="P9">[21:38:55] &lt;grayhatter&gt; sqt: it&apos;s actually not that bad, but the list is still young and emails like that are going to kill it before it get&apos;s it&apos;s legs</text:p>
+      <text:p text:style-name="P9">[21:42:04] &lt;sqt&gt; grayhatter: Well, it&apos;s still just a probationary trial at this stage.</text:p>
+      <text:p text:style-name="P9">[21:42:26] &lt;sqt&gt; We&apos;re really just waiting to see if it ever becomes properly useful</text:p>
+      <text:p text:style-name="P9">[21:42:54] &lt;grayhatter&gt; sqt: it needs to be, IRC is great and all but everyone has different times to worry about</text:p>
+      <text:p text:style-name="P9">[21:45:13] &lt;sqt&gt; grayhatter: This is something being evaluated and tested, though I&apos;ve heard that github fufils that niche.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="censoring_5f_ML.A2" office:value-type="string">
+      <text:p text:style-name="P7">2015-04-03, IRC, #tox-dev @ freenode</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P13"/>
   </office:text>
  </office:body>
 </office:document>

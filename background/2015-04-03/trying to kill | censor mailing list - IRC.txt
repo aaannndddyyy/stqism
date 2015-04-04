@@ -1,0 +1,10 @@
+[21:36:08] <sqt> grayhatter: If the off topic chatter is too much just let me know and I can block them for a day or two
+[21:36:32] <sqt> I don't usually pay attention to the lists, but I noticed you make that remark.
+[21:37:23] <myroslav> sqt: Is that about my DHT email?
+[21:37:31] <sqt> myroslav: No.
+[21:38:11] <grayhatter> myroslav: no, that email is actually perfect for dev@list
+[21:38:55] <grayhatter> sqt: it's actually not that bad, but the list is still young and emails like that are going to kill it before it get's it's legs
+[21:42:04] <sqt> grayhatter: Well, it's still just a probationary trial at this stage.
+[21:42:26] <sqt> We're really just waiting to see if it ever becomes properly useful
+[21:42:54] <grayhatter> sqt: it needs to be, IRC is great and all but everyone has different times to worry about
+[21:45:13] <sqt> grayhatter: This is something being evaluated and tested, though I've heard that github fufils that niche.
