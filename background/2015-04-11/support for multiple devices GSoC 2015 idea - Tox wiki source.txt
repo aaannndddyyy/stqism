@@ -1,0 +1,12 @@
+===Multiple device support===
+
+'''Brief explanation''': Toxcore currently suffers from a number of serious issues when 2 Tox objects are used at once on the distributed network. Your task would be to research and implement secure ways of sharing data like secret keys, friends, and chats while making toxcore deal with the same peer having presence in multiple locations seamlessly.
+
+'''Expected results''':
+* Research ways of securely trading private data with peers (or whatever way of sharing identities you may have)
+* Implement a way of ensuring a peer can seamlessly appear in multiple locations without issue.
+* Implement a way of sharing data like friends and chat logs between either the same peer or multiple peers. (Based on step 1)
+
+'''Difficulty''': Medium
+
+'''Mentor''': [[User:irungentoo|irungentoo]]

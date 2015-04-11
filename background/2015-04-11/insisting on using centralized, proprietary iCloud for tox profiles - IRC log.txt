@@ -1,0 +1,235 @@
+2015-04-11, IRC, #tox @ freenode
+
+[20:06:17] <Sqt> Is anyone here using OS X?
+[20:07:02] <Sqt> Doing a quick pilot test of multi-device syncing and it only works on OS X/iOS because of how I'm doing this
+[20:29:12] <tssx> what are those micro disconnects when transporting files? transfer is stalling, disconnects then reconnects and continues. This was even with the old api
+[20:30:51] <zetok> hmm, I think that it was supposed to be fixed
+[20:31:31] <zetok> tssx: what kind of connection; have you turned UDP off? ; is there something special about your connection?
+[20:31:59] <tssx> micro disconnect i mean that user who i transport goes offline for second and comes back
+[20:32:07] <zetok> Yes.
+[20:32:14] <tssx> no this even happens in LAN
+[20:32:54] <Sqt> If you want a copy of qTox with my multi device syncing test shoot me an email, sean@tox.im
+[20:33:49] <Calinou> why not publish it?
+[20:33:54] <Calinou> default to OPEN
+[20:34:05] <Calinou> as said here http://tinyurl.com/default-open
+[20:34:19] <Sqt> Calinou: This is a very experimental test that only works on OS X
+[20:34:31] <Sqt> Also, I can't get things merged in the qTox source
+[20:36:19] <installgen2> Sqt: "only works on OS X" fuck you too
+[20:37:35] <Sqt> installgen2: It depends heavily on a lot of OS X specific quirks because I don't actually use Windows and Linux doesn't give me any cloud features to hijack
+[20:38:42] <installgen2> Sqt: if we want it to work properly you should actually make device syncing properly rather than just stupid platform dependent hacks
+[20:39:25] <zetok> it's not even platform-depended, but proprietary icloud-dependent
+[20:40:04] <installgen2> >TOX is floss
+[20:40:06] <installgen2> >check deps
+[20:40:08] <installgen2> >icloid
+[20:40:10] <Sqt> installgen2: One takes a lot of research and work to figure out, the other makes my life a hell of a lot easier by encrypting data and hijacking things
+[20:41:06] <zetok> * the other is a waste of time
+[20:41:15] <Sqt> You don't even depend on any iCloud specific libraries or things either, it just works
+[20:42:16] <Sqt> It just means I could buy a Mac 10 years later and install qTox and I'll magically have access to my full profile with logs and everything good to go
+[20:42:30] <Sqt> Totally user choice and encrypted
+[20:42:49] <installgen2> any second now, tox will depend entirely on iCloud
+[20:43:28] <Sqt> Stop trying to spread FUD
+[20:43:59] <zetok> Sqt: as long as it's platform-depended you're wasting time
+[20:44:34] <Sqt> Actually it works really well for people using multiple Apple computers
+[20:44:40] <Sqt> Or people who reset them
+[20:46:17] <installgen2> TOX, iCloud dependent proprietary OSX-only un-encrypted centralized chat
+[20:46:27] <installgen2> I give it 7 months
+[20:46:41] <Calinou> people should never sync to iCloud
+[20:46:44] <Calinou> we should not recommend doing this
+[20:46:58] <zetok> Calinou: it's only stq who does that
+[20:47:07] <zetok> hopefully he won't backdoor official binaries
+[20:47:18] <Encrypt> Hi! o/
+[20:47:19] <Encrypt> When will clients be updated again? :D
+[20:47:36] <zetok> Encrypt: when qTox will be ported to new API
+[20:47:48] <Encrypt> Do you know the progress?
+[20:47:51] <Sqt> I see no problems with taking advantage of existing cloud infrastructure baked in OSes to store encrypted data if the user chooses
+[20:48:11] <installgen2> Sqt confirmed for botnet shill
+[20:48:51] <installgen2> including iCloud integration in what is supposed to be a super free chat client is stupid
+[20:48:54] <zetok> Sqt: what existing infrastructure? AFAIK there's no proper publicly available FLOSS cloud infrastructure
+[20:48:57] <Sqt> If we don't give people the choice to do so securely they'll store unencrypted profiles on dropbox
+[20:49:09] <Sqt> And gmail
+[20:49:27] <installgen2> Sqt: why don't we... I dunno, set it up properly?
+[20:49:32] <zetok> ↑
+[20:49:35] <zetok> do it properly
+[20:49:41] <zetok> then it won't be a problem
+[20:49:44] <Sqt> Why don't you research that?
+[20:49:55] <zetok> I ?
+[20:50:09] <Sqt> Why don't we just get hired by the NSA and stop spying?
+[20:50:45] <Sqt> One will stop people from making the worst possible choice and the other will take years at this rate
+[20:51:03] <installgen2> using iCloud IS the worst possible choice
+[20:51:28] <installgen2> and can it not be some GSoC project to add multi-device sync or however it works
+[20:52:08] <Sqt> Storing encrypted data on iCloud vs unecrypted profiles on dropbox like people are currently doing
+[20:52:14] <Sqt> Take your pick
+[20:53:01] <Sqt> Multi device syncing is a lot of research and work that's a while out
+[20:53:06] <installgen2> >"hey tox user, you wanna sync over multiple devices? do you love freedom and normally doing in free ways? well fuck you sir, I reccomend you use iCloud (trust me, it's encrypted)"
+[20:53:23] <Sqt> We encrypt in client
+[20:53:32] <Encrypt> Yep :]
+[20:53:36] <Sqt> It's a choice regardless
+[20:53:42] <Calinou> <@zetok> Sqt: what existing infrastructure? AFAIK there's no proper publicly available FLOSS cloud infrastructure
+[20:53:44] <Calinou> seacloud.cc
+[20:53:49] <Calinou> openmailbox.org
+[20:54:03] <installgen2> you don't HAVE to let google on your phone know where you work, you can always leave your phone at home :)
+[20:54:37] <installgen2> your choice :^)
+[20:55:05] <Sqt> We're giving people who would already use dropbox to sync a choice to do so in an encrypted way
+[20:55:13] <zetok> Calinou: it doesn't have distributed/decentralized infrastructure, from what I see
+[20:55:14] <installgen2> TOX looooves freedom, but we also love iiiiiiclouuuuuuud
+[20:55:15] <Sqt> If you don't want to use it you don't actually ha t to
+[20:55:22] <tssx> i feel the chill of 4chan
+[20:55:23] <Sqt> Have*
+[20:55:54] <zetok> tssx: ?
+[20:55:58] <installgen2> TOX recommends iCloud, the ultimate sync tool :^)
+[20:56:52] <Sqt> Let's get this straight
+[20:57:06] <Sqt> People are already sending Tox profiles via email, dropbox, etc
+[20:57:10] <Sqt> We can't stop that
+[20:57:34] <Sqt> Totally unencrypted to 3rd parties, I've met people doing just this even if you're not
+[20:57:43] <installgen2> Sqt: I understand the problem, but by adding support for iCloud syncing, secure or not, is "recommending" iCloud
+[20:58:22] <Sqt> installgen2: It's not recommending, it's giving the choice
+[20:58:23] <zetok> Sqt: problem is that 1. there's no proper sync; 2. encryption of profiles isn't mandatory
+[20:58:36] <Sqt> zetok: It is if you enable this feature
+[20:58:40] <zetok> if it's included in Tox, it's recommended
+[20:58:55] <Sqt> Encryption is totally required if you use cloud based syncing
+[20:59:15] <installgen2> Sqt: Yes, I agree
+[20:59:36] <irungentoo> Sqt, why don't you fix qTox on the new api instead?
+[20:59:46] <zetok> Sqt: the kind of encryption that can be turned off on any event?
+[21:00:24] <Sqt> zetok: Of course
+[21:00:42] <zetok> so why are you recommending to use it with any cloud?
+[21:00:52] <zetok> and what is worse, cloud of US-based company?
+[21:00:56] <Sqt> irungentoo: bunslow is mostly done, it would be a waste to reinvent the wheel
+[21:01:14] <zetok> isn't bunslow like ded?
+[21:01:26] <Sqt> zetok: It's iCloud on OS X because it doesn't require any other features or apis or libraries
+[21:01:30] <SylvieLorxu> Sqt: Is he? There have been no commits in 4 days and the last one contained a cry for help
+[21:01:40] <Sqt> I'm taking advantage of systems baked in to the OS
+[21:01:45] <zetok> Sqt: so?
+[21:02:02] <Sqt> SylvieLorxu: I've spoken to him, haven't watched his progress too closely. Been away for a few days
+[21:02:12] <Sqt> Might give him a call though
+[21:02:18] <zetok> you're not taking advantage of anything; if something, you're introducing another way that users can give up their keypairs
+[21:02:40] <Sqt> zetok: This only appeals to people already syncing an unencrypted profile
+[21:02:50] <zetok> nope
+[21:02:54] <Sqt> It doesn't appeal to you and that's totally okay
+[21:02:55] <zetok> this appeals to what you're doing
+[21:03:30] <Sqt> This is targeted at the real people emailing themselves totally unencrypted Tox profiles
+[21:03:39] <Sqt> They exist and are very real
+[21:03:47] <zetok> solution: make encryption mandatory
+[21:04:01] <Sqt> I know someone who uses dropbox in some hackish way with links
+[21:04:01] <installgen2> Sqt: yes, and your solution causes many more problems
+[21:04:12] <Sqt> Actually it fixes a lot more issues
+[21:04:41] <installgen2> Sqt: such as all those stupid freetards avoiding iCloud, yeah, fuck them, lets recommend this shit
+[21:04:42] <Sqt> The issue is people are syncing IDs with random services totally unencrypted in hackish ways
+[21:04:56] <Sqt> installgen2: You'll observe it's optional
+[21:05:29] <zetok> Sqt: ><zetok> solution: make encryption mandatory
+[21:05:33] <Sqt> So the solution? Give people a proper way of doing so while ensuring it's encrypted
+[21:05:36] <installgen2> Sqt: including effectivly results in recommending
+[21:05:45] <Sqt> zetok: Not everyone wants that for normal profiles
+[21:05:55] <zetok> Sqt: except that you can't ensure that it's encrypted
+[21:06:01] <Sqt> installgen2: I'd have to recommend iCloud on OS X
+[21:06:11] <Sqt> zetok: I can with client specific syncing
+[21:06:18] <zetok> nope
+[21:06:24] <Sqt> As I'd have to recommend one drive on Windows 8+
+[21:06:26] <zetok> encryption in qTox is not reliable
+[21:06:32] <SylvieLorxu> I still think it's a bad idea
+[21:06:40] <installgen2> I say baaaad idea
+[21:06:43] <zetok> SylvieLorxu: it is a bad idea
+[21:06:44] <SylvieLorxu> Simply because we shouldn't even tell people they should use more that one device
+[21:06:47] <Sqt> zetok: I can require that check box to be checked before letting that one be checked
+[21:06:53] <SylvieLorxu> Don't forget that Tox basically dies if they use it at 2 devices at once
+[21:07:00] <zetok> Sqt: hint: that checkbox doesn't work
+[21:07:05] <SylvieLorxu> If we help these people here, they'll ruin everything at the next step
+[21:07:06] <Sqt> zetok: Fix it
+[21:07:11] <zetok> Sqt: can't
+[21:07:43] <installgen2> Sqt: not only does everyone disagree with you, but you know this will result in the next "sqt is turning TOX into botnet" right?
+[21:07:45] <zetok> Sqt: turning encryption off may be made possible
+[21:08:00] <zetok> Sqt: thing is to have sane (i.e. encryption on) defaults
+[21:08:21] <Sqt> zetok: that's up to users to decide unless synced
+[21:08:27] <zetok> …
+[21:08:47] <zetok> Sqt: so you just know, *no one* agrees with you on that.
+[21:08:54] <zetok> (if you're not aware)
+[21:08:58] <Sqt> installgen2: The people who are here disagreeing aren't the one's who are the issue that's being fixed
+[21:09:27] <Sqt> You're not part of the problem but you're commenting like you are
+[21:09:47] <zetok> no, stq, you are creating a problem
+[21:09:55] <installgen2> Sqt: you partially solve one problem and create many more
+[21:09:57] <zetok> I merely hope that avoiding it will be possible
+[21:10:07] <Sqt> Okay zetok, let's all email unencrypted profiles
+[21:10:14] <Sqt> That's a good idea
+[21:10:19] <installgen2> Sqt: I don't think anyone is suggesting that
+[21:10:22] <zetok> I've stated what is a good idea.
+[21:10:24] <Sqt> Let's shove them on box and dropbox too
+[21:10:33] <Sqt> installgen2: People do that currently
+[21:10:42] <Sqt> People are litterally doing that as we speak
+[21:10:50] <zetok> Sqt: are you able to read?
+[21:10:58] <installgen2> Sqt: what the fuck is your point
+[21:11:13] <Sqt> zetok: You're suggesting we just do a fucking massive engineering problem in 10 minutes
+[21:11:24] <SylvieLorxu> Sqt: Better idea: Add a huge warning to qTox' export feature
+[21:11:35] <SylvieLorxu> Because even if people can sync securily, they'll mess up
+[21:11:36] <Sqt> installgen2: that's who this is for
+[21:11:38] <SylvieLorxu> Because multi-device is broken
+[21:11:54] <Sqt> This isn't targeted at you
+[21:11:56] <installgen2> I agree with SylvieLorxu
+[21:12:02] <installgen2> Sqt: stop fucking repeating yourself
+[21:12:06] <SylvieLorxu> If we simplify secure syncing, we lure them right into using it with more than 1 device
+[21:12:16] <Sqt> They already do
+[21:12:23] <Sqt> You're not stopping anyone
+[21:12:32] <SylvieLorxu> We're making more people fall into that
+[21:12:40] <Sqt> They do just fine
+[21:12:42] <installgen2> Sqt: add a warning to exporting, and make it suggested and highly recommended to encrypt profiles. simple.
+[21:13:32] <SylvieLorxu> The idea of cloud syncing would be okay if Tox actually worked well on more than 1 device at a time
+[21:13:38] <Sqt> People want to sync and backup profiles, and they do so currently totally insecurely
+[21:13:39] <SylvieLorxu> Right now, I only see it causing more problems
+[21:13:48] <Sqt> SylvieLorxu: Think backups
+[21:14:11] <SylvieLorxu> Sqt: What about requiring crypto to be on the moment they click "export"?
+[21:14:20] <Sqt> That's dumb
+[21:14:27] <SylvieLorxu> No, stop that
+[21:14:41] <installgen2> it creates more botnet and centralization, it creates more "tox is kil", it creates more confused people on two devices are once, what is good about iCloud sync other than what you've said 50 times now
+[21:14:44] <SylvieLorxu> You don't even know what I am thinking of
+[21:14:52] <SylvieLorxu> The idea is not to make people go through settings
+[21:15:11] <SylvieLorxu> The idea is to tell people to choose an encryption password for that one copy
+[21:15:15] <Sqt> I know what you're thinking SylvieLorxu
+[21:15:27] <SylvieLorxu> Like, add a step of choosing a password to exporting
+[21:15:29] <SylvieLorxu> And done
+[21:15:30] <Sqt> Not everyone wants that though
+[21:15:36] <amdg> why have i been getting these strange file transfer messages in µTox and Antox?
+[21:15:37] <installgen2> Sqt: who wouldn't
+[21:15:48] <SylvieLorxu> They're going to have to do it anyway for your "secure cloud syncing" idea
+[21:15:53] <amdg> i'm not sending or receiving files, yet i get these messages
+[21:16:08] <amdg> one time it was a 4 GB file of gibberish…
+[21:16:08] <SylvieLorxu> amdg: API incompatibility
+[21:16:14] <Sqt> Plenty of folks who need to move profiles to non encrypted supporting places
+[21:16:26] <SylvieLorxu> Some clients use the new toxcore API, some are still on the old, and they're not completely compatible
+[21:16:32] <grayhatter> amdg: because your friend/s are on the new version of µTox while you're on the old one
+[21:16:37] <SylvieLorxu> Sqt: What does that even mean?
+[21:16:43] <installgen2> add a "yes I am certian I want NSA to be watching me" button for people that do
+[21:16:58] <grayhatter> installgen2: don't be dumb
+[21:17:00] <amdg> SylvieLorxu: yes, it has only occured with Antox → µTox or µTox → qTox
+[21:17:00] <SylvieLorxu> How does the place even know if it's encrypted?
+[21:17:34] <zetok> grayhatter: he's not being 'dumb', that's what stq is proposing
+[21:17:38] <installgen2> I mean, on profile exporting, it should promt for a password, but have a giant warning and an option to export unencrypted
+[21:18:09] <amdg> well, I have µTox 0.2.p and Antox 0.15.84. those use different APIs?
+[21:18:20] <Sqt> SylvieLorxu: You can't use an encrypted profile on a place without support
+[21:18:31] <SylvieLorxu> Sqt: What is a "place without support"?
+[21:18:33] <installgen2> Sqt: what is wrong with what I suggested
+[21:18:53] <irungentoo> amdg, uTox 0.2.p is on the new api/protocol
+[21:18:54] <SylvieLorxu> Also, in that case your "secure cloud storage" idea is moot too
+[21:18:55] <Sqt> SylvieLorxu: Perhaps clients, special tools, etc
+[21:19:07] <SylvieLorxu> You need to encrypt it before you store it in the cloud
+[21:19:14] <Sqt> SylvieLorxu: It's just a fuckton harder to do
+[21:19:33] <SylvieLorxu> Fuckton harder? 10 lines of code or so, probably?
+[21:19:53] <Sqt> By not using existing systems built in to the OS like that you've increased the complexity for users a bunch
+[21:19:54] <grayhatter> zetok: adding support for iCloud syncing is not == let the NSA watch me
+[21:20:12] <installgen2> grayhatter: not even what i was talking about
+[21:20:22] <zetok> grayhatter: it is when you're putting there your unencrypted keypair
+[21:20:24] <SylvieLorxu> Sqt: Can't users just hit export and save it in an iCloud directory?
+[21:20:26] <grayhatter> unencrypted profiles
+[21:20:46] <zetok> grayhatter: since this *is* going to happen, since currently encryption is in bad shape
+[21:20:55] <Sqt> SylvieLorxu: That's a bit of a pain because you have to jump around importing/exporting between places
+[21:21:26] <grayhatter> what are you worried about, the NSA compelling iCould to turn over .tox files?
+[21:21:33] <amdg> irungentoo: ok thanks
+[21:21:48] <SylvieLorxu> Sqt: I just don't get your reasoning. If you want your "secure cloud storage" thing, you need to encrypt the profile, and that means asking the user for a password
+[21:22:15] <Sqt> SylvieLorxu: That's why I'm making it so
+[21:22:37] <SylvieLorxu> ...I don't get you at all
+[21:22:44] <Sqt> SylvieLorxu: the entirety of syncing: click a checkbox, hit accept on the warnings, enter a password to encrypt your data
+[21:23:13] <SylvieLorxu> I think you're missing something
+[21:23:47] <SylvieLorxu> We're talking about the users that export unencrypted and then mail. Obviously, the transport model they choose doesn't matter, and we just need to ensure they encrypt before exporting
+[21:23:53] <installgen2> Sqt: I don't get it, if you have to enter a password to sync with iCloud, then why not just make a password when you export with an option to export unencrypted with a huge warning
+[21:24:11] <SylvieLorxu> I feel that making syncing easier while multi-device doesn't even work is asking for trouble
+[21:24:33] <Sqt> SylvieLorxu: one of the biggest perks is the backup
+[21:26:34] <SylvieLorxu> Sqt: The only thing we need to fix is the fact that people export unencrypted copies
+[21:26:51] <SylvieLorxu> Anything else is leading users into starting a multi-device setup that won't even work
+[21:26:51] <Sqt> Brb
