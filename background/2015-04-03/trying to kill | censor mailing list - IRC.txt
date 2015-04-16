@@ -1,3 +1,5 @@
+2015-04-03, IRC, #tox-dev @ freenode
+
 [21:36:08] <sqt> grayhatter: If the off topic chatter is too much just let me know and I can block them for a day or two
 [21:36:32] <sqt> I don't usually pay attention to the lists, but I noticed you make that remark.
 [21:37:23] <myroslav> sqt: Is that about my DHT email?

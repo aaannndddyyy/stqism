@@ -1,3 +1,5 @@
+2015-04-01, IRC, #tox @ freenode
+
 [12:30:45] <NikolaiToryzin> The Foundation recently discovered something that might change the world as we know it <kill_switch> NikolaiToryzin, it is working
 [12:30:51] <NikolaiToryzin> wrong paste
 [12:31:05] <NikolaiToryzin> This, this is what will change the world https://blog.tox.im/2015/04/01/tox-ftl/

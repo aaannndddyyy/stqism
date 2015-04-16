@@ -1,3 +1,5 @@
+2015-04-01, IRC, #tox-dev @ freenode
+
 [06:17:56] <_p4x1> small suggestion, I think the binaries page should have some screenshots alongside the clients' names so new users can have a better idea about what they're doing when they follow the "download tox nightlies" link
 [06:19:25] <_p4x1> also that part of the wiki is in english only, I can make a spanish translation of the text
 [06:20:10] <NikolaiToryzin> _p4x1: https://beta.tox.im will be the new way to download it in the future
