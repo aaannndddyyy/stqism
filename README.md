@@ -24,7 +24,7 @@ Changing the format in which information is stored is possible in case where rep
 
 ====
 
-Contributions are welcome ``;-)``
+Contributions in any form are welcome ``;-)``
 
 **All content but quotes is provided under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0)**
 
@@ -57,14 +57,14 @@ If you want to send back changes you've made, you can do so in multiple ways:
 
 
 ### Those who will decide to make pull request:
-* agree to the license under which document is stored
+* agree to the license
 
 In case where changes to the document will look *suspicious*, I will not merge them unless I will get a proper description of changes.
 
 Including a descriptive commit message should be usually enough, and even really short commit messages should be enough, but there may be some cases where there may be some doubt whether changes are beneficial, so…
 
 ### Those who will decide to send patch / modified document through email:
-* agree to the license under which document is stored
+* agree to the license
 * their contribution will be anonymous, **unless they explicitly state otherwise**
 
 In case of modified documents, I am not going to include anything that cannot be simply copypasted:
