@@ -45,6 +45,7 @@ Contributions are welcome ``;-)``
   - if it is not possible to supply a link due to circumstances, include all relevant information (like IRC log) in directory ``background/_date_in_ISO-8601_/short_descriptive_name.txt`` → e.g. ``background/2015-04-01/insisting on transifex.txt`` ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 * It is highly encouraged to keep consistent formatting in which information is stored.
   - if you are not sure how to make formatting happen, *fear not*, just put it in a 3-row table like: ![table formatting](https://cloud.githubusercontent.com/assets/3148759/6939854/84182e04-d868-11e4-9119-1f9e80ea63e2.png)
+* If you don't have IRC logs, fret not, for they are available [here](https://gist.github.com/zetok/9057bdd27796b34dfd2a/download).
 
 
 ## Sending changes
