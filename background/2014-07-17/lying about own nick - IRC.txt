@@ -1,0 +1,17 @@
+2014-07-17, IRC, #tox @ freenode
+
+[02:17:08] <lordrev> can somebody please explain this muslimmessenger business to me?
+[02:17:25] <lordrev> is it a troll or is it serious?
+[02:19:18] <Jfreegman> what do you think
+[02:19:45] <lordrev> well my first assumption is that it's a troll
+[02:19:51] <lordrev> but you never know with /g/
+[02:21:40] <irungentoo> do you see someone called stqism in this IRC?
+[02:22:07] <lordrev> no
+[02:22:43] <lordrev> i'm not reall up to date on all the infighting going on, i don't browse the tox threads regularly
+[02:23:28] <NikolaiToryzin> lordrev: Neither stqism nor muslimmessenger exist, if I have to be that guy.
+[02:23:52] <lordrev> stqism isn't a real dude?
+[02:24:02] <lordrev> who is going around posting with that name then?
+[02:24:03] <NikolaiToryzin> N... no.
+[02:24:25] <NikolaiToryzin> Stqism was someone's old name from a while ago.
+[02:24:40] <NikolaiToryzin> lordrev: https://wiki.tox.im/4chan
+[02:24:58] <lordrev> i see
