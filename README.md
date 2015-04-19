@@ -36,7 +36,7 @@ Contributions in any form are welcome ``;-)``
 * Contributions should not contain any form of abusing language.
 * Any personal details will **not** be included (some argue that IP addresses are personal info, so they should be stripped).
 * Nicks are not considered personal details.
-* When referring to ``NikolaiToryzin`` / ``AlexStraunoff`` / ``Second in charge of Tox`` / ``stqism`` / ``sqt`` / ``Sqt`` it is advisable to use ``stqism`` for consistency purposes.
+* When referring to ``NikolaiToryzin`` / ``AlexStraunoff`` / ``Second in charge of Tox`` / ``stqism`` / ``sqt`` / ``Sqt`` / ``coup_de_shitlord`` it is advisable to use ``stqism`` for consistency purposes.
 * When including information about ``stqism``'s actions, provide:
   - information about background
   - quote of what ``stqism`` wrote (supply it in clear text, if there is need to keep it visually consistent, make a screenshot of relevant part and embed it in document below clear text (use tables for any quotes))

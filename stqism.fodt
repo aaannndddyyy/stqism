@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-18T23:14:03.890689384</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT4H18M5S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="2" meta:object-count="0" meta:page-count="4" meta:paragraph-count="70" meta:word-count="1355" meta:character-count="8391" meta:non-whitespace-character-count="7097"/></office:meta>
+ <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-19T09:32:23.056420753</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT4H18M28S</meta:editing-duration><meta:editing-cycles>34</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="2" meta:object-count="0" meta:page-count="4" meta:paragraph-count="70" meta:word-count="1356" meta:character-count="8409" meta:non-whitespace-character-count="7114"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">90987</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">22370</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">33547</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18295</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18297</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12351</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">102579</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22698</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">27351</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">90987</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">22370</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">33546</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">109280</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">40665</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3772868</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3879621</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -517,10 +517,13 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000be728" officeooo:paragraph-rsid="000be728"/>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="000ae473" officeooo:paragraph-rsid="003b32c5"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000be728" officeooo:paragraph-rsid="000be728"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="001e626e" officeooo:paragraph-rsid="001e626e"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -611,78 +614,81 @@
    <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="001ff85e" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
+   <style:text-properties officeooo:rsid="000b8af5"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="000c6ff8"/>
+   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="000ca9e8"/>
+   <style:text-properties officeooo:rsid="000c6ff8"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="000ea784"/>
+   <style:text-properties officeooo:rsid="000ca9e8"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="00104577"/>
+   <style:text-properties officeooo:rsid="000ea784"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="00123a7a"/>
+   <style:text-properties officeooo:rsid="00104577"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="00157273"/>
+   <style:text-properties officeooo:rsid="00123a7a"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="001e36be"/>
+   <style:text-properties officeooo:rsid="00157273"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties officeooo:rsid="0020df2d"/>
+   <style:text-properties officeooo:rsid="001e36be"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties officeooo:rsid="00242f45"/>
+   <style:text-properties officeooo:rsid="0020df2d"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="00258574"/>
+   <style:text-properties officeooo:rsid="00242f45"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="00277d3f"/>
+   <style:text-properties officeooo:rsid="00258574"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties officeooo:rsid="002b1a25"/>
+   <style:text-properties officeooo:rsid="00277d3f"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="002e6737"/>
+   <style:text-properties officeooo:rsid="002b1a25"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties officeooo:rsid="00318d5b"/>
+   <style:text-properties officeooo:rsid="002e6737"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="0032e21e"/>
+   <style:text-properties officeooo:rsid="00318d5b"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="0034d5ec"/>
+   <style:text-properties officeooo:rsid="0032e21e"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="00380704"/>
+   <style:text-properties officeooo:rsid="0034d5ec"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="003917c1" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="00380704"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties officeooo:rsid="000ea784" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="003917c1" style:language-asian="ja" style:country-asian="JP"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="000ea784" style:language-asian="ja" style:country-asian="JP"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="000b8af5" style:language-asian="ja" style:country-asian="JP"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
    <style:text-properties officeooo:rsid="003762d6"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -721,9 +727,9 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P16">This document aims to <text:span text:style-name="T2">show and provide background for </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T2">&apos;s</text:span><text:span text:style-name="T2"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-       <text:p text:style-name="P25">Otherwise known as <text:span text:style-name="T27">NikolaiToryzin, AlexStraunoff, </text:span><text:span text:style-name="T28">sqt, </text:span><text:span text:style-name="T29">Sqt</text:span><text:span text:style-name="T31">. Common abbreviation: </text:span><text:span text:style-name="T30">stq</text:span><text:span text:style-name="T31"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
+       <text:p text:style-name="P50">Otherwise known as <text:span text:style-name="T27">NikolaiToryzin, AlexStraunoff, </text:span><text:span text:style-name="T28">sqt, </text:span><text:span text:style-name="T29">Sqt, </text:span><text:span text:style-name="T30">coup_de_shitlord</text:span><text:span text:style-name="T32">. Common abbreviation: </text:span><text:span text:style-name="T31">stq</text:span><text:span text:style-name="T32"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
    <text:p text:style-name="P16"/>
-   <text:p text:style-name="P21">Events are sorted in ~chronological order. <text:span text:style-name="T51">Full quotes are not</text:span><text:span text:style-name="T32"> included in this document, due to </text:span><text:span text:style-name="T51">some parts of them </text:span><text:span text:style-name="T32">being irrelevant. For full background, look in </text:span><text:span text:style-name="T51">the</text:span><text:span text:style-name="T32"> </text:span><text:span text:style-name="T33">background</text:span><text:span text:style-name="T32"> directory.</text:span></text:p>
+   <text:p text:style-name="P21">Events are sorted in ~chronological order. <text:span text:style-name="T52">Full quotes are not</text:span><text:span text:style-name="T33"> included in this document, due to </text:span><text:span text:style-name="T52">some parts of them </text:span><text:span text:style-name="T33">being irrelevant. For full background, look in </text:span><text:span text:style-name="T52">the</text:span><text:span text:style-name="T33"> </text:span><text:span text:style-name="T34">background</text:span><text:span text:style-name="T33"> directory.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
@@ -824,7 +830,7 @@
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="P27" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1915_241484049"/>Insisting on using Transifex<text:bookmark-end text:name="__RefHeading__1915_241484049"/></text:h>
    <text:p text:style-name="P48"/>
-   <text:p text:style-name="Standard">* <text:span text:style-name="quote">stqism</text:span> <text:span text:style-name="T1">insists on using </text:span><text:span text:style-name="T51">a </text:span><text:span text:style-name="T1">translation service (Transifex), instead of allowing people to make pull requests through Github </text:span><text:span text:style-name="T15">like it was possible before</text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="quote">Zetok</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="quote">SylvieLorxu</text:span><text:span text:style-name="T1"> clearly have stated that this service will not be used by them to translate </text:span><text:span text:style-name="T51">the </text:span><text:span text:style-name="T1">Tox website. Later on, it seemed like </text:span><text:span text:style-name="T51">a </text:span><text:span text:style-name="T1">potential contributor went away due to this very reason:</text:span></text:p>
+   <text:p text:style-name="Standard">* <text:span text:style-name="quote">stqism</text:span> <text:span text:style-name="T1">insists on using </text:span><text:span text:style-name="T52">a </text:span><text:span text:style-name="T1">translation service (Transifex), instead of allowing people to make pull requests through Github </text:span><text:span text:style-name="T15">like it was possible before</text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="quote">Zetok</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="quote">SylvieLorxu</text:span><text:span text:style-name="T1"> clearly have stated that this service will not be used by them to translate </text:span><text:span text:style-name="T52">the </text:span><text:span text:style-name="T1">Tox website. Later on, it seemed like </text:span><text:span text:style-name="T52">a </text:span><text:span text:style-name="T1">potential contributor went away due to this very reason:</text:span></text:p>
    <table:table table:name="insisting_on_transifex" table:style-name="insisting_5f_on_5f_transifex">
     <table:table-column table:style-name="insisting_5f_on_5f_transifex.A"/>
     <table:table-row>
@@ -843,15 +849,15 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P18">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T20">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T51">a </text:span><text:span text:style-name="T13">blog post</text:span><text:span text:style-name="T5"> is the place where </text:span><text:span text:style-name="T12">a</text:span><text:span text:style-name="T5"> potential contributor can find information about how to contribute.</text:span></text:p>
+   <text:p text:style-name="P18">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T20">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T52">a </text:span><text:span text:style-name="T13">blog post</text:span><text:span text:style-name="T5"> is the place where </text:span><text:span text:style-name="T12">a</text:span><text:span text:style-name="T5"> potential contributor can find information about how to contribute.</text:span></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T13">Blog post</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T17">instead of information clearly organized in one place, in a way that would allow potential contributor to not only find relevant information on it quickly, but also they should be exposed to it in transparent manner when they would look for information on how to contribute.</text:span></text:p>
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P17"/>
-   <text:h text:style-name="P27" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1917_241484049"/>Using wrong tools <text:span text:style-name="T35">and</text:span> broken formatting on <text:span text:style-name="T34">Tox</text:span> blog<text:bookmark-end text:name="__RefHeading__1917_241484049"/></text:h>
+   <text:h text:style-name="P27" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1917_241484049"/>Using wrong tools <text:span text:style-name="T36">and</text:span> broken formatting on <text:span text:style-name="T35">Tox</text:span> blog<text:bookmark-end text:name="__RefHeading__1917_241484049"/></text:h>
    <text:p text:style-name="P17"/>
-   <text:p text:style-name="P20">* <text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T26"> uses wrong tools for the job, which results in broken formatting of posts on Tox blog. </text:span><text:soft-page-break/><text:span text:style-name="T26">What is more important, those broken posts are kept on blog. ~ state @ 2015-04-01 13:28</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/>* <text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T26"> uses wrong tools for the job, which results in broken formatting of posts on Tox blog. What is more important, those broken posts are kept on blog. ~ state @ 2015-04-01 13:28</text:span></text:p>
    <text:p text:style-name="P20"/>
    <table:table table:name="wrong_tools_for_the_job" table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job">
     <table:table-column table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job.A"/>
@@ -878,7 +884,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P20"/>
-   <text:p text:style-name="P22">Broken blog post formatting from <text:span text:style-name="T51">the </text:span>link (link content will be deleted after 6 months):</text:p>
+   <text:p text:style-name="P22">Broken blog post formatting from <text:span text:style-name="T52">the </text:span>link (link content will be deleted after 6 months):</text:p>
    <table:table table:name="blog_post_broken_formatting" table:style-name="blog_5f_post_5f_broken_5f_formatting">
     <table:table-column table:style-name="blog_5f_post_5f_broken_5f_formatting.A"/>
     <table:table-row>
@@ -2273,7 +2279,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="blog_5f_post_5f_broken_5f_formatting.A2" office:value-type="string">
-      <text:p text:style-name="P11">To open outside of LibreOffice: Righ<text:span text:style-name="T51">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
+      <text:p text:style-name="P11">To open outside of LibreOffice: Righ<text:span text:style-name="T52">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -2282,9 +2288,9 @@
    <text:p text:style-name="P19"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1919_241484049"/>Rash actions due to not checking claims → proposing censorship<text:bookmark-end text:name="__RefHeading__1919_241484049"/></text:h>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P30"><text:span text:style-name="T39">There are only 2 mailing lists; &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T36">&quot; and &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T36">&quot;. Since polluting </text:span><text:span text:style-name="T51">the</text:span><text:span text:style-name="T36"> &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="quote"><text:span text:style-name="T37">&quot;</text:span></text:span> <text:span text:style-name="T37">mailing list with things that are not strictly related to technical development of Tox is far from good, discussion took place on &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T38">&quot; mailing list. One of developers has mistaken &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T38">&quot; list with &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T38">&quot;, and wrote an email in which he said that particular conversation doesn&apos;t belong in </text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T38"> mailing list.</text:span></text:p>
-   <text:p text:style-name="P46"><text:soft-page-break/><text:span text:style-name="T21">Instead of checking whether those claims are accurate,</text:span><text:span text:style-name="T38"> </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T38"> </text:span><text:span text:style-name="T21">rashly acted upon seeing that message</text:span><text:span text:style-name="T38">, and proposed censoring </text:span><text:span text:style-name="T51">the </text:span><text:span text:style-name="T38">mailing list on IRC as (in his opinion) </text:span><text:span text:style-name="T16">a valid </text:span><text:span text:style-name="T36">solution to something which he perceived as a problem, instead of addressing a real problem, which is missing mailing lists for separate purposes. In </text:span><text:span text:style-name="T51">the</text:span><text:span text:style-name="T36"> process of doing so, he managed to momentarily scare </text:span><text:span text:style-name="T51">a</text:span><text:span text:style-name="T36"> potential contributor into thinking that it was his email that caused this proposal (no real harm done in the end, and potential contributor was assured that what he wrote is more than welcomed).</text:span></text:p>
-   <text:p text:style-name="P31">Relevant part of mail to <text:span text:style-name="T51">the </text:span>mailing list:</text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T40">There are only 2 mailing lists; &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T37">&quot; and &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T37">&quot;. Since polluting </text:span><text:span text:style-name="T52">the</text:span><text:span text:style-name="T37"> &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="quote"><text:span text:style-name="T38">&quot;</text:span></text:span> <text:span text:style-name="T38">mailing list with things that are not strictly related to technical development of Tox is far from good, discussion took place on &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T39">&quot; mailing list. One of developers has mistaken &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T39">&quot; list with &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T39">&quot;, and wrote an email in which he said that particular conversation doesn&apos;t belong in </text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T39"> mailing list.</text:span></text:p>
+   <text:p text:style-name="P46"><text:soft-page-break/><text:span text:style-name="T21">Instead of checking whether those claims are accurate,</text:span><text:span text:style-name="T39"> </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T39"> </text:span><text:span text:style-name="T21">rashly acted upon seeing that message</text:span><text:span text:style-name="T39">, and proposed censoring </text:span><text:span text:style-name="T52">the </text:span><text:span text:style-name="T39">mailing list on IRC as (in his opinion) </text:span><text:span text:style-name="T16">a valid </text:span><text:span text:style-name="T37">solution to something which he perceived as a problem, instead of addressing a real problem, which is missing mailing lists for separate purposes. In </text:span><text:span text:style-name="T52">the</text:span><text:span text:style-name="T37"> process of doing so, he managed to momentarily scare </text:span><text:span text:style-name="T52">a</text:span><text:span text:style-name="T37"> potential contributor into thinking that it was his email that caused this proposal (no real harm done in the end, and potential contributor was assured that what he wrote is more than welcomed).</text:span></text:p>
+   <text:p text:style-name="P31">Relevant part of mail to <text:span text:style-name="T52">the </text:span>mailing list:</text:p>
    <table:table table:name="censoring_ML-mail" table:style-name="censoring_5f_ML-mail">
     <table:table-column table:style-name="censoring_5f_ML-mail.A"/>
     <table:table-row>
@@ -2294,7 +2300,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="censoring_5f_ML-mail.A2" office:value-type="string">
-      <text:p text:style-name="P9">2015-04-03, Tox &quot;General&quot; mailing list: <text:span text:style-name="T40">https://lists.tox.im/pipermail/general/2015-April/000017.html</text:span></text:p>
+      <text:p text:style-name="P9">2015-04-03, Tox &quot;General&quot; mailing list: <text:span text:style-name="T41">https://lists.tox.im/pipermail/general/2015-April/000017.html</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -2326,8 +2332,8 @@
    <text:p text:style-name="P29"/>
    <text:h text:style-name="P28" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__2504_1002124689"/>Insisting on using proprietary iCloud for Tox profiles<text:bookmark-end text:name="__RefHeading__2504_1002124689"/></text:h>
    <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P33">As it is known, security requires <text:span text:style-name="T41">code of </text:span><text:span text:style-name="T51">the </text:span><text:span text:style-name="T41">software to be open, so that everyone could check whether it really does only what it is supposed to do (i.e. doesn&apos;t contain backdoors). Tox provides that. Other software, if it&apos;s proprietary like iCloud, doesn&apos;t provide it, which means that there is no way to check whether it does only what it is said that it does.</text:span></text:p>
-   <text:p text:style-name="P34">Currently Tox doesn&apos;t support profile synchronisation across devices (i.e. so you could use<text:span text:style-name="T51"> the</text:span> same profile on your every device). Proper support for it is planned, and is one of <text:span text:style-name="T45">Tox</text:span> GSoC<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+   <text:p text:style-name="P33">As it is known, security requires <text:span text:style-name="T42">code of </text:span><text:span text:style-name="T52">the </text:span><text:span text:style-name="T42">software to be open, so that everyone could check whether it really does only what it is supposed to do (i.e. doesn&apos;t contain backdoors). Tox provides that. Other software, if it&apos;s proprietary like iCloud, doesn&apos;t provide it, which means that there is no way to check whether it does only what it is said that it does.</text:span></text:p>
+   <text:p text:style-name="P34">Currently Tox doesn&apos;t support profile synchronisation across devices (i.e. so you could use<text:span text:style-name="T52"> the</text:span> same profile on your every device). Proper support for it is planned, and is one of <text:span text:style-name="T46">Tox</text:span> GSoC<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
       <text:p text:style-name="P26">Google Summer of Code: https://www.google-melange.com/gsoc/homepage/google/gsoc2015</text:p></text:note-body></text:note> 2015 ideas.</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
@@ -2841,7 +2847,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P10">2015-04-<text:span text:style-name="T44">11</text:span>, Tox <text:span text:style-name="T44">Wiki: https://wiki.tox.im/GSoC/2015/Ideas#Multiple_device_support</text:span></text:p>
+      <text:p text:style-name="P10">2015-04-<text:span text:style-name="T45">11</text:span>, Tox <text:span text:style-name="T45">Wiki: https://wiki.tox.im/GSoC/2015/Ideas#Multiple_device_support</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -2852,14 +2858,14 @@
    </table:table>
    <text:p text:style-name="P34"/>
    <text:p text:style-name="P36">There is a <text:span text:style-name="T23">big</text:span><text:span text:style-name="T19"> problem</text:span>: people are putting unencrypted tox profiles in cloud storage and/or are sending them using unencrypted or otherwise not or poorly secured technology. </text:p>
-   <text:p text:style-name="P36">To deal with problem stq<text:span text:style-name="T49">ism</text:span> made something that relies on proprietary <text:span text:style-name="T46">technology (iCloud) and is only available to </text:span><text:span text:style-name="T51">a</text:span><text:span text:style-name="T46"> small subset of Tox users (people using OS X) who agreed to evil ToS in order to use Apple products. </text:span><text:span text:style-name="T22">This is obviously wrong.</text:span></text:p>
-   <text:p text:style-name="P37">Not only it doesn&apos;t promote <text:span text:style-name="T47">open software</text:span>, which is mandatory to have security, but <text:span text:style-name="T4">what is far worse, </text:span><text:span text:style-name="T19">it doesn&apos;t solve the problem</text:span><text:span text:style-name="T4">.</text:span></text:p>
+   <text:p text:style-name="P36">To deal with problem stq<text:span text:style-name="T50">ism</text:span> made something that relies on proprietary <text:span text:style-name="T47">technology (iCloud) and is only available to </text:span><text:span text:style-name="T52">a</text:span><text:span text:style-name="T47"> small subset of Tox users (people using OS X) who agreed to evil ToS in order to use Apple products. </text:span><text:span text:style-name="T22">This is obviously wrong.</text:span></text:p>
+   <text:p text:style-name="P37">Not only it doesn&apos;t promote <text:span text:style-name="T48">open software</text:span>, which is mandatory to have security, but <text:span text:style-name="T4">what is far worse, </text:span><text:span text:style-name="T19">it doesn&apos;t solve the problem</text:span><text:span text:style-name="T4">.</text:span></text:p>
    <text:p text:style-name="P39"><text:span text:style-name="T9">P</text:span><text:span text:style-name="T4">eople </text:span><text:span text:style-name="T9">are</text:span><text:span text:style-name="T4"> send</text:span><text:span text:style-name="T9">ing</text:span><text:span text:style-name="T4"> most </text:span><text:span text:style-name="T6">important</text:span><text:span text:style-name="T4"> data through </text:span><text:span text:style-name="T6">insecure ways. This will not change, given that getting security isn&apos;t easy, and... who likes to make their life harder than necessary for no gain, right?</text:span></text:p>
    <text:p text:style-name="P40"><text:span text:style-name="T6">W</text:span><text:span text:style-name="T4">hat could be done, is to make sure that data people are sending is secured. This way, even if not secure transport channel is used, encrypted data still should remain secure.</text:span></text:p>
    <text:p text:style-name="P40"><text:span text:style-name="T10">F</text:span><text:span text:style-name="T4">irst step when it comes to improving security in this regard would be to adjust </text:span><text:span text:style-name="T12">the</text:span><text:span text:style-name="T4"> standard (STS – Single Tox Standard) to </text:span><text:span text:style-name="T19">make profile encryption a required default</text:span><text:span text:style-name="T4">, with optional way to disable it after explicit consent from user (big red warning or something alike). </text:span><text:span text:style-name="T7">stqism simply ignores th</text:span><text:span text:style-name="T11">ose</text:span><text:span text:style-name="T7"> suggestion</text:span><text:span text:style-name="T12">s</text:span><text:span text:style-name="T7">, even when </text:span><text:span text:style-name="T11">they were</text:span><text:span text:style-name="T7"> repeated multiple times.</text:span></text:p>
-   <text:p text:style-name="P44">Instead he insists <text:span text:style-name="T50">on using </text:span><text:span text:style-name="T51">a</text:span><text:span text:style-name="T50"> p</text:span>roprietary service that is known to not care about its users <text:span text:style-name="T50">for storing / syncing tox profiles.</text:span></text:p>
+   <text:p text:style-name="P44">Instead he insists <text:span text:style-name="T51">on using </text:span><text:span text:style-name="T52">a</text:span><text:span text:style-name="T51"> p</text:span>roprietary service that is known to not care about its users <text:span text:style-name="T51">for storing / syncing tox profiles.</text:span></text:p>
    <text:p text:style-name="P45">…</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T25">Out </text:span><text:span text:style-name="T24">of</text:span><text:span text:style-name="T25"> </text:span><text:span text:style-name="T24">4</text:span><text:span text:style-name="T54"> people who talked with him about this on IRC, </text:span><text:span text:style-name="T24">4 were against</text:span><text:span text:style-name="T50"> his way of doing it.</text:span></text:p>
+   <text:p text:style-name="P47"><text:span text:style-name="T25">Out </text:span><text:span text:style-name="T24">of</text:span><text:span text:style-name="T25"> </text:span><text:span text:style-name="T24">4</text:span><text:span text:style-name="T55"> people who talked with him about this on IRC, </text:span><text:span text:style-name="T24">4 were against</text:span><text:span text:style-name="T51"> his way of doing it.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
