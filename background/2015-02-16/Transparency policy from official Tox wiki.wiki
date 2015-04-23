@@ -1,0 +1,18 @@
+'''For Opers:'''
+
+When someone request information, unless it has anything to do with our personal matters/identities, we need to be able to give it to them.
+This includes questions such as "What's in #tox-secret", or "Where is the donation money going?". 
+People need to know EXACTLY where their money is going, and they need to know what is going on in #tox-secret.
+If it has anything to do with user data, passwords, or identities, you may not disclose it without consent of the owner. So if someone asks "What's Proplex's real name?", you don't have to disclose it.
+In fact, unless Proplex gives you specific permission to do so (which he won't), DO NOT disclose information like this.
+
+'''For Users:'''
+
+You may request any information regarding Tox unless it has anything to do with our personal matters/identities.
+If you feel that your request for information has not been met, please PUBLICLY specify what information you requested and the response from whom you requested it from in #tox. 
+While doing so, you may ping an admin/operator in the channel.
+An operator will likely ask for logs, and possibly a screenshot, so please be able to provide both of these. 
+Whatever action the operator decides upon must be made public, as well as the information requested (if the operator decides to release this information).
+
+== See Also ==
+[https://donate.tox.im/transparency Transparency]

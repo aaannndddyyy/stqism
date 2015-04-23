@@ -1,0 +1,59 @@
+diff --git a/gistfile1.md b/gistfile1.md
+index f6f8d61..cbf515a 100644
+--- a/gistfile1.md
++++ b/gistfile1.md
+@@ -1,12 +1,17 @@
++# #tox-ontopic
++
+ Occasionally you might hear of the IRC channel #tox-ontopic mentioned somewhere, tried to join, and found out that it didn't work.
+ 
+ As a result of this exclusive nature a lot of confusion about the channel and what it does float around and shift, often not anywhere 
+ close to the actual goal or use of the channel.
+ 
+-===About the channel===
++### About the channel
+ Tox-ontopic is a special invite only channel filled with only long standing and trusted project usuals, be it developers or users. The channel exists as a way for this same group to joke around and have fun in a non professional manner (often called shitposting), knowing they can be as sarcastic or crazy as they want, with the understanding that '''nothing discussed in it should be taken as fact'''.
+ 
+-===Rules===
++### Transparency
++Due to the nature of the channel, documents like the Transparency policy have no say over it, nor do we formally acknoledge that the channel exists.
++
++### Rules
+ The channel has a couple set in stone rules and a global catch-all rule that let's the channels many operators make up totally random and dumb rules for no reason that the others can easily override or toss out anything for fun. The channel does have some set in stone rules though, these being:
+ 
+ * No logging
+@@ -18,27 +23,27 @@ The channel has a couple set in stone rules and a global catch-all rule that let
+ * Any other rules made by operators on the fly
+ * Causing drama out of channel regarding actions in it
+ 
+-===Getting invited===
++### Getting invited
+ Being a safe haven for ''elite'' project members, you can not get in by asking. If you're cool and are a good culture fit you'll be invited to join us.
+ 
+-===Becoming an operator===
++### Becoming an operator
+ The process for becoming an operator is fairly easy, just ask the right people at the right time and don't piss people off generally.
+ 
+ Because of this, over half the channel is composed of operators.
+ 
+-===Operator code of conduct===
++### Operator code of conduct
+ You, the operator, have total control over everything as long as it doesn't start with the word chanserv. Jokingly kick or ban anyone you feel like for any reason is your right as an operator, and something we encourage you abuse. 
+ 
+ Keep in mind that 99.9% of the time another operator will unban the person a second later. This is not to be taken personally, but is part of the developed culture.
+ 
+-===Getting kicked out===
++### Getting kicked out
+ The easiest way to get kicked out for good is to violate the logging rule, but repeatedly insulting people and starting fights or just not being a good fit will result in your removal and ban for life.
+ 
+ 
+-====Banned for life list====
++#### Banned for life list
+ 
+ * inane_ramblings
+-** Streaming messages from the channel to other channels
++* * Streaming messages from the channel to other channels
+ 
+ * zetok
+-** Asked to stop insulting another invited channel member, refuses to do so, is given multiple warnings and temp bans, continues this. Ultimately banned for dissent, causing drama out of channel, and keeping logs.
++* * Asked to stop insulting another invited channel member, refuses to do so, is given multiple warnings and temp bans, continues this. Ultimately banned for dissent, causing drama out of channel, and keeping logs.

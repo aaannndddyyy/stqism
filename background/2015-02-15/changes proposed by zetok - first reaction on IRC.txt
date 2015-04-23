@@ -1,0 +1,22 @@
+[13:54:08] * irungentoo (~irungento@unaffiliated/irungentoo) has joined
+[13:54:08] * ChanServ gives channel operator status to irungentoo
+[13:57:26] <itsrachelfish> mornin' irungentoo :)
+[13:57:51] <irungentoo> morning
+[13:58:59] <zetok> irungentoo: may I ask for some changes on how Tox operates: https://gist.github.com/zetok/4f685582b63c5677bb20 ?
+[14:02:59] <irungentoo> and what would be the: Code of conduct for Tox ?
+[14:03:37] <zetok> set of rules that people should abide when using official channels of communication
+[14:04:16] <zetok> i.e. IRC channels, github issues, and in future mailing list
+[14:04:53] <zetok> I'm not a fan of it, but there has to be some set of rules
+[14:05:14] <irungentoo> and what happens if people don't follow these rules?
+[14:06:56] <zetok> in short term escalation, i.e.; remind them of rules → kick → ban;  in long term community that will simply thwart any attempts to break rules too badly
+[14:08:34] <zetok> since everyone should abide those rules, there is a need for someone who will deal with eventual abuse
+[14:09:07] <zetok> I'm not saying that it should be exactly as I said, but rather that this is direction in which things should go
+[14:09:48] <irungentoo> and what would the managing project person do?
+[14:11:42] <zetok> General overview of Tox, direction it takes and future of it → as per doing literally, management & micromanagement of things; like trying to find best possible solution for things people disagree on, and are important for Tox
+[14:12:32] <zetok> I think that stq indicated that he wants/does it
+[14:13:28] <irungentoo> so you want stq to manage the project?
+[14:13:33] <zetok> No.
+[14:13:38] <zetok> He fails horribly at it.
+[14:14:19] <Yaniel> +1 for the general idea
+[14:15:49] <irungentoo> lets wait for stq before discussing this more since the first point concerns him
+[14:16:12] <zetok> Sure.

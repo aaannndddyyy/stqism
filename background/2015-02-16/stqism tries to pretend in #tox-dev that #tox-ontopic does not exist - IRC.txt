@@ -1,0 +1,24 @@
+[09:17:12] <zetok> https://img.bi/#/tkLPu1R!DwvEzGPzIGlbUrlNIZu30GUm7Tr1pdUJx3aBeSoo why µTox is worse than qTox when it comes to RAM usage? (it still increases)
+[09:18:10] <zetok> >tfw µTox would fail even this "standard" https://github.com/Tox/Tox-STS/commit/20f7e3ae1158f05e0756a3db288878f24ba69053
+[09:33:52] <NikolaiToryzin> zetok, Show irungentoo
+[09:34:01] <NikolaiToryzin> Also, are you really using 4chan memes again.
+[09:34:47] <zetok> NikolaiToryzin: yes, I'm going to show it to him when he comes online
+[09:37:19] <zetok> NikolaiToryzin: sadly, as you know I've been banned without a reason from #tox-ontopic, where I could unleash full meme power, so -dev is the only channel that I can actually use
+[09:37:55] <NikolaiToryzin> #tox-ontopic?
+[09:37:59] <NikolaiToryzin> What's that?
+[09:38:04] <zetok> Oh?
+[09:38:10] <NikolaiToryzin> Tried to join and it forwarded me to #tox-offtopic
+[09:38:15] <NikolaiToryzin> And you're in that channel
+[09:38:44] <zetok> [09:38:22] * Now talking on #tox-ontopic
+[09:38:44] <zetok> [09:38:22] * Topic for #tox-ontopic is: Call of Duty: Advanced memes || ≻
+[09:38:44] <zetok> [09:38:22] * Topic for #tox-ontopic set by NikolaiToryzin!~stqism@freebsd/user/stqism (Mon Feb 16 05:17:45 2015)
+[09:38:44] <zetok> [09:38:23] * ChanServ sets ban on *!*@unaffiliated/zetok
+[09:38:44] <zetok> [09:38:23] * You have been kicked from #tox-ontopic by ChanServ (Banned: Tox is a no meme-arrow zone.)
+[09:38:44] <zetok> [09:38:25] * Cannot join #tox-ontopic (You are banned).
+[09:38:59] * Cannot join #tox-ontopic (You are banned).
+[09:39:01] <NikolaiToryzin> wut
+[09:39:20] <NikolaiToryzin> You're crazy
+[09:39:29] * Cannot join #tox-ontopic (You are banned).
+[09:39:55] <zetok> that's what I get from my IRC client when /j #tox-ontopic
+[09:39:59] * Cannot join #tox-ontopic (You are banned).
+[09:40:28] <zetok> Also, from where that "You're crazy" comes from?

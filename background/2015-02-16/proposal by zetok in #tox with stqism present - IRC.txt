@@ -1,0 +1,423 @@
+[17:46:20] <Yaniel> zetok: still around?
+[17:46:45] <zetok> Yaniel: yep
+[17:47:55] <NikolaiToryzin> Well, first and foremost we'd need a way to either securely sync friends and an identity between multiple peers, or a way to forward messages and data or something
+[17:48:10] <NikolaiToryzin> It's still something we need to figure out exactly how
+[17:48:33] <Kvasya> impossibru
+[17:54:14] <Yaniel> zetok: might want to discuss your proposal now that stq is around?
+[17:54:36] <zetok> sec, now I'm looking at funny pictures
+[17:54:45] <zetok> I've got my priorities
+[17:55:14] <Yaniel> sure
+[18:00:01] <zetok> irungentoo, NikolaiToryzin: so, proposal for changes in how Tox operates: https://gist.github.com/zetok/4f685582b63c5677bb20#file-gistfile1-txt
+[18:01:15] <NikolaiToryzin> That's a horrible idea.
+[18:01:36] <zetok> NikolaiToryzin: I'm afraid that many people would disagree with you on that.
+[18:02:59] <heppstux> Hey Ho,
+[18:03:47] <Yaniel> NikolaiToryzin: what part of it
+[18:04:04] <NikolaiToryzin> I like how you hate ontopic shitposting
+[18:04:09] <heppstux> I'm just curious, is there any plan of releasing the toxCore under any other license than the gpl3?
+[18:04:16] <NikolaiToryzin> heppstux, Nope.
+[18:04:17] <zetok> NikolaiToryzin: I am not shitposting.
+[18:04:30] <heppstux> sad :(
+[18:04:37] <Kvasya> why not BSD license?
+[18:04:37] <NikolaiToryzin> heppstux, Why?
+[18:04:57] <zetok> NikolaiToryzin: also, I don't hate per se shitposting in #tox-ontopic
+[18:05:04] <NikolaiToryzin> Kvasya, To make it slightly more difficult to make proprietary apps with toxcore
+[18:05:21] <Kvasya> what problem with proprietary apps?
+[18:05:57] <heppstux> I'd love to participate in developing a client for iOS, but gpl3 is just not compatible with apple's shitty rules
+[18:06:01] <NikolaiToryzin> They make it impossible for users to know the code they are running
+[18:06:09] <NikolaiToryzin> heppstux, We can work with you on that.
+[18:06:59] <heppstux> yea, but there will be no way of distributing it through the appstore I suppose
+[18:07:16] <NikolaiToryzin> Their is actually
+[18:07:23] <heppstux> okay, tell me about it
+[18:08:13] <NikolaiToryzin> In some cases if you follow the terms of the GPLv3 on a case by case basis we'll let you link against toxcore perfectly fine if you use the MIT licence
+[18:08:28] <NikolaiToryzin> I said the word case too much
+[18:08:37] <Kvasya> no one force you to run proprietary apps
+[18:10:06] <zetok> NikolaiToryzin: Am I correct that you only see removing #tox-ontopic as a problem?
+[18:10:49] <heppstux> i have no problem with building apps under MIT-Terms. however, as far as I understood, and from experience apple will just reject everything, that is gpl3ed.
+[18:10:54] <heppstux> at least, they did in the past
+[18:11:14] <NikolaiToryzin> heppstux, We can relicence things selectively
+[18:11:53] <Yaniel> didn't the discussion on github reach the consensus that you can't?
+[18:12:46] <heppstux> @NikolaiToryzin, that sounds interesting. How does this work in practice?
+[18:12:57] <NikolaiToryzin> Yaniel, We don't actually care about what happened in the discussion.
+[18:13:28] <NikolaiToryzin> People with significant contributions can agree to make an exception/licence code like that
+[18:13:46] <Yaniel> >significant
+[18:13:46] <NikolaiToryzin> And we're prepared if someone contributed code and doesn't agree
+[18:13:52] <Yaniel> and what might that mean?
+[18:14:23] <NikolaiToryzin> Don't worry, it's half a dozen people at best
+[18:14:49] <Yaniel> also if that is the case, what is the situation of the ios client
+[18:16:02] <NikolaiToryzin> Based on GSoC, we might get ready to submit a beta around q3 2015
+[18:18:37] <Yaniel> anyway regarding zetok's proposal, I agree with 2-5 and 7
+[18:19:31] <heppstux> I'm just curious, there is "Antidote" for example – and they are currently on testflight
+[18:19:45] <NikolaiToryzin> heppstux, We're totally aware
+[18:19:48] <Yaniel> alis does not seem to know #tox-ontopic and I'm not involved enough to say anything about 1 nor 6
+[18:20:30] <NikolaiToryzin> #tox-ontopic doesn't exist though
+[18:20:52] <Yaniel> that makes #tox-real-ontopic rather suspicious
+[18:21:03] <NikolaiToryzin> That's a dead channel
+[18:22:41] <zetok> NikolaiToryzin: Why are you lying?
+[18:23:10] <NikolaiToryzin> What? I've been in it for a while and I never see anyone say a thing in #tox-real-ontopic
+[18:23:21] <NikolaiToryzin> I mean months
+[18:23:25] <NikolaiToryzin> That's gotta be dead
+[18:23:39] <zetok> NikolaiToryzin: I thought that you were talking about #tox-ontopic
+[18:23:53] <zetok> oh wait
+[18:23:59] <zetok> [18:20:30] <NikolaiToryzin> #tox-ontopic doesn't exist though
+[18:24:01] <zetok> so yeah
+[18:24:05] <NikolaiToryzin> Yeah, that doesn't
+[18:24:13] <NikolaiToryzin> You shouldn't know if that exists or not
+[18:24:37] <zetok> irungentoo: is ↑ that an official stance? I.e. are you saying that stq lying is right thing?
+[18:24:45] <NikolaiToryzin> lying about what?
+[18:25:30] <SylvieLorxu> #tox-ontopic is a meaningless, invite-only channel that is just used for a group of friends to chat around a bit. Calling it "non-existant" is incorrect, but nobody really has a reason to care about it because it's literally used for nothing interesting at all
+[18:25:41] <NikolaiToryzin> Stop mentioning that it exists
+[18:25:48] <zetok> NikolaiToryzin: Why?
+[18:25:52] <zetok> NikolaiToryzin: Stop lying.
+[18:25:55] <NikolaiToryzin> The whole joke is that the channel doesn't exist
+[18:26:07] <SylvieLorxu> NikolaiToryzin: The people asking for invites is indeed annoying but meh, I still prefer telling the truth :P
+[18:26:11] <zetok> NikolaiToryzin: If you haven't noticed, talk is not about jokes.
+[18:26:24] <NikolaiToryzin> How are you this dense, the channel not existing is the first rule of the channel.
+[18:26:25] <hexburn3r> hey, can i have an invite to #tox-ontopic?
+[18:26:30] <SylvieLorxu> hexburn3r: No.
+[18:26:31] <NikolaiToryzin> To what?
+[18:26:50] <hexburn3r> :(
+[18:27:59] <zetok> NikolaiToryzin: Do you have any objections to the proposed changes?
+[18:28:20] <Yaniel> well, it has been shown multiple times that stq's sense of humour doesn't get over well on irc
+[18:28:26] <Yaniel> which brings me to PR
+[18:28:37] <Yaniel> which the project is so bad at it's not even funny
+[18:29:04] <NikolaiToryzin> Well, we don't actually have a PR guy
+[18:29:06] <SylvieLorxu> I do agree that the PR is not quite as great as it ought to be
+[18:29:11] <SylvieLorxu> NikolaiToryzin: I thought you did PR
+[18:29:19] <NikolaiToryzin> I never have
+[18:29:22] <SylvieLorxu> Huh.
+[18:29:29] <SylvieLorxu> Who manages Twitter then?
+[18:29:39] <SylvieLorxu> And Facebook?
+[18:29:39] <NikolaiToryzin> Right now? no one
+[18:30:02] <NikolaiToryzin> I have the twitter acct saved to my phone so I can reply to things though
+[18:30:24] <Yaniel> that kinda makes you the one managing it
+[18:30:41] <SylvieLorxu> On that note, we really should've had some valentine's day tweet
+[18:30:43] <NikolaiToryzin> Not really
+[18:30:54] <NikolaiToryzin> I got the creds like 2 days ago
+[18:41:12] <zetok> irungentoo: Since stq does not seem to have any objections to proposed changes, how and when they should take place?
+[18:42:03] <NikolaiToryzin> zetok, Stop acting like a child.
+[18:42:22] <zetok> NikolaiToryzin: Care to elaborate?
+[18:42:53] <SylvieLorxu> Yeah, zetok, stop acting like NikolaiToryzin
+[18:42:55] * SylvieLorxu runs
+[18:43:03] <NikolaiToryzin> SylvieLorxu, Ouch
+[18:43:04] <NikolaiToryzin> zetok, http://allpsych.com/psychology101/defenses/#.VOI6J0J-9E4
+[18:43:45] <zetok> NikolaiToryzin: Yeah, I'm familiar with those.
+[18:44:37] <NikolaiToryzin> I went for super professional for the largest time but then a bunch of people went all 'le memes 4chan fugg you this is a /g/ project!11!!' attacking me.
+[18:44:44] <NikolaiToryzin> It's super hard to win with you people.
+[18:45:12] <zetok> NikolaiToryzin: There you go, not even a proper attitude.
+[18:46:01] <NikolaiToryzin> Don't worry, it doesn't matter what side or approach you pick, I've learned people will attack you for anything.
+[18:46:24] <zetok> *shrug*
+[18:47:07] <zetok> NikolaiToryzin: I am not attacking you per se.
+[18:47:16] <zetok> What I want, is change.
+[18:47:58] <zetok> Sadly, with you managing Tox, change seems to be impossible, thus first I would like to change something (the one) who makes change impossible/overly hard.
+[18:48:28] <NikolaiToryzin> Change because you don't understand the inside jokes and humour of one of our channels is fairly dumb, to put it lightly.
+[18:48:46] <haavard> Gonna need a lot of popcorn for this one, I see.
+[18:49:41] <zetok> NikolaiToryzin: I've listed proposed changes according to their importance, with most important ones on top.
+[18:50:51] <zetok> Perhaps removing #tox-ontopic may be least important thing, if you value so much this 'le memes 4chan fugg you this is a /g/ project!11!!' channel.
+[18:51:28] <Impyy> zetok, apparently some people NEED that channel, as otherwise they'll probably just shitpost in official channels :/
+[18:51:48] <NikolaiToryzin> Impyy, I'm talking to one.
+[18:51:51] <zetok> Impyy: Code of Conduct → gistfile2.txt
+[18:52:19] <zetok> Impyy: um, do you have link?
+[18:52:44] <Impyy> zetok, to?
+[18:53:03] <Impyy> also what code of conduct?
+[18:53:13] <zetok> Impyy: https://gist.github.com/zetok/4f685582b63c5677bb20 here you go
+[18:55:24] <Impyy> zetok, I see, thanks
+[18:55:38] <zetok> you're welcome
+[18:55:52] <SylvieLorxu> I don't think #6 is a good idea
+[18:56:09] <SylvieLorxu> I quite like being able to act silly there so I can remain mostly professional here
+[18:58:26] <haavard> Too bad Tox isn't a democracy.
+[19:01:46] <zetok> irungentoo: ping?
+[19:02:18] <NikolaiToryzin> haavard, ikr
+[19:02:52] <haavard> zetok, lets fork Tox. With blackjack, and hookers.
+[19:03:43] <zetok> haavard: if you're testing my sense of humour, then I'm sorry, but I have to pass this time
+[19:04:02] <haavard> Oh, so this is serious then.
+[19:04:24] <zetok> haavard: Yes.
+[19:09:23] <zetok> irungentoo: ping? I hope that you will be able to answer in next ~hour or so, because right now it looks like you're trying to avoid responding, hoping that issue will go away if you ignore it.
+[19:11:50] <zetok> irungentoo: Also, I really hope that you do not simply support stq's actions, and thus you are silent.
+[19:13:35] <zetok> irungentoo, NikolaiToryzin: btw, why was I banned on #tox-ontopic ?
+[19:14:14] <SylvieLorxu> zetok: Because NikolaiToryzin's bot was horribly misconfigured and NikolaiToryzin is slow to fix it and nobody can figure out how to get you off the akick list
+[19:14:38] <zetok> SylvieLorxu: it is not NikolaiToryzin, it is not broken and works as intended.
+[19:14:45] <zetok> it is not NikolaiToryzin's bot*
+[19:14:55] <SylvieLorxu> zetok: the_kgb is his bot
+[19:15:02] <zetok> yeah
+[19:15:27] <zetok> [05:43:42] *** Joins: cysm (cysm@unaffiliated/paracyst)
+[19:15:27] <zetok> [06:07:02] <subliun_> NikolaiToryzin, https://donate.tox.im/transparency/12015
+[19:15:27] <zetok> [06:07:24] <subliun_> NikolaiToryzin, https://support.libtoxcore.so/
+[19:15:27] <zetok> [06:11:22] <subliun_> NikolaiToryzin, I wanted to post about it on the support site but...
+[19:15:27] <zetok> [06:11:35] <zetok> >support site
+[19:15:27] <zetok> [06:11:36] <zetok> lol
+[19:15:29] <zetok> [06:12:44] *** ChanServ sets mode: +b *!*@unaffiliated/zetok
+[19:15:31] <zetok> [06:12:44] *** zetok was kicked by ChanServ (Banned: Tox is a no meme-arrow zone.)
+[19:15:35] <zetok> [08:17:24] *** Joins: zetok (~zetok@unaffiliated/zetok)
+[19:15:37] <zetok> [08:17:24] *** ChanServ sets mode: +b *!*@unaffiliated/zetok
+[19:15:39] <zetok> [08:17:24] *** zetok was kicked by ChanServ (Banned: Tox is a no meme-arrow zone.)
+[19:15:41] <zetok> sorry for spam people, relevant part
+[19:15:45] <SylvieLorxu> Yes, that's the stupid bot
+[19:15:51] <zetok> SylvieLorxu: as you see, it works as intended.
+[19:15:54] <SylvieLorxu> It banned like 3 other people too
+[19:16:43] <zetok> SylvieLorxu: oh, so you're claiming that it doesn't work as intended?
+[19:17:03] <SylvieLorxu> Intended or not, its behaviour is insane
+[19:17:11] <zetok> Ok.
+[19:17:23] <zetok> Who is then the idiot responsible for bot?
+[19:17:29] <zetok> NikolaiToryzin: ↑
+[19:17:38] <zetok> and why bot wasn't kicked/banned already?
+[19:18:20] <SylvieLorxu> It's NikolaiToryzin's bot, but you know just as well as me that that isn't a serious channel and that acting like this over it isn't productiv
+[19:18:24] <SylvieLorxu> *productive
+[19:18:44] <zetok> SylvieLorxu: Eh.
+[19:18:56] <zetok> This is not the problem, but one of its symptoms.
+[19:19:22] <itsrachelfish> >wait can I really not do this
+[19:19:28] <itsrachelfish> oh ok
+[19:19:32] <SylvieLorxu> Please don't take things in #tox-ontopic seriously. It's not meant as a serious channel
+[19:20:06] <zetok> SylvieLorxu: Why everyone seem to think that I take things in #tox-ontopic seriously?
+[19:20:25] <Yaniel> maybe because you keep referring to it in your examples
+[19:20:27] <SylvieLorxu> zetok: Well, you are complaining in #tox about something silly a bit did in that channel
+[19:20:33] <SylvieLorxu> s/bit/bot/
+[19:21:23] <zetok> SylvieLorxu: #tox seems like a proper place for it, provided that other means do not seem to work.
+[19:22:07] <zetok> SylvieLorxu: I've asked in private → ignored; Asked in -dev → stq called me 'crazy'…
+[19:22:08] <SylvieLorxu> zetok: #tox is not a proper place to discuss #tox-ontopic things. #tox is made for serious Tox-related discussions and support. #tox-ontopic is for silly joking
+[19:22:26] <SylvieLorxu> #tox-dev also isn't the correct place because that's for actual development
+[19:22:30] <zetok> SylvieLorxu: This is a serious issue about changes needed in Tox.
+[19:22:37] <SylvieLorxu> But I do agree that it's hard to get NikolaiToryzin to do anything
+[19:23:17] <zetok> SylvieLorxu: It is not /hard/ but simply stq currently hinders Tox.
+[19:23:53] <itsrachelfish> What's stq?
+[19:23:59] <SylvieLorxu> itsrachelfish: NikolaiToryzin
+[19:24:02] <itsrachelfish> Oh
+[19:25:54] <Yaniel> fwiw it seems to be mostly an attitude problem with the most visible tox devs
+[19:26:01] <Yaniel> you know who you are
+[19:28:06] <yuki-kun> is tox kill?
+[19:28:34] <zetok> irungentoo: I hope that things I proposed will be acted upon properly. I really hope to hear from you in next ~24h, after that it will be a clear sign that you fully agree with stq, and that you don't see needed changes in Tox as necessary. I hope that this scenario will be avoided, since in that case I do not see point in wasting my time on Tox.
+[19:28:36] <Yaniel> more like kill-la-kill
+[19:29:07] <itsrachelfish> zetok: For references, what are your proposals?
+[19:29:24] <zetok> https://gist.github.com/zetok/4f685582b63c5677bb20
+[19:29:40] <tux3> Tox's HR management is such a trainwreck, dammit.
+[19:30:15] <zetok> tux3: it's not, since it doesn't exist
+[19:30:40] <tux3> Right! Let's just keep fighting each other! Not like we're in the same project.
+[19:31:13] <zetok> tux3: Fight?
+[19:31:15] <yuki-kun> I've been following this project since its inception
+[19:31:22] <yuki-kun> since the /g/ daily thread days
+[19:31:37] <zetok> tux3: I've proposed some changes, I don't really see point in just "fighting".
+[19:32:25] <NikolaiToryzin> zetok: you know the bot didn't ban you?
+[19:32:36] <zetok> NikolaiToryzin: Tell that to SylvieLorxu.
+[19:32:53] <yuki-kun> Is stqism now Nikolai?
+[19:33:05] <SylvieLorxu> NikolaiToryzin: You could've said that, like, several hours ago when I was first told it was the bot
+[19:33:36] <yuki-kun> is stqism an NSA agent?
+[19:34:07] <yuki-kun> because since the start of this project i've only seen problems related to him
+[19:38:15] <SylvieLorxu> yuki-kun: He is not an NSA agent, but yes, we have had a lot of trouble with him from the start and I really can't bother even defending him anymore because no matter what you try he doesn't change anyway
+[19:39:19] <NikolaiToryzin> zetok, I figure everything stems from #tox-ontopic
+[19:39:37] <SylvieLorxu> NikolaiToryzin: Let me make that personally clear: It doesn't.
+[19:39:58] <zetok> NikolaiToryzin: IIRC, I said several times that this is serious.
+[19:40:02] <NikolaiToryzin> SylvieLorxu, ontopic has corrupted us all
+[19:40:07] <SylvieLorxu> NikolaiToryzin: Bullshit
+[19:40:10] <NikolaiToryzin> zetok, So I'm totally removing the channel
+[19:40:10] <yuki-kun> well, how do we know whether he is or he isn't an agent trying to disrupt this project?
+[19:40:25] <SylvieLorxu> NikolaiToryzin: The problem is that you are simply untrustworthy
+[19:40:26] <NikolaiToryzin> SylvieLorxu, Before ontopic I tried to make things as professional as possible
+[19:40:29] <SylvieLorxu> You don't do as you promised
+[19:40:36] <SylvieLorxu> Where's the mailing list?
+[19:40:44] <NikolaiToryzin> I can't do things you want me to when I'm blocked by other things
+[19:40:53] <SylvieLorxu> Every time you "do something" we end up with nothing happening at all
+[19:40:53] <NikolaiToryzin> You can't just magically make things happen
+[19:41:07] <SylvieLorxu> You can't use the same argument a million times
+[19:41:22] <SylvieLorxu> If you can't do something, say it in advance, not after we've been waiting for months and are sick of it
+[19:41:34] <itsrachelfish> I joined #tox about 4 days ago. In that span of time I've seen 1 person quit an administrative role because of NikolaiToryzin and zetok complain incessently
+[19:42:06] <yuki-kun> itsrachelfish, thanks for the input. Do you think it's state actors trying to stall this project?
+[19:42:06] <NikolaiToryzin> SylvieLorxu, How am I supposed to know GNU mailman wouldn't connect to our existing stuff at all before trying?
+[19:42:16] <itsrachelfish> yuki-kun: LOL no
+[19:42:22] <NikolaiToryzin> When I realised it wouldn't work I complained about it
+[19:42:40] <yuki-kun> itsrachelfish, confirmed for NSA :)
+[19:42:42] <yuki-kun> jk
+[19:42:56] <SylvieLorxu> NikolaiToryzin: Download page? Transparency report? Social media? All unsolved issues too for months and months
+[19:43:02] <zetok> NikolaiToryzin: the only thing you initially said was that it was, lemme quote "shit"
+[19:43:39] <zetok> NikolaiToryzin: Only after being queried a lot, you "revealed" that it had problems with connecting to current infrastructure.
+[19:43:42] <NikolaiToryzin> SylvieLorxu, waiting on irungentoo for piwik creds, takes a ton of work to get situated, not my job, 99.9% of them are fixed
+[19:43:53] <NikolaiToryzin> zetok, I said so hours after
+[19:43:56] <NikolaiToryzin> in -dev
+[19:43:59] <SylvieLorxu> NikolaiToryzin: Things not going well happens, but you totally need to change your attitude
+[19:44:07] <SylvieLorxu> NikolaiToryzin: https://donate.tox.im/transparency/12015 That's not fixed
+[19:44:14] <SylvieLorxu> And you were told about that a good month ago
+[19:44:45] <NikolaiToryzin> SylvieLorxu, That requires a ton of work and effort to get everything
+[19:45:09] <SylvieLorxu> NikolaiToryzin: There are literally a million ways you can make that at least acceptably less broken
+[19:45:10] <NikolaiToryzin> I don't have the time to sit around and spend a couple days figuring everything out
+[19:45:17] <zetok> NikolaiToryzin: why then you're the one doing it?
+[19:45:33] <NikolaiToryzin> zetok, I have 30000 million things to do
+[19:45:41] <NikolaiToryzin> With Tox and with my normal life
+[19:45:44] <yuki-kun> zetok raises a good question. Why take responsibilities for things you can't do?
+[19:45:52] <NikolaiToryzin> It's fairly difficult to do everything all at once magically
+[19:45:56] <zetok> NikolaiToryzin: Again, why you are the one doing it if you do not have time for it?
+[19:46:04] <SylvieLorxu> NikolaiToryzin: Then give someone else access to fix some of this stuff
+[19:46:07] <NikolaiToryzin> yuki-kun, Because no one steps up to help with the majority of things
+[19:46:18] <itsrachelfish> I can help
+[19:46:20] <itsrachelfish> pls instruct
+[19:46:26] <zetok> NikolaiToryzin: When you have asked for help?
+[19:46:32] <NikolaiToryzin> SylvieLorxu, Plenty of people have access to things, though in some cases I can't just hand out credentials to critical things
+[19:46:39] <NikolaiToryzin> zetok, Too much pride to ask.
+[19:46:44] <NikolaiToryzin> You could offer though
+[19:46:50] * SylvieLorxu slaps NikolaiToryzin
+[19:46:53] <yuki-kun> LOL
+[19:47:01] <SylvieLorxu> Fuck your pride, that's the whole problem
+[19:47:03] <SylvieLorxu> Your attitude is horrible
+[19:47:07] <zetok> ↑
+[19:47:08] <tux3> ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[19:47:11] <yuki-kun> muh egoism
+[19:47:14] <SylvieLorxu> This is why people end up getting pissed at you all the time
+[19:47:26] <NikolaiToryzin> I'm not going to go out asking people to do things for free because I want them to
+[19:47:33] <NikolaiToryzin> People have lives and responsabilities
+[19:47:37] <yuki-kun> what
+[19:47:37] <SylvieLorxu> ...
+[19:47:38] <yuki-kun> ...
+[19:47:39] <SylvieLorxu> I'm done here
+[19:47:41] *** Parts: SylvieLorxu 
+[19:48:23] <NikolaiToryzin> Yeah, if you want to help with something let me know, but constantly complaining about things doesn't get them done
+[19:49:13] <zetok> NikolaiToryzin: I think that you have just proven that you do not fit to lead Tox.
+[19:49:36] <yuki-kun> I can help with non-programming related things. Documentation, translation etc.
+[19:49:45] <yuki-kun> Anyway, i'm surprised this hasn't just been forked.
+[19:49:57] <itsrachelfish> Oh god
+[19:50:00] <NikolaiToryzin> yuki-kun, Want to actually help?
+[19:50:01] <itsrachelfish> Please don't say things like that
+[19:50:13] <yuki-kun> NikolaiToryzin, yes, though I admit I am not really skilled with programming
+[19:50:14] <NikolaiToryzin> yuki-kun, Any chance you know Python?
+[19:50:22] <yuki-kun> Only very basic
+[19:50:25] <NikolaiToryzin> Super easy stuff honestly
+[19:50:25] <itsrachelfish> What do you guys use python for?
+[19:50:36] <NikolaiToryzin> itsrachelfish, backend website stuff
+[19:50:39] <itsrachelfish> oic
+[19:50:48] <zetok> itsrachelfish: toxme.se
+[19:50:58] <itsrachelfish> i am programar
+[19:51:02] <yuki-kun> are there any tutorials on how to learn python from that perspective?
+[19:51:06] <NikolaiToryzin> tox.im, donate, new downloads page, etc
+[19:51:09] <yuki-kun> I'm willing to learn just for this project.
+[19:51:19] <itsrachelfish> yuki-kun: CodeCademy.com
+[19:51:26] <NikolaiToryzin> yuki-kun, I love that attitude.
+[19:51:33] <itsrachelfish> Hhttp://www.codecademy.com/tracks/python
+[19:51:38] <itsrachelfish> oops
+[19:51:39] <NikolaiToryzin> zetok, You're not helping, you're creating cracks.
+[19:51:39] <itsrachelfish> http://www.codecademy.com/tracks/python
+[19:51:45] <zetok> NikolaiToryzin: Yes.
+[19:51:53] <yuki-kun> Surely codeacademy isn't enough?
+[19:51:59] <zetok> lemme quote myself, from other talk I had
+[19:52:10] <itsrachelfish> yuki-kun: It'd be better than nothing!
+[19:52:11] <NikolaiToryzin> Seriously, itsrachelfish and yuki-kun, would love to have you folks help out with some of these minor things :)
+[19:52:15] <itsrachelfish> hi guys
+[19:52:16] <itsrachelfish> https://github.com/itsrachelfish
+[19:52:18] <itsrachelfish> I am programer
+[19:52:21] <itsrachelfish> pls 2 be leting me help
+[19:52:31] <itsrachelfish> I work as business profeshinal
+[19:52:33] <itsrachelfish> in an office
+[19:52:34] <zetok> I expect stq to be expelled sooner or later, it's more or less a matter of time" "but I'm acting now because I can no longer being in same project as him" "and I won't be able to wait years for him to be expelled"
+[19:52:47] <NikolaiToryzin> itsrachelfish, Neat https://github.com/wetfish/corporate/commit/7c7cbaa43c5d2b1a7a1640d47a04fdfbd7a7b02a
+[19:52:51] <zetok> NikolaiToryzin: ↑ this is why I'm widening cracks now.
+[19:52:58] <itsrachelfish> yep that happened
+[19:53:04] <itsrachelfish> NikolaiToryzin: https://wetfish.net
+[19:53:04] <itsrachelfish> :P
+[19:53:07] <NikolaiToryzin> zetok, Have you ever considered being a part of the solution?
+[19:53:16] <zetok> NikolaiToryzin: Yes.
+[19:53:24] <yuki-kun> lol what is this
+[19:53:30] <yuki-kun> wet fish
+[19:53:32] <itsrachelfish> NikolaiToryzin: that was the first day I installed tox
+[19:53:35] <itsrachelfish> yuki-kun: my websight
+[19:53:36] <NikolaiToryzin> itsrachelfish, Nice toxme shoutout :P
+[19:53:58] <yuki-kun> that domain
+[19:53:59] <yuki-kun> nice
+[19:54:01] <itsrachelfish> thx
+[19:54:09] <itsrachelfish> how do you catch a wet fish? you use a net
+[19:54:20] <yuki-kun> I see
+[19:54:21] <zetok> NikolaiToryzin: I figured that when after private talk we had you didn't change the way you go around things, trying to cooperate with you has no point.
+[19:54:50] <yuki-kun> itsrachelfish, okay, so i'll complete the codeacademy thing I was doing..I had left in the start because it seemed to be going nowhere
+[19:54:57] <NikolaiToryzin> yuki-kun, itsrachelfish So a bit of a bug, we need to get this to 307 to /lang https://github.com/Tox/Tox-Website/blob/master/tox.osiris.py
+[19:55:47] <NikolaiToryzin> zetok, You complain about the same things without figuring the actual issues and cause me to be frustrated. That's where the issues start to develop
+[19:56:52] <zetok> NikolaiToryzin: No, issues started to develop long time before that.
+[19:56:57] <itsrachelfish> look you guise
+[19:57:00] <itsrachelfish> sometimes I write python too
+[19:57:01] <itsrachelfish> https://github.com/itsrachelfish/gstreamer/blob/master/preview.py
+[19:57:14] <NikolaiToryzin> itsrachelfish, yuki-kun Here's the thing, I sorta messed up writing it so it needs to be moved around a bunch so only / 307's
+[19:57:36] <itsrachelfish> ok NikolaiToryzin here's the thing, I'm actually at work right now and I need to go back to being responsible
+[19:57:36] <zetok> NikolaiToryzin: You also cause frustration, linking to psychological material, and then behaving as if you don't use that knowledge in practice.
+[19:57:42] <itsrachelfish> I'll hit you up tonight when I'm home ok?
+[19:57:49] <itsrachelfish> <3
+[19:58:04] <zetok> NikolaiToryzin: which leads to question, why did you link to that material in the first place?
+[19:58:43] <NikolaiToryzin> itsrachelfish, mkay, thanks! If I'm here I'll work you through how that works, I think most of the issues are caused by me having too much to deal with and dealing with it poorly, so some help would be great.
+[20:00:36] <zetok> NikolaiToryzin: That's just yet another issue with you not being right person for the job, since you don't seem to be able to stay on topic for long an focus on actual issues.
+[20:00:50] <zetok> for long and*
+[20:01:29] <NikolaiToryzin> zetok, If you want to actually resolve problems and not cause arguments I've got a task for you
+[20:01:53] <NikolaiToryzin> zetok, Add piwik js to Tox-Website and the new downloads page
+[20:01:58] <zetok> lol
+[20:02:02] <NikolaiToryzin> yuki-kun, Should also be an easy task if you wanted it
+[20:02:19] <zetok> NikolaiToryzin: You should already know that I cannot into programming.. unless that doesn't require it?
+[20:02:31] <NikolaiToryzin> It's mostly copy + paste
+[20:04:11] <zetok> NikolaiToryzin: what about more important changes than removing #tox-ontopic ?
+[20:04:27] <zetok> NikolaiToryzin: other than 1.
+[20:04:36] <NikolaiToryzin> zetok, You know how you resolve issues and make everything happier while removing issues?
+[20:04:53] <NikolaiToryzin> You figure out what needs to be done and what I'm stressing over and see what you can help with
+[20:05:08] <zetok> NikolaiToryzin: I can't read mind.
+[20:05:13] <NikolaiToryzin> I deal with stress in a really poor way and currently you're just frustrating me more
+[20:05:17] <NikolaiToryzin> That's why you ask
+[20:05:22] <yuki-kun> NikolaiToryzin, I didn't understand what you meant by move around "/ 307's"
+[20:05:26] <zetok> NikolaiToryzin: That's one of issues with you, you don't communicate what needs to be done.
+[20:06:46] <zetok> NikolaiToryzin: and that's yet another thing for which mailing list with technical people would be good → you could announce there what needs to be done
+[20:06:59] <zetok> and ask for help
+[20:07:06] <NikolaiToryzin> Why don't you make it?
+[20:07:18] <zetok> NikolaiToryzin: an official ML?
+[20:07:19] <NikolaiToryzin> I'll get you situated with everything you might need
+[20:07:31] <zetok> NikolaiToryzin: Really?
+[20:07:37] <NikolaiToryzin> Of course
+[20:08:03] <NikolaiToryzin> We only have issues because I'm getting stressed out by people demanding I do everything all at once while juggling
+[20:08:25] <tux3> NikolaiToryzin, I love you when you're trying please keep this up :3
+[20:08:32] <zetok> as much as I would like to say "Yes. I will." to your proposal, I have a real question: do you really think that I would be able to do this? (especially doing it without breaking stuff, which I want to avoid?)
+[20:08:45] <NikolaiToryzin> Will you die if you try?
+[20:09:07] <zetok> no, I'm just afraid that I'll fuck up Tox infrastructure in process of trying
+[20:09:10] <yuki-kun> nah
+[20:09:17] <yuki-kun> try, I'm trying to figure out my task too
+[20:09:18] <yuki-kun> lol
+[20:09:25] <NikolaiToryzin> zetok, I use totally isolated VMs for everything
+[20:09:37] <zetok> NikolaiToryzin: Well, I've got a week free, so in that time I will try to make it work.
+[20:09:49] <NikolaiToryzin> You'd use a totally brand new server that I can wipe in a click
+[20:10:11] <NikolaiToryzin> zetok, See? This is how we work and improve things
+[20:10:20] <zetok> also, please bear in mind that I have no knowledge about mail setup, nor about mailing lists
+[20:10:23] <NikolaiToryzin> Just let me know when you want the creds
+[20:10:24] <yuki-kun> mfw stqism is providing a free VM
+[20:10:27] <yuki-kun> nice
+[20:10:30] <tux3> THIS IS REAL PEOPLE. NikolaiToryzin AND zetok ARE WORKING TOGETHER !!!
+[20:10:34] <tux3> HOLLY SHIT!
+[20:10:36] <NikolaiToryzin> No one knows anything about mailservers
+[20:10:39] <NikolaiToryzin> No one
+[20:11:03] <zetok> NikolaiToryzin: probably tomorrow. Now I gotta go to sleep, when I'll wake up I'll ping you
+[20:11:09] <NikolaiToryzin> mkay
+[20:11:33] *** tux3 is now known as everything_is_go
+[20:11:43] *** everything_is_go is now known as ing_to_be_fine
+[20:11:47] *** ing_to_be_fine is now known as tux3
+[20:12:08] *** itsrachelfish is now known as tux4
+[20:12:16] <Yaniel> whoa that went quickly
+[20:12:39] *** tux4 is now known as itsrachelfish
+[20:13:01] <NikolaiToryzin> brb
+[20:13:04] <Yaniel> now why couldn't we get here months ago
+[20:13:23] <Yaniel> anyway, looks like I'll continue my porting efforts
+[20:13:37] <NikolaiToryzin> Because no one asks to help ever but complains 24/7
+[20:13:54] <NikolaiToryzin> Do you know what it's like drawling with that all the time
+[20:14:08] <zetok> NikolaiToryzin: no, that's why you should say it
+[20:14:12] <zetok> make a blog, or something
+[20:14:14] <Yaniel> ask them to help
+[20:14:18] <zetok> also ↑
+[20:14:29] <NikolaiToryzin> Asking people to help really isn't part of my nature
+[20:14:39] <Yaniel> "totally agreed. can you do it? i sorta don't have time"
+[20:14:47] <zetok> NikolaiToryzin: Yes, that's why there's PR guy needed
+[20:14:53] <yuki-kun> I'm tired of these delays
+[20:14:57] <Yaniel> please at least try
+[20:14:57] <yuki-kun> I'll start learning python
+[20:15:01] <yuki-kun> and I'll be back
+[20:15:05] <Yaniel> yuki-kun: have fun
+[20:15:08] <yuki-kun> thanks
+[20:15:26] <NikolaiToryzin> Yaniel: I do try, it's just in my nature to try everything at once
+[20:15:44] <NikolaiToryzin> And I get overwhelmed in tasks from Tox while dealing with work
+[20:15:54] <NikolaiToryzin> And then people like to complain 24/7
+[20:15:54] <Yaniel> I'll keep that in mind
+[20:16:45] <zetok> NikolaiToryzin: again, tell them that there's not enough manpower and that help would be welcome (don't forget to put ':)' at the end)
+[20:16:59] <zetok> if you do that, you'd be much better at PR
+[20:17:27] <Yaniel> it's another sort of transparency
+[20:17:38] <zetok> anyway
+[20:17:50] <NikolaiToryzin> Pr has never been my job
+[20:17:53] <NikolaiToryzin> Like ever
+[20:18:27] <zetok> why no announcement?
+[20:18:31] <zetok> again → communicate
+[20:19:16] <zetok> NikolaiToryzin: I'm going to repeat "communication" until you will understand, or you will move to make place for someone who will understand ← by "move" I don't mean "resign", but to provide a way for that person to act
+[20:21:44] <zetok> Have a nice day/night/other, I'm going to sleep.
+[20:22:56] <platos> hello zetok
+[20:23:02] <platos> don't be such a weeb

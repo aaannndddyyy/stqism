@@ -1,0 +1,5 @@
+[14:03:26] <NikolaiToryzin> sonOfRa, Think you could watch this channel every now and then, kicking people who join and start shitposting, telling them to join ontopic?
+[14:03:42] <boreq> welcome, I have a question: what is the difference between toxgui and uTox? is one the reimplementation of the other?
+[14:03:54] <sonOfRa> NikolaiToryzin: sure
+[14:03:56] <NikolaiToryzin> boreq, Both are clients of one core library
+[14:03:59] *** NikolaiToryzin sets mode: +o sonOfRa

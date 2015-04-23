@@ -1,0 +1,7 @@
+1. Removal of stq from any position(s) from which he hurts Tox.
+2. Announce that there is needed person for PR.
+3. Announce that there is needed person for dealing with abuse.
+4. Announce that there is needed person for managing project.
+5. Clear status on who is responsible for what.
+6. Removal of #tox-ontopic
+7. Code of conduct for Tox

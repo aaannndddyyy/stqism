@@ -1,0 +1,39 @@
+[19:25:06] <zetok> https://gist.github.com/zetok/f6b1b395811560ecb8b8 ← for anyone who's interested
+[19:26:33] <zetok> also, can someone provide list of people that are currently in #tox-ontopic , so that I could notify them about changes?
+[19:28:35] <dylygs> I miss ontopic :(
+[19:29:03] <zetok>  /join #tox-real-ontopic
+[19:29:06] <zetok> dylygs: ↑ :)
+[19:29:28] <dylygs> jej
+[19:29:29] <dylygs> ty
+[19:29:38] <zetok> you're welcome ;)
+[19:33:51] <Sqt> dylygs, Want back in?
+[19:34:02] <Sqt> I kicked you out in the log leak purge
+[19:34:33] <itsback> Sqt: Ping
+[19:34:38] <Sqt> itsback, Hello
+[19:34:49] <zetok> >log leak purge
+[19:34:58] <zetok> why would you even need that?
+[19:34:59] <itsback> Sqt: you wanted to ask question ?
+[19:35:08] <Sqt> zetok, Logging is forbidden in #tox-{REDACTED}
+[19:35:13] <Sqt> itsback, Message me.
+[19:35:19] <zetok> Sqt: what do you mean?
+[19:35:25] <dylygs> thx sqt
+[19:35:52] <Sqt> dylygs, np bbygrill ;)))))
+[19:36:07] <dylygs> ;-)))))))))))))))))))))))
+[19:36:53] <Sqt> dylygs, Sorry about that, deinvited people to try to find the rat over the long run :)
+[19:37:13] <dylygs> there was a rat?
+[19:37:15] <Sqt> zetok, Like, making logs of any kind in #tox-{REDACTED} is a ban
+[19:37:24] <zetok> Sqt: you're a moron
+[19:37:33] <Sqt> dylygs, Aye, damn vermin poisoning the goodness that is redacted
+[19:37:50] <Sqt> zetok, Insults violates your silly set of rules
+[19:37:51] <dylygs> methinks some ratpoison was needed
+[19:37:58] <zetok> >comparing dylygs to vermin
+[19:38:07] <Sqt> I didn't call him vermin
+[19:38:08] <dylygs> >implying I'm not vermin
+[19:38:25] <Sqt> He's a goat thank you very much
+[19:38:28] <Sqt> Isn't that right
+[19:38:32] <dylygs> ( ͡~ ͜ʖ ͡°)
+[19:38:40] <Sqt> yessir
+[19:39:31] <dylygs> I think there might be someone that actually needs help in #tox
+[19:40:14] <Sqt> I'm going to hold off on issues until the new API is fully pushed
+[19:40:22] <Sqt> Too many variables
+[19:40:51] <dylygs> makes sense

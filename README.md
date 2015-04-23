@@ -7,9 +7,9 @@ This repository aims to provide background for stqism's actions, so that even so
 
 **To open it** in simplest and quickest way:
 
-1. Link: https://github.com/zetok/stqism/raw/master/stqism.fodt
-2. Right click → Save Link As → Save it somewhere on your disk (make sure to keep the ``.fodt`` file extension)
-3. Open file with LibreOffice
+1. Link: https://github.com/zetok/stqism/archive/master.zip
+2. Save zip, and unzip it
+3. Open file ``stqism.fodt`` with LibreOffice
 
 ====
 
