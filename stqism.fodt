@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-23T13:38:00.727840470</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT9H28M57S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="30" meta:image-count="3" meta:object-count="0" meta:page-count="15" meta:paragraph-count="389" meta:word-count="6286" meta:character-count="39517" meta:non-whitespace-character-count="33609"/></office:meta>
+ <office:meta><meta:initial-creator>Zetok </meta:initial-creator><meta:creation-date>2015-04-01T08:37:06.365862408</meta:creation-date><dc:date>2015-04-24T10:39:47.829746505</dc:date><dc:creator>Zetok </dc:creator><meta:editing-duration>PT9H31M19S</meta:editing-duration><meta:editing-cycles>46</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="30" meta:image-count="3" meta:object-count="0" meta:page-count="15" meta:paragraph-count="390" meta:word-count="6302" meta:character-count="39513" meta:non-whitespace-character-count="33590"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">435908</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">435892</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">28596</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">28594</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">17521</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11790</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">446904</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8006</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">448806</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">435908</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">28594</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">453427</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">435892</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">28593</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">453411</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">13819868</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">14201545</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -1268,79 +1268,82 @@
   <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="003e4a8b" officeooo:paragraph-rsid="003e4a8b"/>
   </style:style>
-  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="004b8a2b" officeooo:paragraph-rsid="004b8a2b"/>
+  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00d8b2c9" officeooo:paragraph-rsid="00d8b2c9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="004b8a2b" officeooo:paragraph-rsid="004b8a2b"/>
+  </style:style>
+  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="004ccd91" officeooo:paragraph-rsid="004ccd91"/>
   </style:style>
-  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="0087797f" officeooo:paragraph-rsid="0087797f"/>
   </style:style>
-  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="0094d4af" officeooo:paragraph-rsid="0094d4af"/>
   </style:style>
-  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:paragraph-rsid="00bde03b"/>
   </style:style>
-  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00be752a" officeooo:paragraph-rsid="00be752a"/>
   </style:style>
-  <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00c03164" officeooo:paragraph-rsid="00c03164"/>
   </style:style>
-  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00c14340" officeooo:paragraph-rsid="00c27456"/>
   </style:style>
-  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00c27456" officeooo:paragraph-rsid="00c27456"/>
   </style:style>
-  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00c3ef71" officeooo:paragraph-rsid="00c3ef71"/>
   </style:style>
-  <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00ced544" officeooo:paragraph-rsid="00ced544"/>
   </style:style>
-  <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="004ccd91" officeooo:paragraph-rsid="004ccd91"/>
   </style:style>
-  <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P184" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" officeooo:rsid="008ff1d7" officeooo:paragraph-rsid="008ff1d7" fo:background-color="#ff4646"/>
   </style:style>
-  <style:style style:name="P184" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P185" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="0087797f" officeooo:paragraph-rsid="0087797f"/>
   </style:style>
-  <style:style style:name="P185" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="008ff1d7" officeooo:paragraph-rsid="008ff1d7"/>
   </style:style>
-  <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="008ff1d7" officeooo:paragraph-rsid="008ff1d7" fo:background-color="#94bd5e"/>
   </style:style>
-  <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="0094f395" officeooo:paragraph-rsid="0094f395"/>
   </style:style>
-  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00ced544" officeooo:paragraph-rsid="00ced544"/>
   </style:style>
-  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0.101cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="008ff1d7" officeooo:paragraph-rsid="008ff1d7"/>
   </style:style>
@@ -1447,349 +1450,358 @@
    <style:text-properties fo:font-style="normal" officeooo:rsid="00c3ef71" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="000a166f"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00d7dda6" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="000a166f"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0004d5bc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00123a7a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0004d5bc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="002e6737" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00123a7a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0032e21e" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="002e6737" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00380704" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0032e21e" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="003762d6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00380704" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="000ae473"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="003762d6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties officeooo:rsid="000ae473"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ea784" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="001ff85e" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ea784" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="001ff85e" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ae473" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ae473" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ae473" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" officeooo:rsid="000ae473" style:font-size-asian="7.84999990463257pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="001ff85e" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ea784" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="001ff85e" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ea784" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:font-size-asian="7.84999990463257pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:font-size-asian="7.84999990463257pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" officeooo:rsid="000ae473" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" officeooo:rsid="000ae473" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
+   <style:text-properties officeooo:rsid="000b8af5"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties officeooo:rsid="000c6ff8"/>
+   <style:text-properties officeooo:rsid="000b8af5" fo:background-color="#99ccff" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties officeooo:rsid="000ca9e8"/>
+   <style:text-properties officeooo:rsid="000c6ff8"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties officeooo:rsid="000ea784"/>
+   <style:text-properties officeooo:rsid="000ca9e8"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="00104577"/>
+   <style:text-properties officeooo:rsid="000ea784"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties officeooo:rsid="00123a7a"/>
+   <style:text-properties officeooo:rsid="00104577"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties officeooo:rsid="00157273"/>
+   <style:text-properties officeooo:rsid="00123a7a"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties officeooo:rsid="001e36be"/>
+   <style:text-properties officeooo:rsid="00157273"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties officeooo:rsid="0020df2d"/>
+   <style:text-properties officeooo:rsid="001e36be"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties officeooo:rsid="00242f45"/>
+   <style:text-properties officeooo:rsid="0020df2d"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties officeooo:rsid="00258574"/>
+   <style:text-properties officeooo:rsid="00242f45"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties officeooo:rsid="00277d3f"/>
+   <style:text-properties officeooo:rsid="00258574"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties officeooo:rsid="002b1a25"/>
+   <style:text-properties officeooo:rsid="00277d3f"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties officeooo:rsid="002e6737"/>
+   <style:text-properties officeooo:rsid="002b1a25"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties officeooo:rsid="00318d5b"/>
+   <style:text-properties officeooo:rsid="002e6737"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties officeooo:rsid="0032e21e"/>
+   <style:text-properties officeooo:rsid="00318d5b"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties officeooo:rsid="0034d5ec"/>
+   <style:text-properties officeooo:rsid="0032e21e"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties officeooo:rsid="00380704"/>
+   <style:text-properties officeooo:rsid="0034d5ec"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties officeooo:rsid="003917c1" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="00380704"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties officeooo:rsid="000ea784" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="003917c1" style:language-asian="ja" style:country-asian="JP"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties officeooo:rsid="000b8af5" style:language-asian="ja" style:country-asian="JP"/>
+   <style:text-properties officeooo:rsid="000ea784" style:language-asian="ja" style:country-asian="JP"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties officeooo:rsid="003762d6"/>
+   <style:text-properties officeooo:rsid="000b8af5" style:language-asian="ja" style:country-asian="JP"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties officeooo:rsid="003cc0e5"/>
+   <style:text-properties officeooo:rsid="003762d6"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties officeooo:rsid="003cf058"/>
+   <style:text-properties officeooo:rsid="003cc0e5"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties officeooo:rsid="0040f514"/>
+   <style:text-properties officeooo:rsid="003cf058"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties officeooo:rsid="0042d488"/>
+   <style:text-properties officeooo:rsid="0040f514"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties officeooo:rsid="0044ae94"/>
+   <style:text-properties officeooo:rsid="0042d488"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties officeooo:rsid="0047ea9e"/>
+   <style:text-properties officeooo:rsid="0044ae94"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties officeooo:rsid="0049abfa"/>
+   <style:text-properties officeooo:rsid="0047ea9e"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
-   <style:text-properties officeooo:rsid="004f162f"/>
+   <style:text-properties officeooo:rsid="0049abfa"/>
   </style:style>
   <style:style style:name="T89" style:family="text">
-   <style:text-properties officeooo:rsid="0055c3ec"/>
+   <style:text-properties officeooo:rsid="004f162f"/>
   </style:style>
   <style:style style:name="T90" style:family="text">
-   <style:text-properties officeooo:rsid="0055c9c1"/>
+   <style:text-properties officeooo:rsid="0055c3ec"/>
   </style:style>
   <style:style style:name="T91" style:family="text">
-   <style:text-properties officeooo:rsid="005789b3"/>
+   <style:text-properties officeooo:rsid="0055c9c1"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
-   <style:text-properties officeooo:rsid="0067869d"/>
+   <style:text-properties officeooo:rsid="005789b3"/>
   </style:style>
   <style:style style:name="T93" style:family="text">
-   <style:text-properties officeooo:rsid="00722598"/>
+   <style:text-properties officeooo:rsid="0067869d"/>
   </style:style>
   <style:style style:name="T94" style:family="text">
-   <style:text-properties officeooo:rsid="00770c63"/>
+   <style:text-properties officeooo:rsid="00722598"/>
   </style:style>
   <style:style style:name="T95" style:family="text">
-   <style:text-properties officeooo:rsid="007facf6"/>
+   <style:text-properties officeooo:rsid="00770c63"/>
   </style:style>
   <style:style style:name="T96" style:family="text">
-   <style:text-properties officeooo:rsid="0083b75e"/>
+   <style:text-properties officeooo:rsid="007facf6"/>
   </style:style>
   <style:style style:name="T97" style:family="text">
-   <style:text-properties fo:font-size="16pt" fo:language="zxx" fo:country="none" style:font-size-asian="16pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="16pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties officeooo:rsid="0083b75e"/>
   </style:style>
   <style:style style:name="T98" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:font-size="16pt" fo:language="zxx" fo:country="none" style:font-size-asian="16pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="16pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T99" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00770c63" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T100" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="005789b3" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00770c63" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T101" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="004f162f" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="005789b3" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T102" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="004ccd91" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="004f162f" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T103" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0049abfa" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="004ccd91" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T104" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0044ae94" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0049abfa" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T105" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00b6b8ea" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0044ae94" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T106" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="002e6737" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00b6b8ea" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T107" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00380704" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="002e6737" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T108" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0020df2d" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00380704" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T109" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="002b1a25" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0020df2d" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T110" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0000005c" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="002b1a25" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T111" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="000c6ff8" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="0000005c" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T112" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="000c6ff8" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T113" style:family="text">
-   <style:text-properties fo:language="zxx" fo:country="none" fo:font-weight="normal" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="normal" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="000ae473" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T114" style:family="text">
-   <style:text-properties officeooo:rsid="008afea6"/>
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00aa74f9" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="T115" style:family="text">
-   <style:text-properties officeooo:rsid="008c2937"/>
+   <style:text-properties fo:language="zxx" fo:country="none" fo:font-weight="normal" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="normal" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T116" style:family="text">
-   <style:text-properties officeooo:rsid="0091de3b"/>
+   <style:text-properties officeooo:rsid="008afea6"/>
   </style:style>
   <style:style style:name="T117" style:family="text">
-   <style:text-properties officeooo:rsid="009344e5"/>
+   <style:text-properties officeooo:rsid="008c2937"/>
   </style:style>
   <style:style style:name="T118" style:family="text">
-   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+   <style:text-properties officeooo:rsid="0091de3b"/>
   </style:style>
   <style:style style:name="T119" style:family="text">
-   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single" fo:font-style="normal" officeooo:rsid="00b175f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="009344e5"/>
   </style:style>
   <style:style style:name="T120" style:family="text">
-   <style:text-properties officeooo:rsid="009b6e56"/>
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
   </style:style>
   <style:style style:name="T121" style:family="text">
-   <style:text-properties officeooo:rsid="009da3b1"/>
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single" fo:font-style="normal" officeooo:rsid="00b175f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T122" style:family="text">
-   <style:text-properties officeooo:rsid="009e9df3"/>
+   <style:text-properties officeooo:rsid="009b6e56"/>
   </style:style>
   <style:style style:name="T123" style:family="text">
-   <style:text-properties officeooo:rsid="00a04c2c"/>
+   <style:text-properties officeooo:rsid="009da3b1"/>
   </style:style>
   <style:style style:name="T124" style:family="text">
-   <style:text-properties officeooo:rsid="00a7b020"/>
+   <style:text-properties officeooo:rsid="009e9df3"/>
   </style:style>
   <style:style style:name="T125" style:family="text">
-   <style:text-properties officeooo:rsid="00a92ea4"/>
+   <style:text-properties officeooo:rsid="00a04c2c"/>
   </style:style>
   <style:style style:name="T126" style:family="text">
-   <style:text-properties officeooo:rsid="00aa74f9"/>
+   <style:text-properties officeooo:rsid="00a7b020"/>
   </style:style>
   <style:style style:name="T127" style:family="text">
-   <style:text-properties officeooo:rsid="00accc0a"/>
+   <style:text-properties officeooo:rsid="00a92ea4"/>
   </style:style>
   <style:style style:name="T128" style:family="text">
-   <style:text-properties officeooo:rsid="00b175f7"/>
+   <style:text-properties officeooo:rsid="00aa74f9"/>
   </style:style>
   <style:style style:name="T129" style:family="text">
-   <style:text-properties officeooo:rsid="00b36280"/>
+   <style:text-properties officeooo:rsid="00accc0a"/>
   </style:style>
   <style:style style:name="T130" style:family="text">
-   <style:text-properties officeooo:rsid="00b4c882"/>
+   <style:text-properties officeooo:rsid="00b175f7"/>
   </style:style>
   <style:style style:name="T131" style:family="text">
-   <style:text-properties officeooo:rsid="00b6b8ea"/>
+   <style:text-properties officeooo:rsid="00b36280"/>
   </style:style>
   <style:style style:name="T132" style:family="text">
-   <style:text-properties officeooo:rsid="00b78d1d"/>
+   <style:text-properties officeooo:rsid="00b4c882"/>
   </style:style>
   <style:style style:name="T133" style:family="text">
-   <style:text-properties officeooo:rsid="00ba3cc8"/>
+   <style:text-properties officeooo:rsid="00b6b8ea"/>
   </style:style>
   <style:style style:name="T134" style:family="text">
-   <style:text-properties officeooo:rsid="00bde03b"/>
+   <style:text-properties officeooo:rsid="00b78d1d"/>
   </style:style>
   <style:style style:name="T135" style:family="text">
-   <style:text-properties officeooo:rsid="00be517e"/>
+   <style:text-properties officeooo:rsid="00ba3cc8"/>
   </style:style>
   <style:style style:name="T136" style:family="text">
-   <style:text-properties officeooo:rsid="00c03164"/>
+   <style:text-properties officeooo:rsid="00bde03b"/>
   </style:style>
   <style:style style:name="T137" style:family="text">
-   <style:text-properties officeooo:rsid="00c14340"/>
+   <style:text-properties officeooo:rsid="00be517e"/>
   </style:style>
   <style:style style:name="T138" style:family="text">
-   <style:text-properties officeooo:rsid="00c27456"/>
+   <style:text-properties officeooo:rsid="00c03164"/>
   </style:style>
   <style:style style:name="T139" style:family="text">
-   <style:text-properties officeooo:rsid="00c5bc87"/>
+   <style:text-properties officeooo:rsid="00c14340"/>
   </style:style>
   <style:style style:name="T140" style:family="text">
-   <style:text-properties officeooo:rsid="00c793a6"/>
+   <style:text-properties officeooo:rsid="00c27456"/>
   </style:style>
   <style:style style:name="T141" style:family="text">
-   <style:text-properties officeooo:rsid="00cbbe57"/>
+   <style:text-properties officeooo:rsid="00c5bc87"/>
   </style:style>
   <style:style style:name="T142" style:family="text">
-   <style:text-properties officeooo:rsid="00cd5148"/>
+   <style:text-properties officeooo:rsid="00c793a6"/>
   </style:style>
   <style:style style:name="T143" style:family="text">
-   <style:text-properties officeooo:rsid="00cdbcb4"/>
+   <style:text-properties officeooo:rsid="00cbbe57"/>
   </style:style>
   <style:style style:name="T144" style:family="text">
-   <style:text-properties officeooo:rsid="00ce7b83"/>
+   <style:text-properties officeooo:rsid="00cd5148"/>
   </style:style>
   <style:style style:name="T145" style:family="text">
-   <style:text-properties officeooo:rsid="00ced544"/>
+   <style:text-properties officeooo:rsid="00cdbcb4"/>
   </style:style>
   <style:style style:name="T146" style:family="text">
-   <style:text-properties officeooo:rsid="00cf6e47"/>
+   <style:text-properties officeooo:rsid="00ce7b83"/>
   </style:style>
   <style:style style:name="T147" style:family="text">
-   <style:text-properties style:text-position="super 58%" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00cf6e47" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="00ced544"/>
   </style:style>
   <style:style style:name="T148" style:family="text">
-   <style:text-properties fo:font-size="9pt" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties officeooo:rsid="00cf6e47"/>
   </style:style>
   <style:style style:name="T149" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00cf6e47" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T150" style:family="text">
+   <style:text-properties fo:font-size="9pt" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T151" style:family="text">
    <style:text-properties fo:font-size="9pt" fo:language="zxx" fo:country="none" officeooo:rsid="003b32c5" style:font-size-asian="9pt" style:language-asian="zxx" style:country-asian="none" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="T152" style:family="text">
+   <style:text-properties officeooo:rsid="00d7dda6"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -2142,9 +2154,9 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P59">This document aims to <text:span text:style-name="T2">show and provide background for </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T2">&apos;s</text:span><text:span text:style-name="T2"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-       <text:p text:style-name="P73"><text:span text:style-name="T43">Otherwise known as </text:span><text:span text:style-name="T54">NikolaiToryzin</text:span><text:span text:style-name="T48">, </text:span><text:span text:style-name="T54">AlexStraunoff</text:span><text:span text:style-name="T48">, </text:span><text:span text:style-name="T53">sqt</text:span><text:span text:style-name="T45">, </text:span><text:span text:style-name="T52">Sqt</text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="T51">coup_de_shitlord</text:span><text:span text:style-name="T47">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T149">killallpolish</text:span></text:span><text:span text:style-name="T57">. Common abbreviation: </text:span><text:span text:style-name="T55">stq</text:span><text:span text:style-name="T57"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
+       <text:p text:style-name="P73"><text:span text:style-name="T44">Otherwise known as </text:span><text:span text:style-name="T55">NikolaiToryzin</text:span><text:span text:style-name="T49">, </text:span><text:span text:style-name="T55">AlexStraunoff</text:span><text:span text:style-name="T49">, </text:span><text:span text:style-name="T54">sqt</text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="T53">Sqt</text:span><text:span text:style-name="T47">, </text:span><text:span text:style-name="T52">coup_de_shitlord</text:span><text:span text:style-name="T48">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T151">killallpolish</text:span></text:span><text:span text:style-name="T58">. Common abbreviation: </text:span><text:span text:style-name="T56">stq</text:span><text:span text:style-name="T58"> </text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> actions, so that even someone who is not well-oriented in nuances of Tox could understand the problem.</text:span></text:p>
    <text:p text:style-name="P59"/>
-   <text:p text:style-name="P64">Events are sorted in ~chronological order. <text:span text:style-name="T77">Full quotes are not</text:span><text:span text:style-name="T58"> included in this document, due to </text:span><text:span text:style-name="T77">some parts of them </text:span><text:span text:style-name="T58">being irrelevant. For full background, look in </text:span><text:span text:style-name="T77">the</text:span><text:span text:style-name="T58"> </text:span><text:span text:style-name="T59">background</text:span><text:span text:style-name="T58"> directory.</text:span></text:p>
+   <text:p text:style-name="P64">Events are sorted in ~chronological order. <text:span text:style-name="T78">Full quotes are not</text:span><text:span text:style-name="T59"> included in this document, due to </text:span><text:span text:style-name="T78">some parts of them </text:span><text:span text:style-name="T59">being irrelevant. For full background, look in </text:span><text:span text:style-name="T78">the</text:span><text:span text:style-name="T59"> </text:span><text:span text:style-name="T60">background</text:span><text:span text:style-name="T59"> directory.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
@@ -2248,7 +2260,7 @@
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="P76" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__4510_318013630"/>Lying about own nick<text:bookmark-end text:name="__RefHeading__4510_318013630"/></text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P68"><text:span text:style-name="quote">stqism</text:span> lie<text:span text:style-name="T81">s</text:span> about his own nick, e.g.:</text:p>
+   <text:p text:style-name="P68"><text:span text:style-name="quote">stqism</text:span> lie<text:span text:style-name="T82">s</text:span> about his own nick, e.g.:</text:p>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-row>
@@ -2270,9 +2282,9 @@
    </table:table>
    <text:p text:style-name="P68"/>
    <text:p text:style-name="P68"/>
-   <text:h text:style-name="P74" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1915_241484049"/>Insisting on using <text:span text:style-name="T98">Transifex</text:span><text:bookmark-end text:name="__RefHeading__1915_241484049"/></text:h>
+   <text:h text:style-name="P74" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1915_241484049"/>Insisting on using <text:span text:style-name="T99">Transifex</text:span><text:bookmark-end text:name="__RefHeading__1915_241484049"/></text:h>
    <text:p text:style-name="P97"/>
-   <text:p text:style-name="Standard">* <text:span text:style-name="quote">stqism</text:span> <text:span text:style-name="T1">insists on using </text:span><text:span text:style-name="T77">a </text:span><text:span text:style-name="T1">translation service (</text:span><text:span text:style-name="T110">Transifex</text:span><text:span text:style-name="T1">), instead of allowing people to make pull requests through </text:span><text:span text:style-name="T110">GitHub</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T16">like it was possible before</text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="quote">Zetok</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="quote">SylvieLorxu</text:span><text:span text:style-name="T1"> clearly have stated that this service will not be used by them to translate </text:span><text:span text:style-name="T77">the </text:span><text:span text:style-name="T110">Tox</text:span><text:span text:style-name="T1"> website. Later on, it seemed like </text:span><text:span text:style-name="T77">a </text:span><text:span text:style-name="T1">potential contributor went away due to this very reason:</text:span></text:p>
+   <text:p text:style-name="Standard">* <text:span text:style-name="quote">stq</text:span> <text:span text:style-name="T1">insists on using </text:span><text:span text:style-name="T78">a </text:span><text:span text:style-name="T1">translation service (</text:span><text:span text:style-name="T111">Transifex</text:span><text:span text:style-name="T1">), instead of allowing people to make pull requests through </text:span><text:span text:style-name="T111">GitHub</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T16">like it was possible before</text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="quote">Zetok</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="quote">SylvieLorxu</text:span><text:span text:style-name="T1"> clearly have stated that this service will not be used by them to translate </text:span><text:span text:style-name="T78">the </text:span><text:span text:style-name="T111">Tox</text:span><text:span text:style-name="T1"> website. Later on, it seemed like </text:span><text:span text:style-name="T78">a </text:span><text:span text:style-name="T1">potential contributor went away due to this very reason:</text:span></text:p>
    <table:table table:name="insisting_on_transifex" table:style-name="insisting_5f_on_5f_transifex">
     <table:table-column table:style-name="insisting_5f_on_5f_transifex.A"/>
     <table:table-row>
@@ -2291,15 +2303,15 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P61">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T37">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T77">a </text:span><text:span text:style-name="T15">blog post</text:span><text:span text:style-name="T5"> is the place where </text:span><text:span text:style-name="T13">a</text:span><text:span text:style-name="T5"> potential contributor can find information about how to contribute.</text:span></text:p>
+   <text:p text:style-name="P61">You may have noticed that the way he goes about providing contributors with <text:span text:style-name="T3">informations that </text:span><text:span text:style-name="T38">they need</text:span><text:span text:style-name="T3"> is one of least efficient ones. I.e. in this case he states that </text:span><text:span text:style-name="T78">a </text:span><text:span text:style-name="T15">blog post</text:span><text:span text:style-name="T5"> is the place where </text:span><text:span text:style-name="T13">a</text:span><text:span text:style-name="T5"> potential contributor can find information about how to contribute.</text:span></text:p>
    <text:p text:style-name="P61"/>
    <text:p text:style-name="P61"><text:span text:style-name="T20"><text:s text:c="4"/></text:span><text:span text:style-name="T15">Blog post</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T28">instead of information clearly organized in one place, in a way that would allow potential contributor to not only find relevant information on it quickly, but also they should be exposed to it in transparent manner when they would look for information on how to contribute.</text:span></text:p>
    <text:p text:style-name="P60"/>
    <text:p text:style-name="P60"/>
    <text:p text:style-name="P60"/>
-   <text:h text:style-name="P74" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1917_241484049"/>Using wrong tools <text:span text:style-name="T61">and</text:span> broken formatting on <text:span text:style-name="T111">Tox</text:span> blog<text:bookmark-end text:name="__RefHeading__1917_241484049"/></text:h>
+   <text:h text:style-name="P74" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1917_241484049"/>Using wrong tools <text:span text:style-name="T62">and</text:span> broken formatting on <text:span text:style-name="T112">Tox</text:span> blog<text:bookmark-end text:name="__RefHeading__1917_241484049"/></text:h>
    <text:p text:style-name="P60"/>
-   <text:p text:style-name="P63">* <text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T43"> uses wrong tools for the job, which results in broken formatting of posts on </text:span><text:span text:style-name="T112">Tox</text:span><text:span text:style-name="T43"> blog. What is more important, those posts are kept on blog in broken state. ~ @ 2015-04-01 13:28</text:span></text:p>
+   <text:p text:style-name="P63">* <text:span text:style-name="quote">stq</text:span><text:span text:style-name="T44"> uses wrong tools for the job, which results in broken formatting of posts on </text:span><text:span text:style-name="T113">Tox</text:span><text:span text:style-name="T44"> blog. What is more important, those posts are kept on blog in broken state. ~ @ 2015-04-01 13:28</text:span></text:p>
    <text:p text:style-name="P69">UPDATE:<text:span text:style-name="T4"> </text:span><text:span text:style-name="T12">2015-04-20 06:16 – Twenty day later, posts are still broken.</text:span></text:p>
    <text:p text:style-name="P63"/>
    <table:table table:name="wrong_tools_for_the_job" table:style-name="wrong_5f_tools_5f_for_5f_the_5f_job">
@@ -2327,7 +2339,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P63"/>
-   <text:p text:style-name="P65">Broken blog post formatting from <text:span text:style-name="T77">the </text:span>link (link content will be deleted after 6 months):</text:p>
+   <text:p text:style-name="P65">Broken blog post formatting from <text:span text:style-name="T78">the </text:span>link (link content will be deleted after 6 months):</text:p>
    <table:table table:name="blog_post_broken_formatting" table:style-name="blog_5f_post_5f_broken_5f_formatting">
     <table:table-column table:style-name="blog_5f_post_5f_broken_5f_formatting.A"/>
     <text:soft-page-break/>
@@ -3723,7 +3735,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="blog_5f_post_5f_broken_5f_formatting.A2" office:value-type="string">
-      <text:p text:style-name="P32">To open outside of LibreOffice: Righ<text:span text:style-name="T77">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
+      <text:p text:style-name="P32">To open outside of LibreOffice: Righ<text:span text:style-name="T78">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -3732,9 +3744,9 @@
    <text:p text:style-name="P62"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1919_241484049"/>Rash actions due to not checking claims → proposing censorship<text:bookmark-end text:name="__RefHeading__1919_241484049"/></text:h>
    <text:p text:style-name="P67"/>
-   <text:p text:style-name="P79"><text:span text:style-name="T65">There are only 2 mailing lists; &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T62">&quot; and &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T62">&quot;. Since polluting </text:span><text:span text:style-name="T77">the</text:span><text:span text:style-name="T62"> &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="quote"><text:span text:style-name="T63">&quot;</text:span></text:span> <text:span text:style-name="T63">mailing list with things that are not strictly related to technical development of Tox is far from good, discussion took place on &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T64">&quot; mailing list. One of developers has mistaken &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T64">&quot; list with &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T64">&quot;, and wrote an email in which he said that particular conversation doesn&apos;t belong in </text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T64"> mailing list.</text:span></text:p>
-   <text:p text:style-name="P95"><text:span text:style-name="T38">Instead of checking whether those claims are accurate,</text:span><text:span text:style-name="T64"> </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T64"> </text:span><text:span text:style-name="T38">rashly acted upon seeing that message</text:span><text:span text:style-name="T64">, and proposed censoring </text:span><text:span text:style-name="T77">the </text:span><text:span text:style-name="T64">mailing list on IRC as (in his opinion) </text:span><text:span text:style-name="T26">a valid </text:span><text:span text:style-name="T62">solution to something which he perceived as a problem, instead of addressing a real problem, which is missing mailing lists for separate purposes. In </text:span><text:span text:style-name="T77">the</text:span><text:span text:style-name="T62"> process of doing so, he managed to momentarily scare </text:span><text:span text:style-name="T77">a</text:span><text:span text:style-name="T62"> potential contributor into thinking that it was his email that caused this proposal (no real harm done in the end, and potential contributor was assured that what he wrote is more than welcomed).</text:span></text:p>
-   <text:p text:style-name="P80">Relevant part of mail to <text:span text:style-name="T77">the </text:span>mailing list:</text:p>
+   <text:p text:style-name="P79"><text:span text:style-name="T66">There are only 2 mailing lists; &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T63">&quot; and &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T63">&quot;. Since polluting </text:span><text:span text:style-name="T78">the</text:span><text:span text:style-name="T63"> &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="quote"><text:span text:style-name="T64">&quot;</text:span></text:span> <text:span text:style-name="T64">mailing list with things that are not strictly related to technical development of Tox is far from good, discussion took place on &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T65">&quot; mailing list. One of developers has mistaken &quot;</text:span><text:span text:style-name="quote">general</text:span><text:span text:style-name="T65">&quot; list with &quot;</text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T65">&quot;, and wrote an email in which he said that particular conversation doesn&apos;t belong in </text:span><text:span text:style-name="quote">development</text:span><text:span text:style-name="T65"> mailing list.</text:span></text:p>
+   <text:p text:style-name="P95"><text:span text:style-name="T39">Instead of checking whether those claims are accurate,</text:span><text:span text:style-name="T65"> </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T65"> </text:span><text:span text:style-name="T39">rashly acted upon seeing that message</text:span><text:span text:style-name="T65">, and proposed censoring </text:span><text:span text:style-name="T78">the </text:span><text:span text:style-name="T65">mailing list on IRC as (in his opinion) </text:span><text:span text:style-name="T26">a valid </text:span><text:span text:style-name="T63">solution to something which he perceived as a problem, instead of addressing a real problem, which is missing mailing lists for separate purposes. In </text:span><text:span text:style-name="T78">the</text:span><text:span text:style-name="T63"> process of doing so, he managed to momentarily scare </text:span><text:span text:style-name="T78">a</text:span><text:span text:style-name="T63"> potential contributor into thinking that it was his email that caused this proposal (no real harm done in the end, and potential contributor was assured that what he wrote is more than welcomed).</text:span></text:p>
+   <text:p text:style-name="P80">Relevant part of mail to <text:span text:style-name="T78">the </text:span>mailing list:</text:p>
    <table:table table:name="censoring_ML-mail" table:style-name="censoring_5f_ML-mail">
     <table:table-column table:style-name="censoring_5f_ML-mail.A"/>
     <table:table-row>
@@ -3744,7 +3756,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="censoring_5f_ML-mail.A2" office:value-type="string">
-      <text:p text:style-name="P9">2015-04-03, Tox &quot;General&quot; mailing list: <text:span text:style-name="T66">https://lists.tox.im/pipermail/general/2015-April/000017.html</text:span></text:p>
+      <text:p text:style-name="P9">2015-04-03, Tox &quot;General&quot; mailing list: <text:span text:style-name="T67">https://lists.tox.im/pipermail/general/2015-April/000017.html</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -3774,10 +3786,10 @@
    </table:table>
    <text:p text:style-name="P78"/>
    <text:p text:style-name="P78"/>
-   <text:h text:style-name="P75" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__2504_1002124689"/>Insisting on using proprietary <text:span text:style-name="T98">iCloud</text:span> for <text:span text:style-name="T98">Tox</text:span> profiles<text:bookmark-end text:name="__RefHeading__2504_1002124689"/></text:h>
+   <text:h text:style-name="P75" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__2504_1002124689"/>Insisting on using proprietary <text:span text:style-name="T99">iCloud</text:span> for <text:span text:style-name="T99">Tox</text:span> profiles<text:bookmark-end text:name="__RefHeading__2504_1002124689"/></text:h>
    <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P82">As it is known, security requires <text:span text:style-name="T67">code of </text:span><text:span text:style-name="T77">the </text:span><text:span text:style-name="T67">software to be open, so that everyone could check whether it really does only what it is supposed to do (i.e. doesn&apos;t contain backdoors). </text:span><text:span text:style-name="T108">Tox</text:span><text:span text:style-name="T67"> provides that. Other software, if it&apos;s proprietary like </text:span><text:span text:style-name="T108">iCloud</text:span><text:span text:style-name="T67">, doesn&apos;t provide it, which means that there is no way to check whether it does only what it is said that it does.</text:span></text:p>
-   <text:p text:style-name="P83">Currently <text:span text:style-name="T98">Tox</text:span> doesn&apos;t support profile synchronisation across devices (i.e. so you could use<text:span text:style-name="T77"> the</text:span> same profile on your every device). Proper support for it is planned, and is one of <text:span text:style-name="T109">Tox</text:span> <text:span text:style-name="T98">GSoC</text:span><text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+   <text:p text:style-name="P82">As it is known, security requires <text:span text:style-name="T68">code of </text:span><text:span text:style-name="T78">the </text:span><text:span text:style-name="T68">software to be open, so that everyone could check whether it really does only what it is supposed to do (i.e. doesn&apos;t contain backdoors). </text:span><text:span text:style-name="T109">Tox</text:span><text:span text:style-name="T68"> provides that. Other software, if it&apos;s proprietary like </text:span><text:span text:style-name="T109">iCloud</text:span><text:span text:style-name="T68">, doesn&apos;t provide it, which means that there is no way to check whether it does only what it is said that it does.</text:span></text:p>
+   <text:p text:style-name="P83">Currently <text:span text:style-name="T99">Tox</text:span> doesn&apos;t support profile synchronisation across devices (i.e. so you could use<text:span text:style-name="T78"> the</text:span> same profile on your every device). Proper support for it is planned, and is one of <text:span text:style-name="T110">Tox</text:span> <text:span text:style-name="T99">GSoC</text:span><text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
       <text:p text:style-name="P72">Google Summer of Code: https://www.google-melange.com/gsoc/homepage/google/gsoc2015</text:p></text:note-body></text:note> 2015 ideas.</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
@@ -4290,7 +4302,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P10">2015-04-<text:span text:style-name="T70">11</text:span>, Tox <text:span text:style-name="T70">Wiki: https://wiki.tox.im/GSoC/2015/Ideas#Multiple_device_support</text:span></text:p>
+      <text:p text:style-name="P10">2015-04-<text:span text:style-name="T71">11</text:span>, Tox <text:span text:style-name="T71">Wiki: https://wiki.tox.im/GSoC/2015/Ideas#Multiple_device_support</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -4300,24 +4312,24 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P83"/>
-   <text:p text:style-name="P85">There is a <text:span text:style-name="T40">big</text:span><text:span text:style-name="T36"> problem</text:span>: people are putting unencrypted <text:span text:style-name="T98">tox</text:span> profiles in cloud storage and/or are sending them using unencrypted or otherwise not or poorly secured technology. </text:p>
-   <text:p text:style-name="P85">To deal with problem <text:span text:style-name="quote">stqism</text:span> made something that relies on proprietary <text:span text:style-name="T72">technology (</text:span><text:span text:style-name="T106">iCloud</text:span><text:span text:style-name="T72">) and is </text:span><text:soft-page-break/><text:span text:style-name="T72">only available to </text:span><text:span text:style-name="T77">a</text:span><text:span text:style-name="T72"> small subset of </text:span><text:span text:style-name="T106">Tox</text:span><text:span text:style-name="T72"> users (people using OS X) who agreed to evil ToS in order to use Apple products. </text:span><text:span text:style-name="T39">This is obviously wrong.</text:span></text:p>
-   <text:p text:style-name="P86">Not only it doesn&apos;t promote <text:span text:style-name="T73">open software</text:span>, which is mandatory to have security, but <text:span text:style-name="T4">what is far worse, </text:span><text:span text:style-name="T36">it doesn&apos;t solve the problem</text:span><text:span text:style-name="T4">.</text:span></text:p>
+   <text:p text:style-name="P85">There is a <text:span text:style-name="T41">big</text:span><text:span text:style-name="T37"> problem</text:span>: people are putting unencrypted <text:span text:style-name="T99">tox</text:span> profiles in cloud storage and/or are sending them using unencrypted or otherwise not or poorly secured technology. </text:p>
+   <text:p text:style-name="P85">To deal with problem <text:span text:style-name="quote">stq</text:span> made something that relies on proprietary <text:span text:style-name="T73">technology (</text:span><text:span text:style-name="T107">iCloud</text:span><text:span text:style-name="T73">) and is </text:span><text:soft-page-break/><text:span text:style-name="T73">only available to </text:span><text:span text:style-name="T78">a</text:span><text:span text:style-name="T73"> small subset of </text:span><text:span text:style-name="T107">Tox</text:span><text:span text:style-name="T73"> users (people using OS X) who agreed to evil ToS in order to use Apple products. </text:span><text:span text:style-name="T40">This is obviously wrong.</text:span></text:p>
+   <text:p text:style-name="P86">Not only it doesn&apos;t promote <text:span text:style-name="T74">open software</text:span>, which is mandatory to have security, but <text:span text:style-name="T4">what is far worse, </text:span><text:span text:style-name="T37">it doesn&apos;t solve the problem</text:span><text:span text:style-name="T4">.</text:span></text:p>
    <text:p text:style-name="P88"><text:span text:style-name="T9">P</text:span><text:span text:style-name="T4">eople </text:span><text:span text:style-name="T9">are</text:span><text:span text:style-name="T4"> send</text:span><text:span text:style-name="T9">ing</text:span><text:span text:style-name="T4"> most </text:span><text:span text:style-name="T6">important</text:span><text:span text:style-name="T4"> data through </text:span><text:span text:style-name="T6">insecure ways. This will not change, given that getting security isn&apos;t easy, and... who likes to make their life harder than necessary for no gain, right?</text:span></text:p>
    <text:p text:style-name="P89"><text:span text:style-name="T6">W</text:span><text:span text:style-name="T4">hat could be done, is to make sure that data people are sending is secured. This way, even if not secure transport channel is used, encrypted data still should remain secure.</text:span></text:p>
-   <text:p text:style-name="P89"><text:span text:style-name="T10">F</text:span><text:span text:style-name="T4">irst step when it comes to improving security in this regard would be to adjust </text:span><text:span text:style-name="T13">the</text:span><text:span text:style-name="T4"> standard (STS – Single </text:span><text:span text:style-name="T113">Tox</text:span><text:span text:style-name="T4"> Standard) to </text:span><text:span text:style-name="T36">make profile encryption a required default</text:span><text:span text:style-name="T4">, with optional way to disable it after explicit consent from user (big red warning or something alike). </text:span><text:span text:style-name="quote"><text:span text:style-name="T4">stqism</text:span></text:span><text:span text:style-name="T7"> simply ignores th</text:span><text:span text:style-name="T11">ose</text:span><text:span text:style-name="T7"> suggestion</text:span><text:span text:style-name="T13">s</text:span><text:span text:style-name="T7">, even when </text:span><text:span text:style-name="T11">they were</text:span><text:span text:style-name="T7"> repeated multiple times.</text:span></text:p>
-   <text:p text:style-name="P93">Instead he insists <text:span text:style-name="T76">on using </text:span><text:span text:style-name="T77">a</text:span><text:span text:style-name="T76"> p</text:span>roprietary service that is known to not care about its users <text:span text:style-name="T76">for storing / syncing </text:span><text:span text:style-name="T107">tox</text:span><text:span text:style-name="T76"> profiles.</text:span></text:p>
+   <text:p text:style-name="P89"><text:span text:style-name="T10">F</text:span><text:span text:style-name="T4">irst step when it comes to improving security in this regard would be to adjust </text:span><text:span text:style-name="T13">the</text:span><text:span text:style-name="T4"> standard (STS – Single </text:span><text:span text:style-name="T115">Tox</text:span><text:span text:style-name="T4"> Standard) to </text:span><text:span text:style-name="T37">make profile encryption a required default</text:span><text:span text:style-name="T4">, with optional way to disable it after explicit consent from user (big red warning or something alike). </text:span><text:span text:style-name="quote"><text:span text:style-name="T4">stq</text:span></text:span><text:span text:style-name="T7"> simply ignores th</text:span><text:span text:style-name="T11">ose</text:span><text:span text:style-name="T7"> suggestion</text:span><text:span text:style-name="T13">s</text:span><text:span text:style-name="T7">, even when </text:span><text:span text:style-name="T11">they were</text:span><text:span text:style-name="T7"> repeated multiple times.</text:span></text:p>
+   <text:p text:style-name="P93">Instead he insists <text:span text:style-name="T77">on using </text:span><text:span text:style-name="T78">a</text:span><text:span text:style-name="T77"> p</text:span>roprietary service that is known to not care about its users <text:span text:style-name="T77">for storing / syncing </text:span><text:span text:style-name="T108">tox</text:span><text:span text:style-name="T77"> profiles.</text:span></text:p>
    <text:p text:style-name="P94">…</text:p>
-   <text:p text:style-name="P96"><text:span text:style-name="T42">Out </text:span><text:span text:style-name="T41">of</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T41">4</text:span><text:span text:style-name="T80"> people who talked with him about this on IRC, </text:span><text:span text:style-name="T41">4 were against</text:span><text:span text:style-name="T76"> his way of doing it.</text:span></text:p>
+   <text:p text:style-name="P96"><text:span text:style-name="T43">Out </text:span><text:span text:style-name="T42">of</text:span><text:span text:style-name="T43"> </text:span><text:span text:style-name="T42">4</text:span><text:span text:style-name="T81"> people who talked with him about this on IRC, </text:span><text:span text:style-name="T42">4 were against</text:span><text:span text:style-name="T77"> his way of doing it.</text:span></text:p>
    <text:p text:style-name="P96"/>
    <text:p text:style-name="P96"/>
-   <text:h text:style-name="P77" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__11033_318013630"/>IRC channel <text:span text:style-name="quote"><text:span text:style-name="T97">#tox-ontopic</text:span></text:span><text:bookmark-end text:name="__RefHeading__11033_318013630"/></text:h>
+   <text:h text:style-name="P77" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__11033_318013630"/>IRC channel <text:span text:style-name="quote"><text:span text:style-name="T98">#tox-ontopic</text:span></text:span><text:bookmark-end text:name="__RefHeading__11033_318013630"/></text:h>
    <text:p text:style-name="P98"/>
-   <text:p text:style-name="P100">Following is a story from point of view of <text:span text:style-name="quote">Zetok</text:span>. <text:span text:style-name="T84">That being said, any commentary from people knowledgeable about topic in form of footnotes is welcomed. Provided that there will be enough of interest, creation of proper article that will not be limited to point of view of a single person will be possible.</text:span></text:p>
+   <text:p text:style-name="P100">Following is a story from point of view of <text:span text:style-name="quote">Zetok</text:span>. <text:span text:style-name="T85">That being said, any commentary from people knowledgeable about topic in form of footnotes is welcomed. Provided that there will be enough of interest, creation of proper article that will not be limited to point of view of a single person will be possible.</text:span></text:p>
    <text:p text:style-name="P99"/>
-   <text:p text:style-name="P99">Story about how <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> tried to distort the truth, and <text:span text:style-name="T83">my view of things.</text:span></text:p>
-   <text:p text:style-name="P103"><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> published on an official <text:span text:style-name="T98">Tox</text:span> wiki disclaimer about <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> IRC channel. Full of lies and things that have been simply <text:span text:style-name="T86">omitted</text:span>, since they could negatively affect image he wanted to present to people. My guess is that he somehow wanted to justify his actions in regard to me, although I&apos;m not sure why he <text:span text:style-name="T84">would think that lying would help.</text:span></text:p>
-   <text:p text:style-name="P104">When I first joined <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span>, it was shortly after year 2014 happened. Channel at the time was open, and <text:span text:style-name="T85">was used to synchronise messages between IRC channel and </text:span><text:span text:style-name="T104">Tox</text:span><text:span text:style-name="T85"> </text:span><text:span text:style-name="T104">groupchat</text:span><text:span text:style-name="T85">. It was treated as offtopic channel.</text:span></text:p>
+   <text:p text:style-name="P99">Story about how <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> tried to distort the truth, and <text:span text:style-name="T84">my view of things.</text:span></text:p>
+   <text:p text:style-name="P103"><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> published on an official <text:span text:style-name="T99">Tox</text:span> wiki disclaimer about <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> IRC channel. Full of lies and things that have been simply <text:span text:style-name="T87">omitted</text:span>, since they could negatively affect image he wanted to present to people. My guess is that he somehow wanted to justify his actions in regard to me, although I&apos;m not sure why he <text:span text:style-name="T85">would think that lying would help.</text:span></text:p>
+   <text:p text:style-name="P104">When I first joined <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span>, it was shortly after year 2014 happened. Channel at the time was open, and <text:span text:style-name="T86">was used to synchronise messages between IRC channel and </text:span><text:span text:style-name="T105">Tox</text:span><text:span text:style-name="T86"> </text:span><text:span text:style-name="T105">groupchat</text:span><text:span text:style-name="T86">. It was treated as offtopic channel.</text:span></text:p>
    <text:p text:style-name="P105">Part of topic message:</text:p>
    <table:table table:name="Table3" table:style-name="Table3">
     <table:table-column table:style-name="Table3.A"/>
@@ -4334,25 +4346,25 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P105"/>
-   <text:p text:style-name="P106">Time passed. After some, nature of <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> started to change, <text:span text:style-name="T87">slowly becoming something that wasn&apos;t just an offtopic channel, but rather a place that was also at times used to discuss more and less serious stuff, away from eyes of most of people. As long as channel was just an offtopic one, anything from it could be treated as a joke, or simply spam. When serious stuff got mixed in, that was no longer the case, and from that point people who would want to hurt </text:span><text:span text:style-name="T103">Tox</text:span><text:span text:style-name="T87"> could use logs from </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span><text:span text:style-name="T87">, saying that they are from an official </text:span><text:span text:style-name="T103">Tox</text:span><text:span text:style-name="T87"> channel. Situation wasn&apos;t good, and things needed to change, and so visible changes in role and structure of #</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span><text:span text:style-name="T87"> began to surface. </text:span></text:p>
-   <text:list xml:id="list1608449750103001396" text:style-name="L1">
+   <text:p text:style-name="P106">Time passed. After some, nature of <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> started to change, <text:span text:style-name="T88">slowly becoming something that wasn&apos;t just an offtopic channel, but rather a place that was also at times used to discuss more and less serious stuff, away from eyes of most of people. As long as channel was just an offtopic one, anything from it could be treated as a joke, or simply spam. When serious stuff got mixed in, that was no longer the case, and from that point people who would want to hurt </text:span><text:span text:style-name="T104">Tox</text:span><text:span text:style-name="T88"> could use logs from </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span><text:span text:style-name="T88">, saying that they are from an official </text:span><text:span text:style-name="T104">Tox</text:span><text:span text:style-name="T88"> channel. Situation wasn&apos;t good, and things needed to change, and so visible changes in role and structure of #</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span><text:span text:style-name="T88"> began to surface. </text:span></text:p>
+   <text:list xml:id="list6048095204501227983" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P171">no more synchronisation of channel with <text:span text:style-name="T102">Tox groupchat</text:span></text:p>
+     <text:p text:style-name="P172">no more synchronisation of channel with <text:span text:style-name="T103">Tox groupchat</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P172">channel is private, invite-only</text:p>
+     <text:p text:style-name="P173">channel is private, invite-only</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P172">some people got simply kicked out from channel</text:p>
+     <text:p text:style-name="P173">some people got simply kicked out from channel</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P172">people who are trying to join it are redirected to <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-offtopic</text:span></text:span></text:p>
+     <text:p text:style-name="P173">people who are trying to join it are redirected to <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-offtopic</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P182"><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> started to try to convince people &quot;outside&quot; of <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> that channel doesn&apos;t exist</text:p>
+     <text:p text:style-name="P183"><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> started to try to convince people &quot;outside&quot; of <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> that channel doesn&apos;t exist</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P107">Even before <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> got closed<text:span text:style-name="T90"> from public</text:span>, <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span><text:span text:style-name="T88"> was referring to it as &quot;shitposting&quot; channel. I&apos;m not sure how other people see it, but I can&apos;t stop myself from wondering: &quot;</text:span><text:span text:style-name="T17">How something regarded to as “shitposting” can get better, rather than getting worse quality over time?</text:span><text:span text:style-name="T88">&quot;. Especially, when to channel there are redirected the kind of people that are too &quot;problematic&quot; to keep them in more populated </text:span><text:span text:style-name="T101">Tox</text:span><text:span text:style-name="T88"> IRC channels…</text:span></text:p>
+   <text:p text:style-name="P107">Even before <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> got closed<text:span text:style-name="T91"> from public</text:span>, <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span><text:span text:style-name="T89"> was referring to it as &quot;shitposting&quot; channel. I&apos;m not sure how other people see it, but I can&apos;t stop myself from wondering: &quot;</text:span><text:span text:style-name="T17">How something regarded to as “shitposting” can get better, rather than getting worse quality over time?</text:span><text:span text:style-name="T89">&quot;. Especially, when to channel there are redirected the kind of people that are too &quot;problematic&quot; to keep them in more populated </text:span><text:span text:style-name="T102">Tox</text:span><text:span text:style-name="T89"> IRC channels…</text:span></text:p>
    <text:p text:style-name="P127">Relevant part of conversation:</text:p>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
@@ -4369,16 +4381,15 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P142">Due to that kind of actions, quality of channel dramatically lowered over time. <text:span text:style-name="T90">Something that was previously used to communicate nicely between people gradually grew into place of bad, tasteless behaviour full of vulgar wording, filled with bad intentions.</text:span> <text:span text:style-name="T89">It was bad enough to make me feel sick about channel, and because of that I&apos;ve parted from channel on 2014-12-10. Some other long-time project members parted from channel too, at different dates.</text:span></text:p>
-   <text:p text:style-name="P146">I have wondered how situation could be improved <text:span text:style-name="T91">(not only in regard to </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span><text:span text:style-name="T91">, but in project as whole). After some time spent away from </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span><text:span text:style-name="T91">, I&apos;ve decided to to re-evaluate whether situation there is really as bad as I remember it. I have re-joined it after ~2 months, on 2015-02-12. Sadly situation did not improve, and seemed be worse than I remembered (or maybe it just hit me really badly, since I was away from it for quite a while).</text:span></text:p>
-   <text:p text:style-name="P146"><text:span text:style-name="T93">Thus</text:span> <text:span text:style-name="T91">I have arrived at conclusion that simplest way to remove part of </text:span><text:span text:style-name="T100">Tox</text:span><text:span text:style-name="T91"> that was rotting, was to cut it off. Thus I have proposed removing </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span><text:span text:style-name="T91">, among several other things that in my opinion should have improved situation:</text:span></text:p>
+   <text:p text:style-name="P142">Due to that kind of actions, quality of channel dramatically lowered over time. <text:span text:style-name="T91">Something that was previously used to communicate nicely between people gradually grew into place of bad, tasteless behaviour full of vulgar wording, filled with bad intentions.</text:span> <text:span text:style-name="T90">It was bad enough to make me feel sick about channel, and because of that I&apos;ve parted from channel on 2014-12-10. Some other long-time project members parted from channel too, at different dates.</text:span></text:p>
+   <text:p text:style-name="P146">I have wondered how situation could be improved <text:span text:style-name="T92">(not only in regard to </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span><text:span text:style-name="T92">, but in project as whole). After some time spent away from </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span><text:span text:style-name="T92">, I&apos;ve decided to to re-evaluate whether situation there is really as bad as I remember it. I have re-joined it after ~2 months, on 2015-02-12. Sadly situation did not improve, and seemed be worse than I remembered (or maybe it just hit me really badly, since I was away from it for quite a while).</text:span></text:p>
+   <text:p text:style-name="P146"><text:span text:style-name="T94">Thus</text:span> <text:span text:style-name="T92">I have arrived at conclusion that simplest way to remove part of </text:span><text:span text:style-name="T101">Tox</text:span><text:span text:style-name="T92"> that was rotting, was to cut it off. Thus I have proposed removing </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span><text:span text:style-name="T92">, among several other things that in my opinion should have improved situation:</text:span></text:p>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
-    <text:soft-page-break/>
     <table:table-row>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
       <text:p text:style-name="P41">1. Removal of stq from any position(s) from which he hurts Tox.</text:p>
-      <text:p text:style-name="P41"> 2. Announce that there is needed person for PR.</text:p>
+      <text:p text:style-name="P41"><text:soft-page-break/> 2. Announce that there is needed person for PR.</text:p>
       <text:p text:style-name="P41"> 3. Announce that there is needed person for dealing with abuse.</text:p>
       <text:p text:style-name="P41">4. Announce that there is needed person for managing project.</text:p>
       <text:p text:style-name="P41">5. Clear status on who is responsible for what.</text:p>
@@ -4392,7 +4403,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P154">I have <text:span text:style-name="T92">announced it on the same day in </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox</text:span></text:span><text:span text:style-name="T92"> channel, asking </text:span><text:span text:style-name="quote"><text:span text:style-name="T98">irungentoo</text:span></text:span><text:span text:style-name="T92"> what does he think about it:</text:span></text:p>
+   <text:p text:style-name="P154">I have <text:span text:style-name="T93">announced it on the same day in </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox</text:span></text:span><text:span text:style-name="T93"> channel, asking </text:span><text:span text:style-name="quote"><text:span text:style-name="T99">irungentoo</text:span></text:span><text:span text:style-name="T93"> what does he think about it:</text:span></text:p>
    <table:table table:name="Table6" table:style-name="Table6">
     <table:table-column table:style-name="Table6.A"/>
     <table:table-row>
@@ -4428,8 +4439,8 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P147"/>
-   <text:p text:style-name="P149">Well, I was banned <text:span text:style-name="T95">in</text:span> <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> <text:s/>- no surprises there.</text:p>
-   <text:p text:style-name="P128">Day after that announcement, <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> tried to pretend that <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> doesn&apos;t exist:</text:p>
+   <text:p text:style-name="P149">Well, I was banned <text:span text:style-name="T96">in</text:span> <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> <text:s/>- no surprises there.</text:p>
+   <text:p text:style-name="P128">Day after that announcement, <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> tried to pretend that <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> doesn&apos;t exist:</text:p>
    <table:table table:name="Table7" table:style-name="Table7">
     <table:table-column table:style-name="Table7.A"/>
     <table:table-row>
@@ -4447,8 +4458,8 @@
       <text:p text:style-name="P42">[09:38:15] &lt;NikolaiToryzin&gt; And you&apos;re in that channel</text:p>
       <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:22] * Now talking on #tox-ontopic</text:p>
       <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:22] * Topic for #tox-ontopic is: Call of Duty: Advanced memes || ≻</text:p>
-      <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:22] * Topic for #tox-ontopic set by NikolaiToryzin!<text:soft-page-break/>~stqism@freebsd/user/stqism (Mon Feb 16 05:17:45 2015)</text:p>
-      <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:23] * ChanServ sets ban on *!*@unaffiliated/zetok</text:p>
+      <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:22] * Topic for #tox-ontopic set by NikolaiToryzin!~stqism@freebsd/user/stqism (Mon Feb 16 05:17:45 2015)</text:p>
+      <text:p text:style-name="P42"><text:soft-page-break/>[09:38:44] &lt;zetok&gt; [09:38:23] * ChanServ sets ban on *!*@unaffiliated/zetok</text:p>
       <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:23] * You have been kicked from #tox-ontopic by ChanServ (Banned: Tox is a no meme-arrow zone.)</text:p>
       <text:p text:style-name="P42">[09:38:44] &lt;zetok&gt; [09:38:25] * Cannot join #tox-ontopic (You are banned).</text:p>
       <text:p text:style-name="P42">[09:39:01] &lt;NikolaiToryzin&gt; wut</text:p>
@@ -4463,9 +4474,9 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P153">To this day (2015-04-2<text:span text:style-name="T121">3</text:span>) I have no idea from where “<text:span text:style-name="quote"><text:span text:style-name="T36">You&apos;re crazy</text:span></text:span>” came from.</text:p>
+   <text:p text:style-name="P153">To this day (2015-04-2<text:span text:style-name="T123">3</text:span>) I have no idea from where “<text:span text:style-name="quote"><text:span text:style-name="T37">You&apos;re crazy</text:span></text:span>” came from.</text:p>
    <text:p text:style-name="P148"/>
-   <text:p text:style-name="P148">Later that day <text:span text:style-name="T94">(2015-02-16), in </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox</text:span></text:span><text:span text:style-name="T94"> IRC channel one of </text:span><text:span text:style-name="T99">Tox</text:span><text:span text:style-name="T94"> users requested me to repeat my proposal from previous day, since </text:span><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span><text:span text:style-name="T94"> seemed to be finally active. This initiated heated debate. Only most relevant parts are included here, since it was rather long. For whole conversation, look in </text:span><text:span text:style-name="T59">background</text:span><text:span text:style-name="T94"> directory. Visible horizontal separators in tables represent irrelevant parts that were cut off.</text:span></text:p>
+   <text:p text:style-name="P148">Later that day <text:span text:style-name="T95">(2015-02-16), in </text:span><text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox</text:span></text:span><text:span text:style-name="T95"> IRC channel one of </text:span><text:span text:style-name="T100">Tox</text:span><text:span text:style-name="T95"> users requested me to repeat my proposal from previous day, since </text:span><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span><text:span text:style-name="T95"> seemed to be finally active. This initiated heated debate. Only most relevant parts are included here, since it was rather long. For whole conversation, look in </text:span><text:span text:style-name="T60">background</text:span><text:span text:style-name="T95"> directory. Visible horizontal separators in tables represent irrelevant parts that were cut off.</text:span></text:p>
    <table:table table:name="Table8" table:style-name="Table8">
     <table:table-column table:style-name="Table8.A"/>
     <table:table-row>
@@ -4502,7 +4513,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P165">From there, for next ~10 minutes <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> was &quot;busy&quot; talking about <text:span text:style-name="T96">unrelated issue.</text:span></text:p>
+   <text:p text:style-name="P165">From there, for next ~10 minutes <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> was &quot;busy&quot; talking about <text:span text:style-name="T97">unrelated issue.</text:span></text:p>
    <table:table table:name="Table9" table:style-name="Table9">
     <table:table-column table:style-name="Table9.A"/>
     <table:table-row>
@@ -4532,8 +4543,8 @@
       <text:p text:style-name="P44">[18:25:41] &lt;NikolaiToryzin&gt; Stop mentioning that it exists</text:p>
       <text:p text:style-name="P44">[18:25:48] &lt;zetok&gt; NikolaiToryzin: Why?</text:p>
       <text:p text:style-name="P44">[18:25:52] &lt;zetok&gt; NikolaiToryzin: Stop lying.</text:p>
-      <text:p text:style-name="P44"><text:soft-page-break/>[18:25:55] &lt;NikolaiToryzin&gt; The whole joke is that the channel doesn&apos;t exist</text:p>
-      <text:p text:style-name="P44">[18:26:07] &lt;SylvieLorxu&gt; NikolaiToryzin: The people asking for invites is indeed annoying but meh, I still prefer telling the truth :P</text:p>
+      <text:p text:style-name="P44">[18:25:55] &lt;NikolaiToryzin&gt; The whole joke is that the channel doesn&apos;t exist</text:p>
+      <text:p text:style-name="P44"><text:soft-page-break/>[18:26:07] &lt;SylvieLorxu&gt; NikolaiToryzin: The people asking for invites is indeed annoying but meh, I still prefer telling the truth :P</text:p>
       <text:p text:style-name="P44">[18:26:11] &lt;zetok&gt; NikolaiToryzin: If you haven&apos;t noticed, talk is not about jokes.</text:p>
       <text:p text:style-name="P44">[18:26:24] &lt;NikolaiToryzin&gt; How are you this dense, the channel not existing is the first rule of the channel.</text:p>
       <text:p text:style-name="P44">[18:26:25] &lt;hexburn3r&gt; hey, can i have an invite to #tox-ontopic?</text:p>
@@ -4550,15 +4561,15 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P150">Main points about this part of conversation:</text:p>
-   <text:list xml:id="list3823341397367026321" text:style-name="L2">
+   <text:list xml:id="list6188323297108122298" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P173"><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> lies about existence of <text:span text:style-name="T98">#tox-ontopic</text:span></text:p>
+     <text:p text:style-name="P174"><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> lies about existence of <text:span text:style-name="T99">#tox-ontopic</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P184">when he is confronted about its existence, he tries to claim that he was just joking</text:p>
+     <text:p text:style-name="P185">when he is confronted about its existence, he tries to claim that he was just joking</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P158">His words <text:span text:style-name="T114">and behaviour (lying)</text:span> violate<text:span text:style-name="T114">d</text:span> <text:span text:style-name="T98">Tox</text:span> transparency policy <text:span text:style-name="T115">(relevant part)</text:span>:</text:p>
+   <text:p text:style-name="P158">His words <text:span text:style-name="T116">and behaviour (lying)</text:span> violate<text:span text:style-name="T116">d</text:span> <text:span text:style-name="T99">Tox</text:span> transparency policy <text:span text:style-name="T117">(relevant part)</text:span>:</text:p>
    <table:table table:name="Table10" table:style-name="Table10">
     <table:table-column table:style-name="Table10.A"/>
     <table:table-row>
@@ -4572,11 +4583,11 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P18">2015-02-16, <text:span text:style-name="T115">Tox Wiki: https://wiki.tox.im/Transparency_policy</text:span></text:p>
+      <text:p text:style-name="P18">2015-02-16, <text:span text:style-name="T117">Tox Wiki: https://wiki.tox.im/Transparency_policy</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P166">Continuation <text:span text:style-name="T122">of discussion</text:span>:</text:p>
+   <text:p text:style-name="P166">Continuation <text:span text:style-name="T124">of discussion</text:span>:</text:p>
    <table:table table:name="Table11" table:style-name="Table11">
     <table:table-column table:style-name="Table11.A"/>
     <table:table-row>
@@ -4600,18 +4611,18 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list8071627747879736717" text:style-name="L3">
+   <text:list xml:id="list7548244241641084506" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P189"><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span>&apos;s &quot;humour&quot; does not fit on IRC</text:p>
+     <text:p text:style-name="P190"><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span>&apos;s &quot;humour&quot; does not fit on IRC</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P185">PR <text:span text:style-name="T117">(Public Relations)</text:span> have not been managed <text:span text:style-name="T117">properly</text:span></text:p>
+     <text:p text:style-name="P186">PR <text:span text:style-name="T119">(Public Relations)</text:span> have not been managed <text:span text:style-name="T119">properly</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P186">on a good side, they could be, since at the time <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> <text:span text:style-name="T116">just</text:span> got credentials to <text:span text:style-name="T117">the</text:span> official <text:span text:style-name="T98">Tox</text:span> accounts</text:p>
+       <text:p text:style-name="P187">on a good side, they could be, since at the time <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> <text:span text:style-name="T118">just</text:span> got credentials to <text:span text:style-name="T119">the</text:span> official <text:span text:style-name="T99">Tox</text:span> accounts</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P183">on a bad side, to the present day (2015-04-2<text:span text:style-name="T121">3</text:span>) I have not heard about PR being properly managed</text:p>
+       <text:p text:style-name="P184">on a bad side, to the present day (2015-04-2<text:span text:style-name="T123">3</text:span>) I have not heard about PR being properly managed</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -4659,16 +4670,16 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list8595890778986141081" text:style-name="L4">
+   <text:list xml:id="list884719135593854039" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P174">I&apos;ve been told to stop acting like <text:span text:style-name="T118">a child</text:span> <text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span></text:p>
+     <text:p text:style-name="P175">I&apos;ve been told to stop acting like <text:span text:style-name="T120">a child</text:span> <text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P187"><text:span text:style-name="quote"><text:span text:style-name="T98">stqism</text:span></text:span> wants to keep <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span></text:p>
+     <text:p text:style-name="P188"><text:span text:style-name="quote"><text:span text:style-name="T99">stq</text:span></text:span> wants to keep <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P108"/>
-   <text:p text:style-name="P162">And an hour later, <text:span text:style-name="T123">speaking about #</text:span><text:span text:style-name="quote">tox-ontopic</text:span>:</text:p>
+   <text:p text:style-name="P162">And an hour later, <text:span text:style-name="T125">speaking about #</text:span><text:span text:style-name="quote">tox-ontopic</text:span>:</text:p>
    <table:table table:name="Table13" table:style-name="Table13">
     <table:table-column table:style-name="Table13.A"/>
     <table:table-row>
@@ -4682,15 +4693,15 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P143">To this day (2015-04-23) <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T98">tox-ontopic</text:span></text:span> exists. <text:span text:style-name="T119">Some people</text:span><text:span text:style-name="T33"> </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stqism</text:span></text:span><text:span text:style-name="T128"> could argue that it was just a joke, but then a question arises why he would still try to make jokes during a serious, important conversation, </text:span><text:span text:style-name="T21">after</text:span><text:span text:style-name="T29"> being told that his </text:span><text:span text:style-name="T30">sense of humour doesn&apos;t work over IRC</text:span><text:span text:style-name="T29">…</text:span></text:p>
+   <text:p text:style-name="P143">To this day (2015-04-23) <text:span text:style-name="quote">#</text:span><text:span text:style-name="quote"><text:span text:style-name="T99">tox-ontopic</text:span></text:span> exists. <text:span text:style-name="T121">Some people</text:span><text:span text:style-name="T33"> </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stq</text:span></text:span><text:span text:style-name="T130"> could argue that it was just a joke, but then a question arises why he would still try to make jokes during a serious, important conversation, </text:span><text:span text:style-name="T21">after</text:span><text:span text:style-name="T29"> being told that his </text:span><text:span text:style-name="T30">sense of humour doesn&apos;t work over IRC</text:span><text:span text:style-name="T29">…</text:span></text:p>
    <text:p text:style-name="P108"/>
-   <text:p text:style-name="P101">As for the rest of things that have been said, just read whole log, since it&apos;s not really possible to split it well into smaller sections, <text:span text:style-name="T120">or cut out content that would be irrelevant.</text:span></text:p>
+   <text:p text:style-name="P101">As for the rest of things that have been said, just read whole log, since it&apos;s not really possible to split it well into smaller sections, <text:span text:style-name="T122">or cut out content that would be irrelevant.</text:span></text:p>
    <text:p text:style-name="P109"/>
-   <text:p text:style-name="P110"><text:span text:style-name="T122">At the time (2015-02-16) things seemed to be improving, and I was informed that I got unbanned from </text:span><text:span text:style-name="quote"><text:span text:style-name="T98">#tox-ontopic</text:span></text:span><text:span text:style-name="T121">. On</text:span> 2015-02-20 <text:span text:style-name="T121">I have re-joined channel.</text:span></text:p>
-   <text:p text:style-name="P111"><text:soft-page-break/>From that time <text:span text:style-name="quote">stqism</text:span> ban<text:span text:style-name="T125">ned</text:span> me several times <text:span text:style-name="T125">in</text:span> #<text:span text:style-name="quote">tox-ontopic</text:span>, <text:span text:style-name="T124">and</text:span> as I see it, every time giving some bullshit <text:span text:style-name="T124">justification or none at all</text:span>. <text:span text:style-name="T124">The only reason why I could continue to be in that channel was due to nice people who pressured </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T124"> into unbanning me. </text:span></text:p>
-   <text:p text:style-name="P112">Similar thing happened on 2015-04-17, where <text:span text:style-name="quote">stqism</text:span> banned me again. <text:span text:style-name="T126">Since I had no way of casual communication with people about things that may or may not be related to Tox in a channel not controlled by </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T126">, I have thought what could be done.</text:span></text:p>
-   <text:p text:style-name="P113">When <text:span text:style-name="quote">#tox-ontopic</text:span> was too poisonous due to <text:span text:style-name="quote">stqism</text:span> controlling it, <text:span text:style-name="quote">irungentoo</text:span> created <text:span text:style-name="quote">#tox-real-ontopic</text:span>, which was later on used as a channel with which Tox groupchat was synchronised, since <text:span text:style-name="quote">#tox-ontopic</text:span> was no longer an option for it. <text:span text:style-name="T127">At some point, syncing groupchat with IRC stopped, and activity in </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T127"> stalled. I have wondered whether I could use it, since restructuring existing channel from &quot;syncing&quot; into an &quot;offtopic not controlled by </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T127">&quot; was much easier than creating brand new one, especially since it was not an active channel.</text:span></text:p>
-   <text:p text:style-name="P133">Thus I&apos;ve asked <text:span text:style-name="quote">irungentoo</text:span> whether I could <text:span text:style-name="T128">change things in </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T128"> to:</text:span></text:p>
+   <text:p text:style-name="P110"><text:span text:style-name="T124">At the time (2015-02-16) things seemed to be improving, and I was informed that I got unbanned from </text:span><text:span text:style-name="quote"><text:span text:style-name="T99">#tox-ontopic</text:span></text:span><text:span text:style-name="T123">. On</text:span> 2015-02-20 <text:span text:style-name="T123">I have re-joined channel.</text:span></text:p>
+   <text:p text:style-name="P111"><text:soft-page-break/>From that time <text:span text:style-name="quote">stq</text:span> ban<text:span text:style-name="T127">ned</text:span> me several times <text:span text:style-name="T127">in</text:span> #<text:span text:style-name="quote">tox-ontopic</text:span>, <text:span text:style-name="T126">and</text:span> as I see it, every time giving some bullshit <text:span text:style-name="T126">justification or none at all</text:span>. <text:span text:style-name="T126">The only reason why I could continue to be in that channel was due to nice people who pressured </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T126"> into unbanning me. </text:span></text:p>
+   <text:p text:style-name="P112">Similar thing happened on 2015-04-17, where <text:span text:style-name="quote">stq</text:span> banned me again. <text:span text:style-name="T128">Since I had no way of casual communication with people about things that may or may not be related to </text:span><text:span text:style-name="T114">Tox</text:span><text:span text:style-name="T128"> in a channel not controlled by </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T128">, I have thought what could be done.</text:span></text:p>
+   <text:p text:style-name="P113">When <text:span text:style-name="quote">#tox-ontopic</text:span> was too poisonous due to <text:span text:style-name="quote">stqism</text:span> controlling it, <text:span text:style-name="quote">irungentoo</text:span> created <text:span text:style-name="quote">#tox-real-ontopic</text:span>, which was later on used as a channel with which <text:span text:style-name="T99">Tox</text:span> groupchat was synchronised, since <text:span text:style-name="quote">#tox-ontopic</text:span> was no longer an option for it. <text:span text:style-name="T129">At some point, syncing groupchat with IRC stopped, and activity in </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T129"> stalled. I have wondered whether I could use it, since restructuring existing channel from &quot;syncing&quot; into an &quot;offtopic not controlled by </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T129">&quot; was much easier than creating brand new one, especially since it was not an active channel.</text:span></text:p>
+   <text:p text:style-name="P133">Thus I&apos;ve asked <text:span text:style-name="quote">irungentoo</text:span> whether I could <text:span text:style-name="T130">change things in </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T130"> to:</text:span></text:p>
    <table:table table:name="Table14" table:style-name="Table14">
     <table:table-column table:style-name="Table14.A"/>
     <table:table-row>
@@ -4736,14 +4747,14 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table15.A2" office:value-type="string">
-      <text:p text:style-name="P21">2015-0<text:span text:style-name="T129">4-21</text:span>, IRC, #tox-<text:span text:style-name="T129">real-ontopic</text:span> @ freenode</text:p>
+      <text:p text:style-name="P21">2015-0<text:span text:style-name="T131">4-21</text:span>, IRC, #tox-<text:span text:style-name="T131">real-ontopic</text:span> @ freenode</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P145">Effectively, I&apos;ve used proposed <text:span text:style-name="T130">changes as rules for </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T130">.</text:span></text:p>
+   <text:p text:style-name="P145">Effectively, I&apos;ve used proposed <text:span text:style-name="T132">changes as rules for </text:span><text:span text:style-name="quote">#tox-real-ontopic</text:span><text:span text:style-name="T132">.</text:span></text:p>
    <text:p text:style-name="P108"/>
-   <text:p text:style-name="P114">I think that <text:span text:style-name="quote">stqism</text:span> didn&apos;t like <text:span text:style-name="T131">what I was doing, and he wanted to spread some lies about why I&apos;m doing what I&apos;m doing, and reasons why I was banned from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T131">. To achieve that, he created an article on official </text:span><text:span text:style-name="T105">Tox</text:span><text:span text:style-name="T131"> wiki, and after I have pointed out few out of many things that were lies, he quickly deleted it, to keep it only in gist.</text:span></text:p>
-   <text:p text:style-name="P134">Screenshot of <text:span text:style-name="T132">&quot;Recent changes&quot;</text:span> page from official Tox wiki, showing deleted page <text:span text:style-name="quote">Tox-ontopic</text:span>:</text:p>
+   <text:p text:style-name="P114">I think that <text:span text:style-name="quote">stq</text:span> didn&apos;t like <text:span text:style-name="T133">what I was doing, and he wanted to spread some lies about why I&apos;m doing what I&apos;m doing, and reasons why I was banned from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T133">. To achieve that, he created an article on official </text:span><text:span text:style-name="T106">Tox</text:span><text:span text:style-name="T133"> wiki, and after I have pointed out few out of many things that were lies, he quickly deleted it, to keep it only in gist.</text:span></text:p>
+   <text:p text:style-name="P134">Screenshot of <text:span text:style-name="T134">&quot;Recent changes&quot;</text:span> page from official <text:span text:style-name="T99">Tox</text:span> wiki, showing deleted page <text:span text:style-name="quote">Tox-ontopic</text:span>:</text:p>
    <table:table table:name="Table16" table:style-name="Table16">
     <table:table-column table:style-name="Table16.A"/>
     <table:table-row>
@@ -6893,17 +6904,17 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table16.A2" office:value-type="string">
-      <text:p text:style-name="P11">2015-04-<text:span text:style-name="T132">21</text:span>, Tox <text:span text:style-name="T70">Wiki: https://wiki.tox.im/Special:RecentChanges</text:span></text:p>
+      <text:p text:style-name="P11">2015-04-<text:span text:style-name="T134">21</text:span>, Tox <text:span text:style-name="T71">Wiki: https://wiki.tox.im/Special:RecentChanges</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table16.A3" office:value-type="string">
-      <text:p text:style-name="P37">To open outside of LibreOffice: Righ<text:span text:style-name="T77">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
+      <text:p text:style-name="P37">To open outside of LibreOffice: Righ<text:span text:style-name="T78">t</text:span>-click on image → Save graphic → save as file.png → open file.png with your image browser</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="P115"/>
-   <text:p text:style-name="P102">Since article is rather long, I&apos;m commenting only on parts that are simply lies. Whole article in its initial form, and after modification when it was already a gist is in <text:span text:style-name="T59">background</text:span> directory, along with <text:span text:style-name="T133">difference between those. In quoted text, I&apos;ve stripped formatting to ease reading.</text:span></text:p>
+   <text:p text:style-name="P102">Since article is rather long, I&apos;m commenting only on parts that are simply lies. Whole article in its initial form, and after modification when it was already a gist is in <text:span text:style-name="T60">background</text:span> directory, along with <text:span text:style-name="T135">difference between those. In quoted text, I&apos;ve stripped formatting to ease reading.</text:span></text:p>
    <text:p text:style-name="P116"/>
    <table:table table:name="Table17" table:style-name="Table17">
     <table:table-column table:style-name="Table17.A"/>
@@ -6942,41 +6953,41 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P118">Channel doesn&apos;t have any rules set in stone per se, except for the unwritten one that <text:span text:style-name="quote">stqism</text:span> does there what he wants to, <text:span text:style-name="T135">without really caring about what other people think about it</text:span>.</text:p>
-   <text:list xml:id="list517109997827471001" text:style-name="L5">
+   <text:p text:style-name="P118">Channel doesn&apos;t have any rules set in stone per se, except for the unwritten one that <text:span text:style-name="quote">stqism</text:span> does there what he wants to, <text:span text:style-name="T137">without really caring about what other people think about it</text:span>.</text:p>
+   <text:list xml:id="list8026212498685749125" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P175"><text:span text:style-name="T134">&quot;</text:span><text:span text:style-name="T23">No logging</text:span><text:span text:style-name="T134">&quot; – </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T134">&apos;s own bot does logging. Bot had few different names like </text:span><text:span text:style-name="quote">THE_KGB</text:span><text:span text:style-name="T134">, </text:span><text:span text:style-name="quote">THE_CIA</text:span><text:span text:style-name="T134">, </text:span><text:span text:style-name="quote">THE_FSB</text:span><text:span text:style-name="T134">, current (2015-04-23) name is </text:span><text:span text:style-name="quote">Tox_syncbot</text:span><text:span text:style-name="T134">. Aside from himself violating this &quot;rule&quot;, it was made up by him after I was banned by him on 2015-04-17, after I&apos;ve asked whether I&apos;m free to use logs from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T134"> when he accused me of lying. There never was a rule to not have logs – the only &quot;requirement&quot; was an unspoken rule to not release logs outside of </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T134">, to which so far (2015-04-23) I have conformed to.</text:span></text:p>
+     <text:p text:style-name="P176"><text:span text:style-name="T136">&quot;</text:span><text:span text:style-name="T23">No logging</text:span><text:span text:style-name="T136">&quot; – </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T136">&apos;s own bot does logging. Bot had few different names like </text:span><text:span text:style-name="quote">THE_KGB</text:span><text:span text:style-name="T136">, </text:span><text:span text:style-name="quote">THE_CIA</text:span><text:span text:style-name="T136">, </text:span><text:span text:style-name="quote">THE_FSB</text:span><text:span text:style-name="T136">, current (2015-04-23) name is </text:span><text:span text:style-name="quote">Tox_syncbot</text:span><text:span text:style-name="T136">. Aside from himself violating this &quot;rule&quot;, it was made up by him after I was banned by him on 2015-04-17, after I&apos;ve asked whether I&apos;m free to use logs from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T136"> when he accused me of lying. There never was a rule to not have logs – the only &quot;requirement&quot; was an unspoken rule to not release logs outside of </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T136">, to which so far (2015-04-23) I have conformed to.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P176">&quot;<text:span text:style-name="T19">No taking anything said as fact</text:span>&quot; – that&apos;s an interesting one. <text:span text:style-name="T136">Sadly, my experiences contradict it</text:span>:</text:p>
+     <text:p text:style-name="P177">&quot;<text:span text:style-name="T19">No taking anything said as fact</text:span>&quot; – that&apos;s an interesting one. <text:span text:style-name="T138">Sadly, my experiences contradict it</text:span>:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P176">I have been kicked out of <text:span text:style-name="quote">#tox-ontopic</text:span> <text:span text:style-name="T136">for complimenting </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T136">&apos;s shitposting skills</text:span></text:p>
+       <text:p text:style-name="P177">I have been kicked out of <text:span text:style-name="quote">#tox-ontopic</text:span> <text:span text:style-name="T138">for complimenting </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T138">&apos;s shitposting skills</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P177">I have been banned from <text:span text:style-name="quote">#tox-ontopic</text:span> for not taking seriously <text:span text:style-name="quote">stqism</text:span>&apos;s support site, <text:span text:style-name="T137">about which conversation was about</text:span></text:p>
+       <text:p text:style-name="P178">I have been banned from <text:span text:style-name="quote">#tox-ontopic</text:span> for not taking seriously <text:span text:style-name="quote">stq</text:span>&apos;s support site, <text:span text:style-name="T139">about which conversation was about</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P178"><text:span text:style-name="T138">&quot;</text:span><text:span text:style-name="T22">No pasting text here to other channels or sites</text:span><text:span text:style-name="T138">&quot; – </text:span>I have pasted text from <text:span text:style-name="quote">#tox-ontopic</text:span> on external services like GitHub Gist. <text:span text:style-name="T138">Well, I did it to share logs from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T138"> with other people from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T138">, who were not present at time when relevant to them conversation has happened. Note that this also goes against &quot;No logging&quot; &apos;rule&apos;. With that in mind, it&apos;s interesting how I was never banned or in any other way penalized for it…</text:span></text:p>
+     <text:p text:style-name="P179"><text:span text:style-name="T140">&quot;</text:span><text:span text:style-name="T22">No pasting text here to other channels or sites</text:span><text:span text:style-name="T140">&quot; – </text:span>I have pasted text from <text:span text:style-name="quote">#tox-ontopic</text:span> on external services like GitHub Gist. <text:span text:style-name="T140">Well, I did it to share logs from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T140"> with other people from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T140">, who were not present at time when relevant to them conversation has happened. Note that this also goes against &quot;No logging&quot; &apos;rule&apos;. With that in mind, it&apos;s interesting how I was never banned or in any other way penalized for it…</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P179">&quot;<text:span text:style-name="T27">No dissent</text:span><text:span text:style-name="T34">&quot; – i.e. don&apos;t oppose </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stqism</text:span></text:span><text:span text:style-name="T34"> in any way. I have put </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stqism</text:span></text:span><text:span text:style-name="T34"> on ignore in my IRC client, so that I wouldn&apos;t be able to disagree with him, and I have announced that, so that he would know that I&apos;m not able to disagree with him. I got banned for that.</text:span></text:p>
+     <text:p text:style-name="P180">&quot;<text:span text:style-name="T27">No dissent</text:span><text:span text:style-name="T34">&quot; – i.e. don&apos;t oppose </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stq</text:span></text:span><text:span text:style-name="T34"> in any way. I have put </text:span><text:span text:style-name="quote"><text:span text:style-name="T32">stq</text:span></text:span><text:span text:style-name="T34"> on ignore in my IRC client, so that I wouldn&apos;t be able to disagree with him, and I have announced that, so that he would know that I&apos;m not able to disagree with him. I got banned for that.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P180">&quot;<text:span text:style-name="T24">No discussing </text:span><text:span text:style-name="quote"><text:span text:style-name="T24">#tox-ontopic</text:span></text:span><text:span text:style-name="T24"> out of </text:span><text:span text:style-name="quote"><text:span text:style-name="T24">#tox-ontopic</text:span></text:span>&quot; – I honestly have no idea how that&apos;s doable, given that:</text:p>
+     <text:p text:style-name="P181">&quot;<text:span text:style-name="T24">No discussing </text:span><text:span text:style-name="quote"><text:span text:style-name="T24">#tox-ontopic</text:span></text:span><text:span text:style-name="T24"> out of </text:span><text:span text:style-name="quote"><text:span text:style-name="T24">#tox-ontopic</text:span></text:span>&quot; – I honestly have no idea how that&apos;s doable, given that:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P180">I have been banned from <text:span text:style-name="quote">#tox-ontopic</text:span></text:p>
+       <text:p text:style-name="P181">I have been banned from <text:span text:style-name="quote">#tox-ontopic</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P180"><text:span text:style-name="quote">stqism</text:span> simply ignored me when I have tried to talk to him via private means</text:p>
+       <text:p text:style-name="P181"><text:span text:style-name="quote">stq</text:span> simply ignored me when I have tried to talk to him via private means</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P180"><text:soft-page-break/>&quot;Any other rules made by operators on the fly&quot; – another &apos;rule&apos; that he recently have made up. I.e. <text:span text:style-name="T139">there have been no such rule, and it still does not exist.</text:span></text:p>
+     <text:p text:style-name="P181"><text:soft-page-break/>&quot;Any other rules made by operators on the fly&quot; – another &apos;rule&apos; that he recently have made up. I.e. <text:span text:style-name="T141">there have been no such rule, and it still does not exist.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P108"/>
@@ -6994,7 +7005,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P152">Well, I have written earlier what were initial criteria to enter <text:span text:style-name="quote">#tox-ontopic</text:span> (there were none), how it changed (&quot;shitposters&quot; were redirected there), to situation where it&apos;s basically <text:span text:style-name="quote">stqism</text:span>&apos;s call whether someone is welcomed there or not. He himself proves it quite nicely, <text:span text:style-name="T140">when he invites someone whom he kicked out of channel earlier, just to (I think that it was his intention) try to annoy me, after I was banned from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T140">:</text:span></text:p>
+   <text:p text:style-name="P152">Well, I have written earlier what were initial criteria to enter <text:span text:style-name="quote">#tox-ontopic</text:span> (there were none), how it changed (&quot;shitposters&quot; were redirected there), to situation where it&apos;s basically <text:span text:style-name="quote">stq</text:span>&apos;s call whether someone is welcomed there or not. He himself proves it quite nicely, <text:span text:style-name="T142">when he invites someone whom he kicked out of channel earlier, just to (I think that it was his intention) try to annoy me, after I was banned from </text:span><text:span text:style-name="quote">#tox-ontopic</text:span><text:span text:style-name="T142">:</text:span></text:p>
    <table:table table:name="Table20" table:style-name="Table20">
     <table:table-column table:style-name="Table20.A"/>
     <table:table-row>
@@ -7032,7 +7043,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table20.A2" office:value-type="string">
-      <text:p text:style-name="P22">2015-0<text:span text:style-name="T129">4-21</text:span>, IRC, #tox-<text:span text:style-name="T141">offtopic</text:span> @ freenode</text:p>
+      <text:p text:style-name="P22">2015-0<text:span text:style-name="T131">4-21</text:span>, IRC, #tox-<text:span text:style-name="T143">offtopic</text:span> @ freenode</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -7051,7 +7062,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P120">The actual process is to conform to <text:span text:style-name="quote">stqism</text:span>. And ask (sometimes beg) him for <text:span text:style-name="T141">an OP</text:span>.</text:p>
+   <text:p text:style-name="P120">The actual process is to conform to <text:span text:style-name="quote">stq</text:span>. And ask (sometimes beg) him for <text:span text:style-name="T143">an OP</text:span>.</text:p>
    <text:p text:style-name="P108"/>
    <table:table table:name="Table22" table:style-name="Table22">
     <table:table-column table:style-name="Table22.A"/>
@@ -7066,7 +7077,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P121">What it means, is that you actually can&apos;t do anything – <text:span text:style-name="T143">you don&apos;t have any real control</text:span>. When <text:soft-page-break/><text:span text:style-name="quote">stqism</text:span> wants to ban someone, he uses <text:span text:style-name="T98">ChanServ</text:span>, and thus other operators <text:span text:style-name="T142">have no real way of changing anything in that regard.</text:span></text:p>
+   <text:p text:style-name="P121">What it means, is that you actually can&apos;t do anything – <text:span text:style-name="T145">you don&apos;t have any real control</text:span>. When <text:span text:style-name="quote">stq</text:span> <text:soft-page-break/>wants to ban someone, he uses <text:span text:style-name="T99">ChanServ</text:span>, and thus other operators <text:span text:style-name="T144">have no real way of changing anything in that regard.</text:span></text:p>
    <text:p text:style-name="P108"/>
    <table:table table:name="Table23" table:style-name="Table23">
     <table:table-column table:style-name="Table23.A"/>
@@ -7081,7 +7092,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P122">This is the kind of environment that <text:span text:style-name="quote">stqism</text:span> encourages. If you conform to <text:span text:style-name="quote">stqism</text:span>, you can do anything he allows you to do, <text:span text:style-name="T143">after all, banning other people (even if it&apos;s for a short time) is such a nice way to get along. Unless you are </text:span><text:span text:style-name="quote">stqism</text:span><text:span text:style-name="T143">, then you just ban people, and other people have to pressure you to unban banned people after few days…</text:span></text:p>
+   <text:p text:style-name="P122">This is the kind of environment that <text:span text:style-name="quote">stq</text:span> encourages. If you conform to <text:span text:style-name="quote">stq</text:span>, you can do anything he allows you to do. <text:span text:style-name="T152">After all, banning other people (even if it&apos;s for a short time) is such a nice way to get along. Unless you are </text:span><text:span text:style-name="quote">stq</text:span><text:span text:style-name="T145">, then you just ban people, and other people have to pressure you to unban banned people after few days…</text:span></text:p>
    <text:p text:style-name="P108"/>
    <table:table table:name="Table24" table:style-name="Table24">
     <table:table-column table:style-name="Table24.A"/>
@@ -7096,9 +7107,10 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P123">Actually, all of it is ~acceptable in <text:span text:style-name="quote">#tox-ontopic</text:span>, as long as you&apos;re fine with <text:span text:style-name="quote">stqism</text:span>. If you&apos;re not, expect being banned.</text:p>
+   <text:p text:style-name="P123">Actually, all of it is ~acceptable in <text:span text:style-name="quote">#tox-ontopic</text:span>, as long as you&apos;re fine with <text:span text:style-name="quote">stq</text:span>. If you&apos;re not, expect being banned.</text:p>
    <text:p text:style-name="P108"/>
-   <text:p text:style-name="P123">There&apos;s also nice list of &quot;banned for life&quot;, on which I&apos;m the only real person promptly listed (the other is a bot that was syncing <text:span text:style-name="quote">#tox-ontopic</text:span> to <text:span text:style-name="T98">Tox</text:span> <text:span text:style-name="T98">groupchat</text:span>). Well, all I gotta say is that afterlife does not feel differently from life, since I&apos;ve been told that on 2015-04-22 I have been unbanned from <text:span text:style-name="quote">#tox-ontopic</text:span>…</text:p>
+   <text:p text:style-name="P123">There&apos;s also nice list of &quot;banned for life&quot;, on which I&apos;m the only real person promptly listed (the other is a bot that was syncing <text:span text:style-name="quote">#tox-ontopic</text:span> to <text:span text:style-name="T99">Tox</text:span> <text:span text:style-name="T99">groupchat</text:span>). Well, all I gotta say is that afterlife does not feel differently from life, since I&apos;ve been told that on 2015-04-22 I have been unbanned from <text:span text:style-name="quote">#tox-ontopic</text:span>…</text:p>
+   <text:p text:style-name="P171">UPDATE <text:span text:style-name="T4">(2015-04-24): I was banned by </text:span><text:span text:style-name="quote"><text:span text:style-name="T4">stq</text:span></text:span><text:span text:style-name="T4"> in </text:span><text:span text:style-name="quote"><text:span text:style-name="T4">#tox-ontopic</text:span></text:span><text:span text:style-name="T4"> again after releasing information about this channel.</text:span></text:p>
    <text:p text:style-name="P108"/>
    <text:p text:style-name="P141">There is also added later-on part &quot;Transparency&quot;:</text:p>
    <table:table table:name="Table25" table:style-name="Table25">
@@ -7114,18 +7126,18 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P124">Which is no less than bullshit. Anyone is free to ask about <text:span text:style-name="quote">#tox-ontopic</text:span>, and people can&apos;t deny that it exists. The only person in &quot;we&quot; is <text:span text:style-name="quote">stqism</text:span>.</text:p>
+   <text:p text:style-name="P124">Which is no less than bullshit. Anyone is free to ask about <text:span text:style-name="quote">#tox-ontopic</text:span>, and people can&apos;t deny that it exists. The only person in &quot;we&quot; is <text:span text:style-name="quote">stq</text:span>.</text:p>
    <text:p text:style-name="P124"/>
-   <text:p text:style-name="P164"><text:span text:style-name="T144">If you wonder why am I even touching something that was described in gist as “</text:span><text:span text:style-name="quote">Disclaimer, this document was wrritten humoriously</text:span><text:span text:style-name="T145">”:</text:span></text:p>
-   <text:list xml:id="list714920604315733075" text:style-name="L6">
+   <text:p text:style-name="P164"><text:span text:style-name="T146">If you wonder why am I even touching something that was described in gist as “</text:span><text:span text:style-name="quote">Disclaimer, this document was wrritten humoriously</text:span><text:span text:style-name="T147">”:</text:span></text:p>
+   <text:list xml:id="list3104595418159809412" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P181">If it&apos;s humorous, why it&apos;s not funny at all by itself?</text:p>
+     <text:p text:style-name="P182">If it&apos;s humorous, why it&apos;s not funny at all by itself?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P188">Why, just why would anyone write a humorous <text:span text:style-name="T14">documen</text:span><text:span text:style-name="T18">t</text:span><text:span text:style-name="T31">, long after April 1</text:span><text:span text:style-name="T147">st</text:span><text:span text:style-name="T31"> ended?</text:span></text:p>
+     <text:p text:style-name="P189">Why, just why would anyone write a humorous <text:span text:style-name="T14">documen</text:span><text:span text:style-name="T18">t</text:span><text:span text:style-name="T31">, long after April 1</text:span><text:span text:style-name="T149">st</text:span><text:span text:style-name="T31"> ended?</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P124">Not to mention that it was removed from official wiki shortly after I <text:span text:style-name="T146">have</text:span> pointed out that it contains lies.</text:p>
+   <text:p text:style-name="P124">Not to mention that it was removed from official wiki shortly after I <text:span text:style-name="T148">have</text:span> pointed out that it contains lies.</text:p>
   </office:text>
  </office:body>
 </office:document>

@@ -36,10 +36,10 @@ Contributions in any form are welcome ``;-)``
 * Contributions should not contain any form of abusing language.
 * Any personal details will **not** be included (some argue that IP addresses are personal info, so they should be stripped).
 * Nicks are not considered personal details.
-* When referring to ``NikolaiToryzin`` / ``AlexStraunoff`` / ``Second in charge of Tox`` / ``stqism`` / ``sqt`` / ``Sqt`` / ``coup_de_shitlord`` / ``killallpolish`` it is advisable to use ``stqism`` for consistency purposes.
-* When including information about ``stqism``'s actions, provide:
+* When referring to ``NikolaiToryzin`` / ``AlexStraunoff`` / ``Second in charge of Tox`` / ``stqism`` / ``sqt`` / ``Sqt`` / ``coup_de_shitlord`` / ``killallpolish`` it is advisable to use ``stq`` for consistency purposes.
+* When including information about ``stq``'s actions, provide:
   - information about background
-  - quote of what ``stqism`` wrote (supply it in clear text, if there is need to keep it visually consistent, make a screenshot of relevant part and embed it in document below clear text (use tables for any quotes))
+  - quote of what ``stq`` wrote (supply it in clear text, if there is need to keep it visually consistent, make a screenshot of relevant part and embed it in document below clear text (use tables for any quotes))
   - date of when and where that did happen
   - if applicable, link to the place where it did happen
   - if it is not possible to supply a link due to circumstances, include all relevant information (like IRC log) in directory ``background/_date_in_ISO-8601_/short_descriptive_name.txt`` → e.g. ``background/2015-04-01/insisting on transifex.txt`` ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
