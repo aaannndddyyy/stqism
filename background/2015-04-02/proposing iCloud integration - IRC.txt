@@ -1,0 +1,53 @@
+2015-04-02, IRC, #tox-dev @ freenode
+
+
+[23:53:02] <NikolaiToryzin> This is going to rub people oddly
+[23:53:24] <NikolaiToryzin> But I think we should look in to using existing services built in to mainstream OSes to sync encrypted Tox profiles
+[23:53:25] <irungentoo> for linux we could just add toxcore support to one of the multi protocol IM software
+[23:53:55] <ro> libpurple plugin exists
+[23:53:56] <NikolaiToryzin> Like Windows has one drive that apps can access and always exists on the device they are using
+[23:54:22] <ro> NikolaiToryzin, is that something that's done on those platforms already? Keeping configs the same across devices?
+[23:54:23] <iphy> so we can take the libpurple plugin and make it an official effort
+[23:54:26] <NikolaiToryzin> If I picked up a new device and signed in to my Microsoft account and installed Tox I'd be instantly logged in to my profile
+[23:54:34] <ro> iphy, http://tox.dhs.org/
+[23:54:51] <NikolaiToryzin> ro: Yes, Windows and OS X have cloud syncing systems built in
+[23:54:54] <iphy> ro: is the person who owns this here?
+[23:55:01] <ro> iphy, don't know
+[23:55:13] <iphy> jin-eld
+[23:55:44] <ro> NikolaiToryzin, is it just OEM-owned Dropbox or is it already used for syncing account and program configuration files?
+[23:55:57] <NikolaiToryzin> ro: I wiped my Macbook and as I have textual sync my irc servers in iCloud, when I reinstalled it it automatically had everything added and good to go
+[23:56:01] <urras> Jin|away: iphy ^
+[23:56:12] <iphy> ah
+[23:56:14] <NikolaiToryzin> ro: A bit of both really.
+[23:56:21] <irungentoo> what does ubuntu use?
+[23:56:24] <irungentoo> pidgin?
+[23:56:34] <NikolaiToryzin> Windows uses it heavily to sync settings and wallpapers and stuff
+[23:56:36] <iphy> empathy with libpurple
+[23:56:55] <iphy> I haven't used it, I don't know how good it is
+[23:56:58] <NikolaiToryzin> Whereas on OS X you can sync keychains and save stuff directly in iCloud
+[23:57:11] <iphy> NikolaiToryzin: yeah, that's a slippery slope
+[23:57:13] <ro> Giving your private keys to icloud/drive is very stupid :/
+[23:57:20] <iphy> ro: encrypted
+[23:57:25] <NikolaiToryzin> iphy: Hence why making it optional, and encrypted
+[23:57:36] <ro> but if they didn't they'd just save the password used to unlock it in keychain anyway
+[23:57:40] <NikolaiToryzin> For people who want it it's horribly helpful
+[23:57:54] <NikolaiToryzin> ro: Doesn't work like that
+[23:58:10] <NikolaiToryzin> The keychain on OS X isn't user managed like that
+[23:58:28] <NikolaiToryzin> It's used to store passwords you marked save, wifi creds, etc
+[23:58:37] <NikolaiToryzin> Passwords in safari*
+[23:58:41] <irungentoo> apple has a copies of your keys though
+[23:59:03] <iphy> you could encrypt it when sending it to the cloud and keep it decrypted on the device, or encrypt it differently on the device
+[23:59:04] <NikolaiToryzin> irungentoo: The keychain itself is open source and syncing it with iCloud is optional
+[23:59:18] <iphy> I'm not sure this is the right path to go, though
+[23:59:38] <irungentoo> apple can easily get your keys if they want them
+[23:59:40] <iphy> but yeah, something to think about
+[23:59:45] <irungentoo> or maybe they already have them
+[23:59:51] <iphy> apply can easily get anything from your device
+[00:00:24] <iphy> apple
+[00:00:40] <iphy> but we can't do anything about that right now
+[00:00:52] <iphy> we can't design a system to prevent that
+[00:01:13] <ro> I agree that platform-native clients should integrate with platform services like that
+[00:01:35] <ro> Syncing your encrypted profile
+[00:02:26] <iphy> but I don't think we should focus on that right now
+[00:02:32] <iphy> there are more important tasks
+[00:03:00] <iphy> Objective: "Create a uniform and reliable Tox IM experience for users of all our supported platforms"

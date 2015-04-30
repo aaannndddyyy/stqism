@@ -1,0 +1,71 @@
+2015-04-27, IRC, #tox @ freenode
+
+[05:13:27] <Cheesecakes-> Is there any reason to use utox over qtox or vice versa?
+[05:15:24] <nurupo> Cheesecakes-: https://wiki.tox.im/Clients#Features
+[05:16:07] <Crazyotter> Okay, I just went and grabbed qTox. My friend apparently redownloaded the client today. I'm still having issues with him getting huge files sent (that I'm not sending) and me getting repeated messages with ASCII characters
+[05:16:35] <Sqt> What OS?
+[05:16:55] <nurupo> clients were updated about 5 hours ago or so, and they are not compatible with older ones
+[05:16:58] <Cheesecakes-> nurupo, is there a major difference in stability between the two?
+[05:17:39] <Sqt> Crazyotter, ^^^
+[05:17:45] <nurupo> Cheesecakes-: to me they are both equally unstable, heh. try both and see which you like the most
+[05:17:56] <Crazyotter> I'm using Windows 8.1. Just asked him what he's using
+[05:19:01] <nurupo> Sqt: isn't uTox more tested on windows than qTox is?
+[05:19:54] <Sqt> nurupo, I can't objectively answer that with quantitative data.
+[05:21:22] <Crazyotter> Sqt: My friend is using OSX
+[05:22:25] <stal> he should try uTox-cocoa
+[05:22:38] <Sqt> Crazyotter, Updates for that aren't out yet
+[05:22:45] <Crazyotter> Ahhhh
+[05:22:52] <Crazyotter> I'll let him know. Thanks!
+[05:23:18] <Sqt> When the post comes put tomorrow they'll be
+[05:23:48] <nurupo> blog post you mean?
+[05:25:34] <Sqt> Crazyotter, I made some major changes that will make his data file disappear if he just installed it over, so I'm going to explain how to reimport it in the post
+[05:25:53] <Sqt> Bit of a trial, but this is a major security improvement
+[05:26:38] <Crazyotter> Awesome, more security is always nice
+[05:27:03] <Sqt> The problem is it no longer has access to your home directory so it can't read it :P
+[05:27:14] <stal> Sqt: don't do that
+[05:27:17] <stal> just add a sandbox exception for ~/.config/tox
+[05:28:00] <Cheesecakes-> is this also qtox dev ground zero?
+[05:28:36] <Sqt> stal, Your path is wrong but you've got a point
+[05:29:19] <Sqt> You actually mean ~/Library/Preferences/tox/
+[05:30:03] <stal> why did you use Preferences
+[05:30:11] <stal> toxic uses Application Support
+[05:30:34] <Sqt> We have exactly ~0 standardization rofl
+[05:32:12] <Crazyotter> Ha ha! If the coders can't figure it out, how could the people trying to defeat it do it!
+[05:32:22] <Crazyotter> :^)
+[05:32:47] <stal> we have 3 os x clients that use 3 different save paths
+[05:33:02] <Sqt> Crazyotter, No one bothered to write standardized paths for OS X after everyone argued for 3 months on LInux
+[05:33:03] <stal> it probably should be dealt with soon
+[05:33:18] <hexafluoride> no one unironically uses OS X
+[05:33:19] <Crazyotter> xD
+[05:33:36] <stal> i say Application Support since that's where every other app puts stuff
+[05:33:43] <Crazyotter> Security through obfuscation, I like it
+[05:33:45] <Sqt> I say a shared domain
+[05:34:04] <Sqt> I'd rather keep it all in sandboxes and a shared domain makes it sane-ish
+[05:34:38] <Sqt> Something like bloat in library
+[05:34:43] <stal> but muh toxic
+[05:34:59] <Sqt> <@nurupo>       Sqt: just make all clients store the data file in our nosql database server
+[05:35:01] <Sqt> Thanks nurupo
+[05:35:12] <Sqt> You can sandbox toxic too lmao
+[05:35:32] <Cheesecakes-> qtox needs cam selection like utox
+[05:35:37] <stal> what will the shared sandbox domain be called
+[05:35:41] <stal> "future.tox"
+[05:35:44] <Sqt> Cheesecakes-, It has that here.
+[05:35:50] <Sqt> stal, I renamed that lmao
+[05:35:51] <Cheesecakes-> where?
+[05:36:09] <Crazyotter> Or a way to select 'no' camera or mic. Sometimes I just wanna watch x3
+[05:36:22] <Cheesecakes-> I see mic and audio but not video
+[05:36:22] <stal> where are the working builds of new qtox
+[05:36:40] <Sqt> stal, I haven't pushed any yet
+[05:37:03] <stal> i'm not building from source because that's how the Bloat Incident of 2015
+[05:37:07] <stal> happened
+[05:38:19] <stal> i'll give anyone who fixes desktop capturing on uTox-cocoa 1 canadian dollar
+[05:38:33] <Sqt> Actually that's because cp -r is retarded and copies data and not attributes
+[05:39:02] <Sqt> stal, When I got it sandboxing it suddenly decided the camera was the desktop
+[05:39:18] <stal> that was a uTox bug
+[05:39:21] <stal> i fixed it an hour ago
+[05:39:26] <Sqt> lmao
+[05:39:51] <Sqt> We should just store everything on iCloud like I already do locally
+[05:40:29] <stal> not until utox encrypts profiles
+[05:40:32] <Sqt> The trick is the hardlink the path in the container the sandox uses to the secret iCloud drive folder
+[05:41:07] <Crazyotter> Anywho, Thanks for the help earlier! Keep up the good work!
+[05:41:32] <Sqt> ln doesn't hardlink directories so you have to actually write 3 lines of code
